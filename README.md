@@ -1,6 +1,6 @@
-# Bankdaten.de Bankstellenverzeichnis
+# Bankdaten.de Bankinstitute-Verzeichnis
 
-Offener, redaktionell aufbereiteter Datensatz deutscher Kreditinstitute auf Basis der amtlichen Bankleitzahlendatei der Deutschen Bundesbank. Gepflegt von [Bankdaten.de](https://www.bankdaten.de), einem unabhängigen Ratgeberportal zu Banken, Konten und Finanzprodukten.
+Offener, redaktionell aufbereiteter Datensatz deutscher Kreditinstitute. Gepflegt von [Bankdaten.de](https://www.bankdaten.de), einem unabhängigen Ratgeberportal zu Banken, Konten und Finanzprodukten.
 
 ## Inhaltsverzeichnis
 
