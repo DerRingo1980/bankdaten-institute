@@ -14,7 +14,6 @@ Offener, redaktionell aufbereiteter Datensatz deutscher Kreditinstitute. Gepfleg
 - [Aktualisierung](#aktualisierung)
 - [Häufige Fragen](#häufige-fragen)
 - [Verwendung](#verwendung)
-- [Quelle der Rohdaten](#quelle-der-rohdaten)
 
 ## Worum es geht
 
@@ -103,7 +102,3 @@ In unregelmäßigen Abständen, orientiert an der monatlichen Veröffentlichung 
 Die Daten stehen unter der [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) Lizenz zur freien Nutzung zur Verfügung (Details siehe Datei `LICENSE` im Repository-Root), Weiterverwendung mit Quellenangabe („Bankdaten.de“, verlinkt auf https://www.bankdaten.de) ist ausdrücklich erwünscht.
 
 Für redaktionell aufbereitete Einzelprofile der jeweiligen Institute (Konditionen, Einlagensicherung, Vor- und Nachteile) siehe die entsprechenden Ratgeberseiten auf [Bankdaten.de](https://www.bankdaten.de).
-
-## Quelle der Rohdaten
-
-Deutsche Bundesbank: Bankleitzahlen-Datei (BLZ-Verzeichnis), monatliche Veröffentlichung, https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/serviceangebot/bankleitzahlen
