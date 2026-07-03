@@ -1,0 +1,861 @@
+name;gruppe;kategorie;kurzname;blz;bic;plz;ort
+1822direkt (Geschäftsfeld der Frankfurter Sparkasse);Direktbank/Neobank;Direktbank;;50050222;HELADEF1822;60255;Frankfurt am Main
+C24 Bank;Direktbank/Neobank;Neobank;;50024024;DEFFDEFFXXX;60327;Frankfurt am Main
+Deutsche Kreditbank (DKB);Direktbank/Neobank;Direktbank;;12030000;BYLADEM1001;10117;Berlin
+ING-DiBa;Direktbank/Neobank;Direktbank;;50010517;INGDDEFFXXX;;Frankfurt am Main
+Klarna Bank, German Branch;Direktbank/Neobank;Neobank;;10010300;KLRNDEBEXXX;10115;Berlin
+N26 Bank;Direktbank/Neobank;Neobank;;10011001;NTSBDEB1XXX;10179;Berlin
+Openbank Deutschland;Direktbank/Neobank;Direktbank;;10033300;SCFBDE33XXX;41061;Mönchengladbach
+Revolut Bank, Zweigniederlassung Deutschland;Direktbank/Neobank;Neobank;;10010178;REVODEB2XXX;10117;Berlin
+Scalable Capital Bank;Direktbank/Neobank;Neobank;;70022424;SCABDEMMXXX;;München
+Trade Republic Bank;Direktbank/Neobank;Neobank;;10012345;TRBKDEBBXXX;10119;Berlin
+bunq Niederlassung Deutschland;Direktbank/Neobank;Neobank;;37019000;BUNQDE82XXX;50667;Köln
+comdirect (Geschäftsfeld der Commerzbank);Direktbank/Neobank;Direktbank;;20041111;COBADEHDXXX;25449;Quickborn
+norisbank;Direktbank/Neobank;Direktbank;;10077777;NORSDE51XXX;10625;Berlin
+BSK 1818 - Berliner Sparkasse;Sparkasse;;BSK 1818-Berliner Sparkasse;10050000;BELADEBEXXX;10889;Berlin
+Bordesholmer Sparkasse;Sparkasse;;Bordesholmer Sparkasse;21051275;NOLADE21BOR;24582;Bordesholm
+Frankfurter Sparkasse;Sparkasse;;Frankfurter Spk Frankfurt;50050201;HELADEF1822;60255;Frankfurt am Main
+Frankfurter Sparkasse GF 1822direkt;Sparkasse;;Frankfurter Spk 1822direkt;50050222;HELADEF1822;60255;Frankfurt am Main
+Förde Sparkasse;Sparkasse;;Förde Sparkasse;21050170;NOLADE21KIE;24103;Kiel
+Hamburger Sparkasse;Sparkasse;;Haspa Hamburg;20050550;HASPDEHHXXX;20354;Hamburg
+Herner Sparkasse;Sparkasse;;Herner Sparkasse;43250030;WELADED1HRN;44621;Herne
+Kasseler Sparkasse;Sparkasse;;Kasseler Sparkasse;52050353;HELADEF1KAS;34117;Kassel
+Kreis-Sparkasse Northeim;Sparkasse;;Kr Spk Northeim;26250001;NOLADE21NOM;37144;Northeim
+Mittelbrandenburgische Sparkasse in Potsdam;Sparkasse;;Mittelbrandenbg Sparkasse;16050000;WELADED1PMB;14459;Potsdam
+Müritz-Sparkasse;Sparkasse;;Müritz-Sparkasse Waren;15050100;NOLADE21WRN;17192;Waren (Müritz)
+Nassauische Sparkasse;Sparkasse;;Nass Spk Wiesbaden;51050015;NASSDE55XXX;65034;Wiesbaden
+Niederrheinische Sparkasse RheinLippe;Sparkasse;;NISPA;35650000;WELADED1WES;46466;Wesel
+Nord-Ostsee Sparkasse;Sparkasse;;Nord-Ostsee Spk Schleswig;21750000;NOLADE21NOS;24837;Schleswig
+Ostsächsische Sparkasse Dresden;Sparkasse;;Ostsächsische Spk Dresden;85050300;OSDDDE81XXX;01305;Dresden
+Rheinhessen Sparkasse;Sparkasse;;Rheinhessen Sparkasse;55350010;MALADE51WOR;55116;Mainz
+Rhön-Rennsteig-Sparkasse;Sparkasse;;Rhön-Rennsteig-Sparkasse;84050000;HELADEF1RRS;98617;Meiningen
+Sparkasse Aachen;Sparkasse;;Sparkasse Aachen;39050000;AACSDE33XXX;52059;Aachen
+Sparkasse Allgäu;Sparkasse;;Sparkasse Allgäu;73350000;BYLADEM1ALG;87435;Kempten (Allgäu)
+Sparkasse Altbayern;Sparkasse;;Spk Altbayern;72051210;BYLADEM1AIC;86551;Aichach
+Sparkasse Altenburger Land;Sparkasse;;Spk Altenburger Land;83050200;HELADEF1ALT;04581;Altenburg
+Sparkasse Altmark West;Sparkasse;;Spk Altmark West Salzwedel;81055555;NOLADE21SAW;29402;Salzwedel, Hansestadt
+Sparkasse Altötting-Mühldorf;Sparkasse;;Spk Altötting-Mühldorf;71151020;BYLADEM1MDF;84445;Mühldorf a. Inn
+Sparkasse Amberg-Sulzbach;Sparkasse;;Sparkasse Amberg-Sulzbach;75250000;BYLADEM1ABG;92206;Amberg
+Sparkasse Ansbach;Sparkasse;;Sparkasse Ansbach;76550000;BYLADEM1ANS;91509;Ansbach
+Sparkasse Arnstadt-Ilmenau;Sparkasse;;Sparkasse Arnstadt-Ilmenau;84051010;HELADEF1ILK;98685;Ilmenau
+Sparkasse Aschaffenburg Miltenberg;Sparkasse;;Spk AschaffenburgMiltenberg;79550000;BYLADEM1ASA;63739;Aschaffenburg
+Sparkasse Attendorn-Lennestadt-Kirchhundem;Sparkasse;;Spk Attend-Lennest-Kirchhdm;46251630;WELADED1ALK;57428;Attendorn
+Sparkasse Aurich-Norden;Sparkasse;;Spk Aurich-Norden;28350000;BRLADE21ANO;26603;Aurich
+Sparkasse Bad Hersfeld-Rotenburg;Sparkasse;;Spk Bad Hersfeld-Rotenburg;53250000;HELADEF1HER;36229;Bad Hersfeld
+Sparkasse Bad Kissingen;Sparkasse;;Spk Bad Kissingen;79351010;BYLADEM1KIS;97688;Bad Kissingen
+Sparkasse Bad Neustadt a d Saale;Sparkasse;;Spk Bad Neustadt a d Saale;79353090;BYLADEM1NES;97615;Bad Neustadt a.d.Saale
+Sparkasse Bad Oeynhausen-Porta Westfalica;Sparkasse;;Spk Bad Oeynh.-Porta Westf.;49051285;WELADED1OEH;32543;Bad Oeynhausen
+Sparkasse Bad Tölz-Wolfratshausen;Sparkasse;;Spk Bad Tölz-Wolfratshausen;70054306;BYLADEM1WOR;83646;Bad Tölz
+Sparkasse Baden-Baden Gaggenau;Sparkasse;;Spk Baden-Baden Gaggenau;66250030;SOLADES1BAD;76530;Baden-Baden
+Sparkasse Bamberg;Sparkasse;;Spk Bamberg;77050000;BYLADEM1SKB;96055;Bamberg
+Sparkasse Barnim;Sparkasse;;Sparkasse Barnim Eberswalde;17052000;WELADED1GZE;16204;Eberswalde
+Sparkasse Bayreuth;Sparkasse;;Sparkasse Bayreuth;77350110;BYLADEM1SBT;95440;Bayreuth
+Sparkasse Bensheim;Sparkasse;;Sparkasse Bensheim;50950068;HELADEF1BEN;64601;Bensheim
+Sparkasse Berchtesgadener Land;Sparkasse;;Spk Berchtesgadener Land;71050000;BYLADEM1BGL;83435;Bad Reichenhall
+Sparkasse Bergkamen-Bönen;Sparkasse;;Spk Bergkamen-Bönen;41051845;WELADED1BGK;59180;Bergkamen
+Sparkasse Bielefeld;Sparkasse;;Spk Bielefeld;48050161;SPBIDE3BXXX;33526;Bielefeld
+Sparkasse Bochum;Sparkasse;;Sparkasse Bochum;43050001;WELADED1BOC;44724;Bochum
+Sparkasse Bodensee;Sparkasse;;Sparkasse Bodensee;69050001;SOLADES1KNZ;78420;Konstanz
+Sparkasse Bonndorf-Stühlingen;Sparkasse;;Spk Bonndorf-Stühlingen;68051207;SOLADES1BND;79844;Bonndorf im Schwarzwald
+Sparkasse Borken-Schwalmstadt;Sparkasse;;Spk Borken-Schwalmst,Borken;52053458;HELADEF1SWA;34582;Borken (Hessen)
+Sparkasse Bottrop;Sparkasse;;Spk Bottrop;42451220;WELADED1BOT;46215;Bottrop
+Sparkasse Bremen;Sparkasse;;Spk Bremen;29050101;SBREDE22XXX;28078;Bremen
+Sparkasse Burbach-Neunkirchen;Sparkasse;;Spk Burbach-Neunkirchen;46051240;WELADED1BUB;57291;Burbach
+Sparkasse Burgenlandkreis;Sparkasse;;Spk Burgenlandkreis;80053000;NOLADE21BLK;06694;Zeitz
+Sparkasse Bühl;Sparkasse;;Sparkasse Bühl;66251434;SOLADES1BHL;77815;Bühl
+Sparkasse Celle-Gifhorn-Wolfsburg;Sparkasse;;Spk Celle-Gifhorn-Wolfsburg;26951311;NOLADE21GFW;38518;Gifhorn
+Sparkasse Chemnitz;Sparkasse;;Sparkasse Chemnitz;87050000;CHEKDE81XXX;09009;Chemnitz
+Sparkasse Coburg-Lichtenfels;Sparkasse;;Spk Coburg-Lichtenfels;78350000;BYLADEM1COB;96421;Coburg
+Sparkasse Dachau;Sparkasse;;Sparkasse Dachau;70051540;BYLADEM1DAH;85219;Dachau
+Sparkasse Darmstadt und Dieburg;Sparkasse;;Spk Darmstadt und Dieburg;50850150;HELADEF1DAS;64278;Darmstadt
+Sparkasse Deggendorf;Sparkasse;;Spk Deggendorf;74150000;BYLADEM1DEG;94459;Deggendorf
+Sparkasse Dillenburg;Sparkasse;;Spk Dillenburg;51650045;HELADEF1DIL;35683;Dillenburg
+Sparkasse Donnersberg;Sparkasse;;Sparkasse Donnersberg;54051990;MALADE51ROK;67802;Rockenhausen
+Sparkasse Dortmund;Sparkasse;;Sparkasse Dortmund;44050199;DORTDE33XXX;44047;Dortmund
+Sparkasse Duderstadt;Sparkasse;;Sparkasse Duderstadt;26051260;NOLADE21DUD;37105;Duderstadt
+Sparkasse Duisburg;Sparkasse;;Spk Duisburg;35050000;DUISDE33XXX;47015;Duisburg
+Sparkasse Düren;Sparkasse;;Sparkasse Düren;39550110;SDUEDE33XXX;52324;Düren
+Sparkasse Einbeck;Sparkasse;;Sparkasse Einbeck;26251425;NOLADE21EIN;37574;Einbeck
+Sparkasse Elbe-Elster;Sparkasse;;Sparkasse Elbe-Elster;18051000;WELADED1EES;03231;Finsterwalde
+Sparkasse Elmshorn;Sparkasse;;Spk Elmshorn;22150000;NOLADE21ELH;25335;Elmshorn
+Sparkasse Emden;Sparkasse;;Sparkasse Emden;28450000;BRLADE21EMD;26702;Emden
+Sparkasse Emsland;Sparkasse;;Spk Emsland;26650001;NOLADE21EMS;49704;Meppen
+Sparkasse Engen-Gottmadingen;Sparkasse;;Spk Engen-Gottmadingen;69251445;SOLADES1ENG;78229;Engen
+Sparkasse Essen;Sparkasse;;Sparkasse Essen;36050105;SPESDE3EXXX;45117;Essen
+Sparkasse Forchheim;Sparkasse;;Sparkasse Forchheim;76351040;BYLADEM1FOR;91299;Forchheim
+Sparkasse Freiburg-Nördlicher Breisgau;Sparkasse;;Spk Freiburg-Nördl Breisgau;68050101;FRSPDE66XXX;79098;Freiburg im Breisgau
+Sparkasse Freising Moosburg;Sparkasse;;Sparkasse Freising Moosburg;70051003;BYLADEM1FSI;85354;Freising
+Sparkasse Freyung-Grafenau;Sparkasse;;Spk Freyung-Grafenau;74051230;BYLADEM1FRG;94078;Freyung
+Sparkasse Fulda;Sparkasse;;Sparkasse Fulda;53050180;HELADEF1FDS;36035;Fulda
+Sparkasse Fürstenfeldbruck;Sparkasse;;Spk Fürstenfeldbruck;70053070;BYLADEM1FFB;82243;Fürstenfeldbruck
+Sparkasse Fürth;Sparkasse;;Spk Fürth;76250000;BYLADEM1SFU;90762;Fürth
+Sparkasse Gelsenkirchen;Sparkasse;;Sparkasse Gelsenkirchen;42050001;WELADED1GEK;45801;Gelsenkirchen
+Sparkasse Gera-Greiz;Sparkasse;;Spk Gera-Greiz;83050000;HELADEF1GER;07503;Gera
+Sparkasse Geseke;Sparkasse;;Sparkasse Geseke;41651965;WELADED1GES;59585;Geseke
+Sparkasse Gießen;Sparkasse;;Sparkasse Gießen;51350025;SKGIDE5FXXX;35347;Gießen
+Sparkasse Grünberg;Sparkasse;;Sparkasse Grünberg;51351526;HELADEF1GRU;35305;Grünberg
+Sparkasse Gummersbach;Sparkasse;;Spk Gummersbach;38450000;WELADED1GMB;51608;Gummersbach
+Sparkasse Göttingen;Sparkasse;;Sparkasse Göttingen;26050001;NOLADE21GOE;37070;Göttingen
+Sparkasse Gütersloh-Rietberg-Versmold;Sparkasse;;Spk.Gütersl.-Rietb.-Versmo.;47850065;WELADED1GTL;33260;Gütersloh
+Sparkasse Hameln-Weserbergland;Sparkasse;;Spk Hameln-Weserbergland;25450110;NOLADE21SWB;31763;Hameln
+Sparkasse Hamm;Sparkasse;;Sparkasse Hamm;41050095;WELADED1HAM;59061;Hamm
+Sparkasse Hanauerland;Sparkasse;;Spk Hanauerland Kehl;66451862;SOLADES1KEL;77694;Kehl
+Sparkasse Hannover;Sparkasse;;Sparkasse Hannover;25050180;SPKHDE2HXXX;30001;Hannover
+Sparkasse Harburg-Buxtehude;Sparkasse;;Spk Harburg-Buxtehude;20750000;NOLADE21HAM;21045;Hamburg
+Sparkasse Hattingen;Sparkasse;;Sparkasse Hattingen;43051040;WELADED1HTG;45504;Hattingen
+Sparkasse Hegau-Bodensee;Sparkasse;;Sparkasse Hegau-Bodensee;69250035;SOLADES1SNG;78202;Singen (Hohentwiel)
+Sparkasse Heidelberg;Sparkasse;;Spk Heidelberg;67250020;SOLADES1HDB;69004;Heidelberg
+Sparkasse Hellweg-Lippe;Sparkasse;;Sparkasse Hellweg-Lippe;41450075;WELADED1SOS;59553;Lippstadt
+Sparkasse Herford;Sparkasse;;Sparkasse Herford;49450120;WLAHDE44XXX;32045;Herford
+Sparkasse Hilden-Ratingen-Velbert;Sparkasse;;Sparkasse HRV;33450000;WELADED1VEL;42510;Velbert
+Sparkasse Hildesheim Goslar Peine;Sparkasse;;Sparkasse HGP;25950130;NOLADE21HIK;31134;Hildesheim
+Sparkasse Hochfranken;Sparkasse;;Spk Hochfranken;78050000;BYLADEM1HOF;95015;Hof
+Sparkasse Hochrhein;Sparkasse;;Sparkasse Hochrhein;68452290;SKHRDE6WXXX;79761;Waldshut-Tiengen
+Sparkasse Hochschwarzwald;Sparkasse;;Spk Hochschwarzwald T-Neust;68051004;SOLADES1HSW;79812;Titisee-Neustadt
+Sparkasse Hockenheim;Sparkasse;;Spk Hockenheim;67051203;SOLADES1HOC;68766;Hockenheim
+Sparkasse Hohenlohekreis;Sparkasse;;Sparkasse Hohenlohekreis;62251550;SOLADES1KUN;74641;Künzelsau
+Sparkasse Holstein;Sparkasse;;Spk Holstein Eutin;21352240;NOLADE21HOL;23692;Eutin
+Sparkasse Ingolstadt Eichstätt;Sparkasse;;Spk Ingolstadt Eichstätt;72150000;BYLADEM1ING;85023;Ingolstadt
+Sparkasse Jena-Saale-Holzland;Sparkasse;;Spk Jena-Saale-Holzland;83053030;HELADEF1JEN;07740;Jena
+Sparkasse Kaiserslautern;Sparkasse;;Spk Kaiserslautern;54050220;MALADE51KLK;67653;Kaiserslautern
+Sparkasse Karlsruhe;Sparkasse;;Spk Karlsruhe;66050101;KARSDE66XXX;76041;Karlsruhe
+Sparkasse Kierspe-Meinerzhagen;Sparkasse;;Spk Kierspe-Meinerzhagen;45851665;WELADED1KMZ;58531;Meinerzhagen
+Sparkasse Kinzigtal;Sparkasse;;Spk Kinzigtal;66451548;SOLADES1HAL;77716;Haslach im Kinzigtal
+Sparkasse Koblenz;Sparkasse;;Sparkasse Koblenz;57050120;MALADE51KOB;56013;Koblenz
+Sparkasse Kraichgau Bruchsal-Bretten-Sinsheim;Sparkasse;;Spk Kraichgau;66350036;BRUSDE66XXX;76643;Bruchsal
+Sparkasse Krefeld;Sparkasse;;Sparkasse Krefeld;32050000;SPKRDE33XXX;47719;Krefeld
+Sparkasse Kulmbach-Kronach;Sparkasse;;Spk Kulmbach-Kronach;77150000;BYLADEM1KUB;95311;Kulmbach
+Sparkasse KölnBonn;Sparkasse;;Sparkasse KölnBonn;37050198;COLSDE33XXX;50667;Köln
+Sparkasse Landsberg-Dießen;Sparkasse;;Spk Landsberg-Dießen;70052060;BYLADEM1LLD;86896;Landsberg am Lech
+Sparkasse Landshut;Sparkasse;;Spk Landshut;74350000;BYLADEM1LAH;84011;Landshut
+Sparkasse Langen-Seligenstadt;Sparkasse;;Spk Langen-Seligenstadt;50652124;HELADEF1SLS;63487;Seligenstadt
+Sparkasse Laubach-Hungen;Sparkasse;;Sparkasse Laubach-Hungen;51352227;HELADEF1LAU;35321;Laubach
+Sparkasse LeerWittmund;Sparkasse;;Sparkasse LeerWittmund;28550000;BRLADE21LER;26766;Leer (Ostfriesland)
+Sparkasse Lemgo;Sparkasse;;Sparkasse Lemgo;48250110;WELADED1LEM;32655;Lemgo
+Sparkasse Leverkusen;Sparkasse;;Sparkasse Leverkusen;37551440;WELADEDLLEV;51312;Leverkusen
+Sparkasse Lörrach-Rheinfelden;Sparkasse;;Sparkasse Lörrach-Rheinfeld;68350048;SKLODE66XXX;79537;Lörrach
+Sparkasse Lüneburg;Sparkasse;;Spk Lüneburg;24050110;NOLADE21LBG;21309;Lüneburg
+Sparkasse MagdeBurg;Sparkasse;;Spk MDB;81053272;NOLADE21MDG;39015;Magdeburg
+Sparkasse Mainfranken Würzburg;Sparkasse;;Spk Mainfranken Würzburg;79050000;BYLADEM1SWU;97067;Würzburg
+Sparkasse Mansfeld-Südharz;Sparkasse;;Sparkasse Mansfeld-Südharz;80055008;NOLADE21EIL;06283;Lutherstadt Eisleben
+Sparkasse Marburg-Biedenkopf;Sparkasse;;Spk Marburg-Biedenkopf;53350000;HELADEF1MAR;35009;Marburg
+Sparkasse Markgräflerland;Sparkasse;;Sparkasse Markgräflerland;68351865;SOLADES1MGL;79576;Weil am Rhein
+Sparkasse Mecklenburg-Nordwest;Sparkasse;;Spk Mecklenburg-Nordwest;14051000;NOLADE21WIS;23951;Wismar
+Sparkasse Mecklenburg-Schwerin;Sparkasse;;Spk Mecklenburg-Schwerin;14052000;NOLADE21LWL;19053;Schwerin
+Sparkasse Mecklenburg-Strelitz;Sparkasse;;Spk Mecklenburg-Strelitz;15051732;NOLADE21MST;17235;Neustrelitz
+Sparkasse Meißen;Sparkasse;;Spk Meißen;85055000;SOLADES1MEI;01587;Riesa
+Sparkasse Merzig-Wadern;Sparkasse;;Spk Merzig-Wadern;59351040;MERZDE55XXX;66651;Merzig
+Sparkasse Minden-Lübbecke;Sparkasse;;Sparkasse Minden-Lübbecke;49050101;WELADED1MIN;32382;Minden
+Sparkasse Mittelfranken-Süd;Sparkasse;;Spk Mittelfranken-Süd;76450000;BYLADEM1SRS;91154;Roth
+Sparkasse Mittelholstein;Sparkasse;;Spk Mittelholst Rendsburg;21450000;NOLADE21RDB;24768;Rendsburg
+Sparkasse Mittelmosel-Eifel Mosel Hunsrück;Sparkasse;;Spk Mittelmosel EMH;58751230;MALADE51BKS;54469;Bernkastel-Kues
+Sparkasse Mittelsachsen;Sparkasse;;Spk Mittelsachsen;87052000;WELADED1FGX;09583;Freiberg
+Sparkasse Mittelthüringen;Sparkasse;;Spk Mittelthüringen;82051000;HELADEF1WEM;99084;Erfurt
+Sparkasse Mitten im Sauerland;Sparkasse;;Spk Mitten im Sauerland;46650005;WELADED1ARN;59872;Meschede
+Sparkasse Muldental;Sparkasse;;Spk Muldental;86050200;SOLADES1GRM;04662;Grimma
+Sparkasse Märkisches Sauerland Hemer-Menden;Sparkasse;;Spk Märkisches Sauerland;44551210;WELADED1HEM;58675;Hemer
+Sparkasse Mülheim an der Ruhr;Sparkasse;;Spk Mülheim an der Ruhr;36250000;SPMHDE3EXXX;45466;Mülheim an der Ruhr
+Sparkasse Münsterland Ost;Sparkasse;;Spk Münsterland Ost;40050150;WELADED1MST;48151;Münster
+Sparkasse Neckartal-Odenwald;Sparkasse;;Spk Neckartal-Odenwald;67450048;SOLADES1MOS;74819;Mosbach
+Sparkasse Neu-Ulm-Illertissen;Sparkasse;;Spk Neu-Ulm Illertissen;73050000;BYLADEM1NUL;89231;Neu-Ulm
+Sparkasse Neubrandenburg-Demmin;Sparkasse;;Spk Neubrandenburg-Demmin;15050200;NOLADE21NBS;17041;Neubrandenburg
+Sparkasse Neumarkt i d OPf-Parsberg;Sparkasse;;Spk Neumarkt i d OPf-Parsbg;76052080;BYLADEM1NMA;92303;Neumarkt i.d.OPf.
+Sparkasse Neunkirchen;Sparkasse;;Sparkasse Neunkirchen;59252046;SALADE51NKS;66538;Neunkirchen
+Sparkasse Neuss;Sparkasse;;Sparkasse Neuss;30550000;WELADEDNXXX;41456;Neuss
+Sparkasse Neuwied;Sparkasse;;Sparkasse Neuwied;57450120;MALADE51NWD;56510;Neuwied
+Sparkasse Niederbayern-Mitte;Sparkasse;;Spk Niederbayern-Mitte;74250000;BYLADEM1SRG;94304;Straubing
+Sparkasse Niederlausitz;Sparkasse;;Sparkasse Niederlausitz;18055000;WELADED1OSL;01957;Senftenberg
+Sparkasse Nienburg;Sparkasse;;Sparkasse Nienburg;25650106;NOLADE21NIB;31567;Nienburg (Weser)
+Sparkasse Nordschwaben;Sparkasse;;Sparkasse Nordschwaben;72251520;BYLADEM1DLG;89407;Dillingen a.d.Donau
+Sparkasse Nürnberg;Sparkasse;;Sparkasse Nürnberg;76050101;SSKNDE77XXX;90327;Nürnberg
+Sparkasse Oberhessen;Sparkasse;;Spk Oberhessen;51850079;HELADEF1FRI;61167;Friedberg (Hessen)
+Sparkasse Oberland;Sparkasse;;Sparkasse Oberland;70351030;BYLADEM1WHM;82362;Weilheim i. OB
+Sparkasse Oberlausitz-Niederschlesien;Sparkasse;;Spk Oberlausitz-Niederschl.;85050100;WELADED1GRL;02763;Zittau
+Sparkasse Oberpfalz Nord;Sparkasse;;Spk Oberpfalz Nord;75350000;BYLADEM1WEN;92615;Weiden i.d.OPf.
+Sparkasse Odenwaldkreis;Sparkasse;;Spk Odenwaldkreis Erbach;50851952;HELADEF1ERB;64711;Erbach
+Sparkasse Oder-Spree;Sparkasse;;Sparkasse Oder-Spree;17055050;WELADED1LOS;15203;Frankfurt (Oder)
+Sparkasse Offenburg/Ortenau;Sparkasse;;Sparkasse Offenburg/Ortenau;66450050;SOLADES1OFG;77662;Offenburg
+Sparkasse Olpe-Drolshagen-Wenden;Sparkasse;;Spk Olpe-Drolshagen-Wenden;46250049;WELADED1OPE;57447;Olpe
+Sparkasse Osnabrück;Sparkasse;;Sparkasse Osnabrück;26550105;NOLADE22XXX;49018;Osnabrück
+Sparkasse Osterode am Harz;Sparkasse;;Sparkasse Osterode am Harz;26351015;NOLADE21HZB;37520;Osterode am Harz
+Sparkasse Ostprignitz-Ruppin;Sparkasse;;Spk Ostprignitz-Ruppin;16050202;WELADED1OPR;16816;Neuruppin
+Sparkasse Paderborn-Detmold-Höxter;Sparkasse;;Spk Paderborn-Detmold-Höxt.;47650130;WELADE3LXXX;32756;Detmold
+Sparkasse Parchim-Lübz;Sparkasse;;Sparkasse Parchim-Lübz;14051362;NOLADE21PCH;19370;Parchim
+Sparkasse Passau;Sparkasse;;Spk Passau;74050000;BYLADEM1PAS;94014;Passau
+Sparkasse Pfaffenhofen;Sparkasse;;Spk Pfaffenhofen;72151650;BYLADEM1PAF;85262;Pfaffenhofen a.d.Ilm
+Sparkasse Pforzheim Calw;Sparkasse;;Sparkasse Pforzheim Calw;66650085;PZHSDE66XXX;75172;Pforzheim
+Sparkasse Pfullendorf-Meßkirch;Sparkasse;;Spk Pfullendorf-Meßkirch;69051620;SOLADES1PFD;88630;Pfullendorf
+Sparkasse Prignitz;Sparkasse;;Sparkasse Prignitz;16050101;WELADED1PRP;16928;Pritzwalk
+Sparkasse Rastatt-Gernsbach;Sparkasse;;Sparkasse Rastatt-Gernsbach;66550070;SOLADES1RAS;76402;Rastatt
+Sparkasse Regen-Viechtach;Sparkasse;;Sparkasse Regen-Viechtach;74151450;BYLADEM1REG;94202;Regen
+Sparkasse Regensburg;Sparkasse;;Spk Regensburg;75050000;BYLADEM1RBG;93042;Regensburg
+Sparkasse Rhein Neckar Nord;Sparkasse;;Spk Rhein Neckar Nord;67050505;MANSDE66XXX;68151;Mannheim
+Sparkasse Rhein-Haardt;Sparkasse;;Spk Rhein-Haardt;54651240;MALADE51DKH;67087;Bad Dürkheim
+Sparkasse Rhein-Maas;Sparkasse;;Sparkasse Rhein-Maas;32450000;WELADED1KLE;47533;Kleve
+Sparkasse Rhein-Nahe;Sparkasse;;Sparkasse Rhein-Nahe;56050180;MALADE51KRE;55541;Bad Kreuznach
+Sparkasse Rosenheim-Bad Aibling;Sparkasse;;Spk Rosenheim-Bad Aibling;71150000;BYLADEM1ROS;83004;Rosenheim
+Sparkasse Rotenburg Osterholz;Sparkasse;;Spk Rotenburg Osterholz;24151235;BRLADE21ROB;27393;Zeven
+Sparkasse Rottal-Inn;Sparkasse;;Spk Rottal-Inn Eggenfelden;74351430;BYLADEM1EGF;84307;Eggenfelden
+Sparkasse Saarbrücken;Sparkasse;;Sparkasse Saarbrücken;59050101;SAKSDE55XXX;66104;Saarbrücken
+Sparkasse Salem-Heiligenberg;Sparkasse;;Spk Salem-Heiligenberg;69051725;SOLADES1SAL;88682;Salem
+Sparkasse Schaumburg;Sparkasse;;Sparkasse Schaumburg;25551480;NOLADE21SHG;31726;Rinteln
+Sparkasse Schwaben-Bodensee;Sparkasse;;Spk Schwaben-Bodensee;73150000;BYLADEM1MLM;87700;Memmingen
+Sparkasse Schwarzwald-Baar;Sparkasse;;Spk Schwarzwald-Baar;69450065;SOLADES1VSS;78001;Villingen-Schwenningen
+Sparkasse Schweinfurt-Haßberge;Sparkasse;;Spk Schweinfurt-Haßberge;79350101;BYLADEM1KSW;97410;Schweinfurt
+Sparkasse Schwelm-Sprockhövel;Sparkasse;;Spk Schwelm-Sprockhövel;45451555;WELADED1SLM;58332;Schwelm
+Sparkasse Schwäbisch Hall-Crailsheim;Sparkasse;;Sparkasse Schwäbisch Hall;62250030;SOLADES1SHA;74504;Schwäbisch Hall
+Sparkasse Siegen;Sparkasse;;Spk Siegen;46050001;WELADED1SIE;57009;Siegen
+Sparkasse Sonneberg;Sparkasse;;Sparkasse Sonneberg;84054722;HELADEF1SON;96515;Sonneberg
+Sparkasse Spree-Neiße;Sparkasse;;Sparkasse Spree-Neiße;18050000;WELADED1CBN;03006;Cottbus
+Sparkasse St. Blasien;Sparkasse;;Spk St. Blasien;68052230;SOLADES1STB;79837;St. Blasien
+Sparkasse Stade-Altes Land;Sparkasse;;Spk Stade-Altes Land;24151005;NOLADE21STS;21660;Stade
+Sparkasse Starkenburg;Sparkasse;;Sparkasse Starkenburg;50951469;HELADEF1HEP;64646;Heppenheim (Bergstraße)
+Sparkasse Staufen-Breisach;Sparkasse;;Spk Staufen-Breisach;68052328;SOLADES1STF;79216;Staufen im Breisgau
+Sparkasse Südholstein;Sparkasse;;Spk Südholstein Neumünster;23051030;NOLADE21SHO;24531;Neumünster
+Sparkasse Südpfalz;Sparkasse;;Sparkasse Südpfalz;54850010;SOLADES1SUW;76825;Landau in der Pfalz
+Sparkasse Südwestpfalz;Sparkasse;;Spk Südwestpfalz Pirmasens;54250010;MALADE51SWP;66930;Pirmasens
+Sparkasse Tauberfranken;Sparkasse;;Spk Tauberfranken;67352565;SOLADES1TBB;97931;Tauberbischofsheim
+Sparkasse Trier;Sparkasse;;Sparkasse Trier;58550130;TRISDE55XXX;54292;Trier
+Sparkasse Uckermark;Sparkasse;;Spk Uckermark Prenzlau;17056060;WELADED1UMP;17291;Prenzlau
+Sparkasse Uecker-Randow;Sparkasse;;Sparkasse Uecker-Randow;15050400;NOLADE21PSW;17309;Pasewalk
+Sparkasse Uelzen Lüchow-Dannenberg;Sparkasse;;Sparkasse Uelzen Lüchow-Dbg;25850110;NOLADE21UEL;29525;Uelzen
+Sparkasse Ulm;Sparkasse;;Sparkasse Ulm;63050000;SOLADES1ULM;89073;Ulm
+Sparkasse UnnaKamen;Sparkasse;;Sparkasse UnnaKamen;44350060;WELADED1UNN;59409;Unna
+Sparkasse Unstrut-Hainich;Sparkasse;;Sparkasse Unstrut-Hainich;82056060;HELADEF1MUE;99974;Mühlhausen/Thüringen
+Sparkasse Vest Recklinghausen;Sparkasse;;Spk Recklinghausen;42650150;WELADED1REK;45608;Recklinghausen
+Sparkasse Vogtland;Sparkasse;;Sparkasse Vogtland;87058000;WELADED1PLX;08506;Plauen
+Sparkasse Vorderpfalz;Sparkasse;;Sparkasse Vorderpfalz;54550010;LUHSDE6AXXX;67059;Ludwigshafen am Rhein
+Sparkasse Vorpommern;Sparkasse;;Spk Vorpommern;15050500;NOLADE21GRW;17462;Greifswald
+Sparkasse Vorpommern auf Rügen;Sparkasse;;Spk Vorpommern auf Rügen;13051042;NOLADE21RUE;18525;Bergen auf Rügen
+Sparkasse Waldeck-Frankenberg;Sparkasse;;Spk Waldeck-Frankenberg;52350005;HELADEF1KOR;34497;Korbach
+Sparkasse Werra-Meißner;Sparkasse;;Sparkasse Werra-Meißner;52250030;HELADEF1ESW;37254;Eschwege
+Sparkasse Westerwald-Sieg;Sparkasse;;Sparkasse Westerwald-Sieg;57351030;MALADE51AKI;56470;Bad Marienberg (Westerwald)
+Sparkasse Westholstein;Sparkasse;;Spk Westholstein;22250020;NOLADE21WHO;25509;Itzehoe
+Sparkasse Westmünsterland;Sparkasse;;Sparkasse Westmünsterland;40154530;WELADE3WXXX;48683;Ahaus
+Sparkasse Wetzlar;Sparkasse;;Sparkasse Wetzlar;51550035;HELADEF1WET;35576;Wetzlar
+Sparkasse Wiesental;Sparkasse;;Sparkasse Wiesental;68351557;SOLADES1SFH;79650;Schopfheim
+Sparkasse Wilhelmshaven;Sparkasse;;Sparkasse Wilhelmshaven;28250110;BRLADE21WHV;26363;Wilhelmshaven
+Sparkasse Witten;Sparkasse;;Sparkasse Witten;45250035;WELADED1WTN;58449;Witten
+Sparkasse Wittenberg;Sparkasse;;Sparkasse Wittenberg;80550101;NOLADE21WBL;06872;Lutherstadt Wittenberg
+Sparkasse Wittgenstein;Sparkasse;;Sparkasse Wittgenstein;46053480;WELADED1BEB;57304;Bad Berleburg
+Sparkasse Wolfach;Sparkasse;;Spk Wolfach;66452776;SOLADES1WOF;77705;Wolfach
+Sparkasse Zollernalb;Sparkasse;;Spk Zollernalb;65351260;SOLADES1BAL;72334;Balingen
+Sparkasse Zwickau;Sparkasse;;Sparkasse Zwickau;87055000;WELADED1ZWI;08009;Zwickau
+Sparkasse am Niederrhein;Sparkasse;;Sparkasse am Niederrhein;35450000;WELADED1MOR;47439;Moers
+Sparkasse an Ennepe und Ruhr;Sparkasse;;Spk an Ennepe und Ruhr;45450050;WELADED1GEV;58265;Gevelsberg
+Sparkasse an Volme und Ruhr;Sparkasse;;Sparkasse an Volme und Ruhr;45050001;WELADE3HXXX;58042;Hagen
+Sparkasse an der Lippe;Sparkasse;;Sparkasse an der Lippe;44152370;WELADED1LUN;44530;Lünen
+Sparkasse der Stadt Iserlohn;Sparkasse;;Spk der Stadt Iserlohn;44550045;WELADED1ISL;58634;Iserlohn
+Sparkasse im Landkreis Cham;Sparkasse;;Spk im Landkreis Cham;74251020;BYLADEM1CHM;93405;Cham
+Sparkasse im Landkreis Neustadt a.d. Aisch - Bad Windsheim;Sparkasse;;Sparkasse i. Lkr. NEA-BWI;76251020;BYLADEM1NEA;91413;Neustadt a.d.Aisch
+Sparkasse im Landkreis Schwandorf;Sparkasse;;Spk im Landkreis Schwandorf;75051040;BYLADEM1SAD;92408;Schwandorf
+Sparkasse zu Lübeck;Sparkasse;;Sparkasse zu Lübeck;23050101;NOLADE21SPL;23547;Lübeck
+Stadt-Sparkasse Haan;Sparkasse;;St Spk Haan;30351220;WELADED1HAA;42781;Haan
+Stadt-Sparkasse Langenfeld;Sparkasse;;St Spk Langenfeld;37551780;WELADED1LAF;40740;Langenfeld (Rheinland)
+Stadt-Sparkasse Solingen;Sparkasse;;St Spk Solingen;34250000;SOLSDE33XXX;42648;Solingen
+Städtische Sparkasse Offenbach a.M.;Sparkasse;;Städtische Spk Offenbach;50550020;HELADEF1OFF;63019;Offenbach am Main
+Südtiroler Sparkasse Niederlassung München;Sparkasse;;Südt. Sparkasse München;70012600;SUSKDEM1XXX;81371;München
+Taunus-Sparkasse;Sparkasse;;Taunus-Sparkasse Bad Hombg;51250000;HELADEF1TSK;61288;Bad Homburg
+Vereinigte Sparkasse im Märkischen Kreis;Sparkasse;;Ver Spk Plettenberg;45851020;WELADED1PLB;58816;Plettenberg
+Vereinigte Sparkassen Eschenbach i d Opf;Sparkasse;;Ver Spk Eschenbach;75351960;BYLADEM1ESB;92660;Neustadt a.d.Waldnaab
+Wartburg-Sparkasse;Sparkasse;;Wartburg-Sparkasse;84055050;HELADEF1WAK;99804;Eisenach
+Weser-Elbe Sparkasse;Sparkasse;;Weser-Elbe Sparkasse, BHV;29250000;BRLADE21BRS;27568;Bremerhaven
+Abtsgmünder Bank -Raiffeisen-;Volksbank/Raiffeisenbank;;Abtsgmünder Bank;60069673;GENODES1ABR;73453;Abtsgmünd
+Allgäuer Volksbank Kempten-Sonthofen;Volksbank/Raiffeisenbank;;Allgäuer Volksbank;73390000;GENODEF1KEV;87416;Kempten (Allgäu)
+BVB Volksbank Ndl d Frankfurter Volksbank;Volksbank/Raiffeisenbank;;BVB Volksbank;51861325;GENODEF1BVB;61101;Bad Vilbel
+Bankverein Werther Zw Ndl der VerbundVolksbank OWL;Volksbank/Raiffeisenbank;;Bankv.Werther ZwNdl VV OWL;48021900;DGPBDE3MBVW;33824;Werther (Westf.)
+Berliner Volksbank;Volksbank/Raiffeisenbank;;Berliner VB Berlin;10090000;BEVODEBBXXX;10892;Berlin
+Bremische Volksbank Weser-Wümme;Volksbank/Raiffeisenbank;;Bremische Volksbank W-W;29190024;GENODEF1HB1;28069;Bremen
+Budenheimer Volksbank;Volksbank/Raiffeisenbank;;Budenheimer Volksbank;55061303;GENODE51BUD;55254;Budenheim
+Dithmarscher Volks- und Raiffeisenbank;Volksbank/Raiffeisenbank;;Dithmarscher VRB Heide;21890022;GENODEF1DVR;25746;Heide
+Dortmunder Volksbank;Volksbank/Raiffeisenbank;;Dortmunder Volksbank;44160014;GENODEM1DOR;44128;Dortmund
+Eckernförder Bank Volksbank-Raiffeisenbank;Volksbank/Raiffeisenbank;;Eckernförder Bank VRB;21092023;GENODEF1EFO;24331;Eckernförde
+Emsländische Volksbank;Volksbank/Raiffeisenbank;;Emsländische Volksbank;26660060;GENODEF1LIG;49791;Lingen (Ems)
+EthikBank, Zndl der Volksbank Eisenberg;Volksbank/Raiffeisenbank;;EthikBank Zndl Vb Eisenberg;83094495;GENODEF1ETK;07607;Eisenberg
+Frankfurter Volksbank Rhein-Main;Volksbank/Raiffeisenbank;;Frankfurter Voba Rhein-Main;50190000;FFVBDEFFXXX;60008;Frankfurt am Main
+Freisinger Bank Volksbank-Raiffeisenbank;Volksbank/Raiffeisenbank;;Freisinger Bank VB-Raiffbk;70169614;GENODEF1FSR;85354;Freising
+Grafschafter Volksbank;Volksbank/Raiffeisenbank;;Grafschafter Volksbank;28069956;GENODEF1NEV;48511;Nordhorn
+Hagnauer Volksbank;Volksbank/Raiffeisenbank;;Hagnauer Volksbank;69091200;GENODE61HAG;88709;Hagnau am Bodensee
+Hamburger Volksbank;Volksbank/Raiffeisenbank;;Hamburger Volksbank;20190003;GENODEF1HH2;20097;Hamburg
+Hannoversche Volksbank;Volksbank/Raiffeisenbank;;Hannoversche Volksbank;25190001;VOHADE2HXXX;30159;Hannover
+Harzer Volksbank;Volksbank/Raiffeisenbank;;Harzer Volksbank;80063508;GENODEF1QLB;38855;Wernigerode
+Heidenheimer Volksbank;Volksbank/Raiffeisenbank;;Heidenheimer Volksbank;63290110;GENODES1HDH;89504;Heidenheim an der Brenz
+Hümmlinger Volksbank;Volksbank/Raiffeisenbank;;Hümmlinger Volksbank;28069381;GENODEF1WLT;49757;Werlte
+Ihre Volksbank Neckar Odenwald Main Tauber;Volksbank/Raiffeisenbank;;Ihre Volksbank;67390000;GENODE61WTH;97866;Wertheim
+Kieler Volksbank;Volksbank/Raiffeisenbank;;Kieler Volksbank;21090007;GENODEF1KIL;24027;Kiel
+Leipziger Volksbank;Volksbank/Raiffeisenbank;;Leipziger Volksbank;86095604;GENODEF1LVB;04109;Leipzig
+Oldenburger Volksbank;Volksbank/Raiffeisenbank;;Oldenburger Volksbank;28061822;GENODEF1EDE;26122;Oldenburg (Oldb)
+Ostfriesische Volksbank Leer;Volksbank/Raiffeisenbank;;Ostfriesische VB Leer;28590075;GENODEF1LER;26768;Leer (Ostfriesland)
+Raiffeisen Volksbank;Volksbank/Raiffeisenbank;;Raiffeisen-VB Schwabenheim;50069842;GENODE51SWB;55270;Schwabenheim an der Selz
+Raiffeisen-Bank Eschweiler;Volksbank/Raiffeisenbank;;Raiffeisen-Bank Eschweiler;39362254;GENODED1RSC;52231;Eschweiler
+Raiffeisen-Landesbank Steiermark, Niederlassung München;Volksbank/Raiffeisenbank;;RLB Steiermark, München;70013300;RZSTDEM2XXX;80331;München
+Raiffeisen-Volksbank;Volksbank/Raiffeisenbank;;RVB Aurich;28562297;GENODEF1UPL;26589;Aurich
+Raiffeisen-Volksbank Donauwörth;Volksbank/Raiffeisenbank;;Raiff-VB Donauwörth;72290100;GENODEF1DON;86604;Donauwörth
+Raiffeisen-Volksbank Ebersberg;Volksbank/Raiffeisenbank;;Raiff-VB Ebersberg;70169450;GENODEF1ASG;85567;Grafing b. München
+Raiffeisen-Volksbank Fresena;Volksbank/Raiffeisenbank;;Raiff-VB Fresena;28361592;GENODEF1MAR;26506;Norden
+Raiffeisen-Volksbank Haßberge;Volksbank/Raiffeisenbank;;Raiff-VB Haßberge;79363151;GENODEF1HAS;97437;Haßfurt
+Raiffeisen-Volksbank Hermsdorfer Kreuz;Volksbank/Raiffeisenbank;;Raiffbk-VB Hermsdorf;83064488;GENODEF1HMF;07629;Hermsdorf
+Raiffeisen-Volksbank Neustadt;Volksbank/Raiffeisenbank;;Raiff-VB Neustadt;25069262;GENODEF1NST;31535;Neustadt am Rübenberge
+Raiffeisen-Volksbank Ries;Volksbank/Raiffeisenbank;;Raiffeisen-Volksbank Ries;72069329;GENODEF1NOE;86720;Nördlingen
+Raiffeisen-Volksbank Tüßling-Unterneukirchen;Volksbank/Raiffeisenbank;;Raiff-Volksbank Tüßling;70169576;GENODEF1TUS;84577;Tüßling
+Raiffeisen-Volksbank Varel-Nordenham;Volksbank/Raiffeisenbank;;Raiff-VB Varel-Nordenham;28064241;GENODEF1NHE;26954;Nordenham
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Bad Doberan;13061128;GENODEF1DBR;18209;Bad Doberan
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Seestermühe;20069144;GENODEF1SST;25371;Seestermühe
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank, Hagenow;20069177;GENODEF1GRS;19230;Hagenow
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffbk Todenbüttel;21464671;GENODEF1TOB;24819;Todenbüttel
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Lauenburg;23063129;GENODEF1RLB;21481;Lauenburg
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Moormerland;28563749;GENODEF1MML;26802;Moormerland
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffbk Grävenwiesbach;50069345;GENODE51GWB;61279;Grävenwiesbach
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffbk Rodenbach Hanau;50663699;GENODEF1RDB;63514;Rodenbach
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Baunatal;52064156;GENODEF1BTA;34217;Baunatal
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffbk Niederwallmenach;57062675;GENODE51NWA;56357;Niederwallmenach
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffbk Erlenbach;60069911;GENODES1ERL;74233;Erlenbach
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffbk Berghülen;60069931;GENODES1BGH;89180;Berghülen
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Mittenwald;70169459;GENODEF1MTW;82481;Mittenwald
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Türkheim;70169575;GENODEF1TRH;86842;Türkheim
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Anger;71062802;GENODEF1AGE;83454;Anger
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Hiltenfingen;72069105;GENODEF1HTF;86856;Hiltenfingen
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Rehling;72069193;GENODEF1RLI;86508;Rehling
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Thannhausen;72069235;GENODEF1THS;86470;Thannhausen
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Wegscheid;74064593;GENODEF1WSD;94108;Wegscheid
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Grainet;74069744;GENODEF1GRT;94143;Grainet
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank Bechhofen;76069378;GENODEF1BEH;91572;Bechhofen
+Raiffeisenbank;Volksbank/Raiffeisenbank;;Raiffeisenbank;79069213;GENODEF1RNM;97517;Rannungen
+Raiffeisenbank Aichhalden-Hardt-Sulgen;Volksbank/Raiffeisenbank;;Raiffbk Aichh-Hardt-Sulgen;60069553;GENODES1HAR;78739;Hardt
+Raiffeisenbank Aidlingen;Volksbank/Raiffeisenbank;;Raiffeisenbank Aidlingen;60069206;GENODES1AID;71134;Aidlingen
+Raiffeisenbank Aitrang-Ruderatshofen;Volksbank/Raiffeisenbank;;Raiffbk Aitrang-Ruderatshfn;73369851;GENODEF1AIT;87648;Aitrang
+Raiffeisenbank Aldenhoven;Volksbank/Raiffeisenbank;;Raiffeisenbank Aldenhoven;37069103;GENODED1ALD;52449;Aldenhoven
+Raiffeisenbank Alteglofsheim-Hagelstadt;Volksbank/Raiffeisenbank;;Raiffbk Alteglofshm-Hagelst;75069055;GENODEF1HGA;93095;Hagelstadt
+Raiffeisenbank Altmühl-Jura;Volksbank/Raiffeisenbank;;Raiffeisenbank Altmühl-Jura;76069462;GENODEF1GDG;91171;Greding
+Raiffeisenbank Altschweier;Volksbank/Raiffeisenbank;;Raiffeisenbank Altschweier;66261416;GENODE61ALR;77815;Bühl
+Raiffeisenbank Aresing-Gerolsbach;Volksbank/Raiffeisenbank;;Raiffbk Aresing-Gerolsbach;72169080;GENODEF1GSB;85302;Gerolsbach
+Raiffeisenbank Arnstorf;Volksbank/Raiffeisenbank;;Raiffeisenbank Arnstorf;74361211;GENODEF1ARF;94424;Arnstorf
+Raiffeisenbank Aschau-Samerberg;Volksbank/Raiffeisenbank;;Raiffbk Aschau-Samerberg;71162804;GENODEF1ASU;83226;Aschau i. Chiemgau
+Raiffeisenbank Auerbach-Freihung;Volksbank/Raiffeisenbank;;Raiffbk Auerbach-Freihung;76069369;GENODEF1AUO;91275;Auerbach i.d.OPf.
+Raiffeisenbank Augsburger Land West;Volksbank/Raiffeisenbank;;Raiffbk Augsburger Ld West;72069274;GENODEF1ZUS;86441;Zusmarshausen
+Raiffeisenbank Bad Homburg Ndl d FrankfurterVB;Volksbank/Raiffeisenbank;;Raiffeisenbank Bad Homburg;50069693;GENODE51BH1;61352;Bad Homburg
+Raiffeisenbank Bad Kötzting;Volksbank/Raiffeisenbank;;Raiffeisenbank Bad Kötzting;75069081;GENODEF1KTZ;93444;Bad Kötzting
+Raiffeisenbank Bad Saulgau;Volksbank/Raiffeisenbank;;Raiffeisenbank Bad Saulgau;65063086;GENODES1SAG;88343;Bad Saulgau
+Raiffeisenbank Bad Windsheim;Volksbank/Raiffeisenbank;;Raiffbk Bad Windsheim;76069372;GENODEF1WDS;91438;Bad Windsheim
+Raiffeisenbank Baiertal;Volksbank/Raiffeisenbank;;Raiffeisenbank Baiertal;67262243;GENODE61WIB;69168;Wiesloch
+Raiffeisenbank Baisweil-Eggenthal-Friesenried;Volksbank/Raiffeisenbank;;Raiffbk Baisweil-Eggent-Fr;73369871;GENODEF1EGB;87653;Eggenthal
+Raiffeisenbank Beuerberg-Eurasburg;Volksbank/Raiffeisenbank;;Raiffbk Beuerberg-Eurasburg;70169333;GENODEF1EUR;82547;Eurasburg
+Raiffeisenbank Bidingen;Volksbank/Raiffeisenbank;;Raiffeisenbank Bidingen;73369859;GENODEF1BIN;87651;Bidingen
+Raiffeisenbank Biebergrund-Petersberg;Volksbank/Raiffeisenbank;;Raiffbk Biebergrd-Petersbg;53062350;GENODEF1PBG;36094;Petersberg
+Raiffeisenbank Bobingen;Volksbank/Raiffeisenbank;;Raiffeisenbank Bobingen;72069036;GENODEF1BOI;86394;Bobingen
+Raiffeisenbank Buch-Eching;Volksbank/Raiffeisenbank;;Raiffbk Buch-Eching;74369662;GENODEF1EBV;84174;Eching
+Raiffeisenbank Burgebrach-Stegaurach;Volksbank/Raiffeisenbank;;RB Burgebrach-Stegaurach;77062014;GENODEF1BGB;96138;Burgebrach
+Raiffeisenbank Böllingertal;Volksbank/Raiffeisenbank;;Raiffbk Böllingertal;60069976;GENODES1BOE;74078;Heilbronn
+Raiffeisenbank Bühlertal;Volksbank/Raiffeisenbank;;Raiffbk Bühlertal;60069075;GENODES1RVG;74541;Vellberg
+Raiffeisenbank Bühlertal;Volksbank/Raiffeisenbank;;Raiffbk Bühlertal;60069245;GENODES1RVG;74424;Bühlertann
+Raiffeisenbank Bütthard-Gaukönigshofen;Volksbank/Raiffeisenbank;;Raiffbk Bütthard-Gaukönigsh;79069031;GENODEF1BHD;97244;Bütthard
+Raiffeisenbank Chamer Land;Volksbank/Raiffeisenbank;;Raiffeisenbank Chamer Land;74261024;GENODEF1CHA;93404;Cham
+Raiffeisenbank Chiemgau-Nord - Obing;Volksbank/Raiffeisenbank;;Raiffbk Chiemgau-Nord-Obing;70169165;GENODEF1SBC;83119;Obing
+Raiffeisenbank Deggendorf-Plattling-Sonnenwald;Volksbank/Raiffeisenbank;;Raiba Deg.-Pla.-Sonnenw.;74160025;GENODEF1DEG;94457;Deggendorf
+Raiffeisenbank Denzlingen-Sexau;Volksbank/Raiffeisenbank;;Raiffbk Denzlingen-Sexau;68062105;GENODE61DEN;79211;Denzlingen
+Raiffeisenbank Dietersheim und Umgebung;Volksbank/Raiffeisenbank;;Raiffeisenbank Dietersheim;76069410;GENODEF1DIM;91463;Dietersheim
+Raiffeisenbank Donau-Heuberg;Volksbank/Raiffeisenbank;;Raiffbk Donau-Heuberg;64361359;GENODES1RDH;78570;Mühlheim an der Donau
+Raiffeisenbank DreiFranken;Volksbank/Raiffeisenbank;;Raiffbk DreiFranken;76069602;GENODEF1HSE;91093;Heßdorf
+Raiffeisenbank Eichenbühl und Umgebung;Volksbank/Raiffeisenbank;;Raiffbk Eichenbühl u U;79668509;GENODEF1ENB;63928;Eichenbühl
+Raiffeisenbank Eifel;Volksbank/Raiffeisenbank;;Raiffbk Eifel Simmerath;37069642;GENODED1SMR;52152;Simmerath
+Raiffeisenbank Elbmarsch;Volksbank/Raiffeisenbank;;Raiffbk Elbmarsch Heist;22163114;GENODEF1HTE;25492;Heist
+Raiffeisenbank Elsavatal;Volksbank/Raiffeisenbank;;Raiffbk Elsavatal;79665540;GENODEF1EAU;63863;Eschau
+Raiffeisenbank Elztal;Volksbank/Raiffeisenbank;;Raiffeisenbank Elztal;66069103;GENODE61ELZ;74832;Elztal
+Raiffeisenbank Ems-Vechte;Volksbank/Raiffeisenbank;;Raiffeisenbank Ems-Vechte;28069878;GENODEF1KBL;49777;Klein Berßen
+Raiffeisenbank Ersingen;Volksbank/Raiffeisenbank;;Raiffeisenbank Ersingen;66662155;GENODE61ERS;75234;Kämpfelbach
+Raiffeisenbank Eschlkam-Lam-Lohberg-Neukirchen b Hl Blut;Volksbank/Raiffeisenbank;;RB Eschlk-Lam-Lohb-Neukirch;75069110;GENODEF1NKN;93453;Neukirchen b.Hl.Blut
+Raiffeisenbank Falkenstein-Wörth;Volksbank/Raiffeisenbank;;Raiffbk Falkenstein-Wörth;75069038;GENODEF1FKS;93167;Falkenstein
+Raiffeisenbank Flachsmeer;Volksbank/Raiffeisenbank;;Raiffbk Flachsmeer Westover;28562716;GENODEF1WEF;26810;Westoverledingen
+Raiffeisenbank Floß;Volksbank/Raiffeisenbank;;Raiffeisenbank Floß;75362039;GENODEF1FLS;92685;Floß
+Raiffeisenbank Frankenhardt-Stimpfach;Volksbank/Raiffeisenbank;;Raiffbk Frankenh-Stimpfach;60069442;GENODES1RFS;74597;Stimpfach
+Raiffeisenbank Fränkische Schweiz;Volksbank/Raiffeisenbank;;RB Fränkische Schweiz;77365792;GENODEF1HWA;96142;Hollfeld
+Raiffeisenbank Gammesfeld;Volksbank/Raiffeisenbank;;Raiffbk Gammesfeld;60069710;GENODES1RGF;74572;Blaufelden
+Raiffeisenbank Geiselhöring-Pfaffenberg;Volksbank/Raiffeisenbank;;Raiffbk Geiselhöring-Pfabg;74369088;GENODEF1GPF;94333;Geiselhöring
+Raiffeisenbank Geislingen-Rosenfeld;Volksbank/Raiffeisenbank;;Raiffbk Geislingen-Rosenf;60069463;GENODES1RKH;72348;Rosenfeld
+Raiffeisenbank Geislingen-Rosenfeld;Volksbank/Raiffeisenbank;;Raiffbk Geislingen-Rosenf;65362499;GENODES1GEI;72349;Geislingen
+Raiffeisenbank Gilching;Volksbank/Raiffeisenbank;;Raiffeisenbank Gilching;70169382;GENODEF1GIL;82205;Gilching
+Raiffeisenbank Gmund am Tegernsee;Volksbank/Raiffeisenbank;;Raiffeisenbank Gmund am Teg;70169383;GENODEF1GMU;83703;Gmund a. Tegernsee
+Raiffeisenbank Goldener Steig - Dreisessel;Volksbank/Raiffeisenbank;;Raiffbk Gold Steig Dreisess;74061101;GENODEF1RGS;94133;Röhrnbach
+Raiffeisenbank Grafschaft-Wachtberg;Volksbank/Raiffeisenbank;;Raiffbk Grafschaft-Wachtbg;57762265;GENODED1GRO;53501;Grafschaft
+Raiffeisenbank Griesstätt-Halfing;Volksbank/Raiffeisenbank;;Raiffbk Griesstätt-Halfing;70169132;GENODEF1HFG;83128;Halfing
+Raiffeisenbank Grimma;Volksbank/Raiffeisenbank;;Raiffeisenbank Grimma;86065483;GENODEF1GMR;04662;Grimma
+Raiffeisenbank Gruibingen;Volksbank/Raiffeisenbank;;Raiffbk Gruibingen;60069242;GENODES1RGR;73344;Gruibingen
+Raiffeisenbank Gymnich;Volksbank/Raiffeisenbank;;Raiffeisenbank Gymnich;37069322;GENODED1EGY;50374;Erftstadt
+Raiffeisenbank Haag-Gars-Maitenbeth;Volksbank/Raiffeisenbank;;Raiffbk Haag-Gars-Maitenb;70169388;GENODEF1HMA;83523;Haag i.OB
+Raiffeisenbank Haibach-Obernau;Volksbank/Raiffeisenbank;;Raiffbk Haibach-Obernau;79568518;GENODEF1HAC;63803;Haibach
+Raiffeisenbank Hallertau;Volksbank/Raiffeisenbank;;Raiffeisenbank Hallertau;70169693;GENODEF1RHT;84104;Rudelzhausen
+Raiffeisenbank Hardt-Bruhrain;Volksbank/Raiffeisenbank;;Raiffbk Hardt-Bruhrain;66062366;GENODE61DET;76704;Dettenheim
+Raiffeisenbank Hengersberg-Schöllnach;Volksbank/Raiffeisenbank;;Raiffbk Hengersb-Schöllnach;74161608;GENODEF1HBW;94491;Hengersberg
+Raiffeisenbank HessenNord;Volksbank/Raiffeisenbank;;Raiffeisenbank HessenNord;52063550;GENODEF1WOH;34466;Wolfhagen
+Raiffeisenbank Hirschau;Volksbank/Raiffeisenbank;;Raiffbk Hirschau;76069486;GENODEF1HSC;92242;Hirschau
+Raiffeisenbank Hochfranken West;Volksbank/Raiffeisenbank;;Raiffbk Hochfranken West;77069870;GENODEF1SZF;95236;Stammbach
+Raiffeisenbank Hofkirchen-Bayerbach;Volksbank/Raiffeisenbank;;Raiffbk Hofkirchen-Bayerbch;74369068;GENODEF1LWE;84082;Laberweinting
+Raiffeisenbank Hohenloher Land;Volksbank/Raiffeisenbank;;Raiffbk Hohenloher Land;60069714;GENODES1IBR;74665;Ingelfingen
+Raiffeisenbank Holzkirchen-Otterfing;Volksbank/Raiffeisenbank;;Raiffbk Holzkirchen-Otterf;70169410;GENODEF1HZO;83607;Holzkirchen
+Raiffeisenbank Höchberg;Volksbank/Raiffeisenbank;;Raiffeisenbank Höchberg;79063122;GENODEF1HBG;97201;Höchberg
+Raiffeisenbank Ichenhausen;Volksbank/Raiffeisenbank;;Raiffeisenbank Ichenhausen;72069119;GENODEF1ICH;89335;Ichenhausen
+Raiffeisenbank Isar-Loisachtal;Volksbank/Raiffeisenbank;;Raiffbk Isar-Loisachtal;70169543;GENODEF1HHS;82504;Wolfratshausen
+Raiffeisenbank Kaarst;Volksbank/Raiffeisenbank;;Raiffeisenbank Kaarst;37069405;GENODED1KAA;41564;Kaarst
+Raiffeisenbank Kaiserstuhl;Volksbank/Raiffeisenbank;;Raiffeisenbank Kaiserstuhl;68063479;GENODE61VOK;79235;Vogtsburg im Kaiserstuhl
+Raiffeisenbank Kalbe-Bismark;Volksbank/Raiffeisenbank;;Raiffbk Kalbe-Bismark;81063028;GENODEF1KAB;39624;Kalbe (Milde)
+Raiffeisenbank Kastellaun;Volksbank/Raiffeisenbank;;Raiffeisenbank Kastellaun;56061151;GENODED1KSL;56284;Kastellaun
+Raiffeisenbank Kieselbronn;Volksbank/Raiffeisenbank;;Raiffeisenbank Kieselbronn;66661329;GENODE61KBR;75249;Kieselbronn
+Raiffeisenbank Kirchweihtal;Volksbank/Raiffeisenbank;;Raiffeisenbank Kirchweihtal;73369918;GENODEF1OKI;87666;Pforzen
+Raiffeisenbank Kirtorf;Volksbank/Raiffeisenbank;;Raiffeisenbank Kirtorf;50069477;GENODE51KIF;36320;Kirtorf
+Raiffeisenbank Knoblauchsland-Bibertgrund;Volksbank/Raiffeisenbank;;Rbk Knoblauchsl-Bibertgrund;76069669;GENODEF1ZIR;90427;Nürnberg
+Raiffeisenbank Kreis Kelheim;Volksbank/Raiffeisenbank;;Raiffbk Kreis Kelheim;75069014;GENODEF1ABS;93077;Bad Abbach
+Raiffeisenbank Küps-Mitwitz-Stockheim;Volksbank/Raiffeisenbank;;Raiffbk Küps-Mitwitz-Stockh;77069044;GENODEF1KC2;96328;Küps
+Raiffeisenbank Landshuter Land;Volksbank/Raiffeisenbank;;Raiffbk Landshuter Land;74362663;GENODEF1ERG;84030;Ergolding
+Raiffeisenbank Lech-Donau;Volksbank/Raiffeisenbank;;RB Lech-Donau;72069005;GENODEF1AIL;86676;Ehekirchen
+Raiffeisenbank Lechrain;Volksbank/Raiffeisenbank;;Raiffeisenbank Lechrain;70169351;GENODEF1ELB;86925;Fuchstal
+Raiffeisenbank Leezen;Volksbank/Raiffeisenbank;;Raiffeisenbank Leezen;23061220;GENODEF1LZN;23816;Leezen
+Raiffeisenbank Lorup;Volksbank/Raiffeisenbank;;Raiffeisenbank Lorup;28069935;GENODEF1LRU;26900;Lorup
+Raiffeisenbank MEHR;Volksbank/Raiffeisenbank;;Raiffeisenbank MEHR;57069144;GENODED1KAI;56759;Kaisersesch
+Raiffeisenbank Main-Spessart;Volksbank/Raiffeisenbank;;Raiffbk Main-Spessart;79069150;GENODEF1GEM;97816;Lohr a. Main
+Raiffeisenbank Mainschleife - Steigerwald;Volksbank/Raiffeisenbank;;RB Mainschleife-Steigerwald;79069001;GENODEF1WED;97332;Volkach
+Raiffeisenbank Maintal Ndl d Frankfurter VB;Volksbank/Raiffeisenbank;;Frankfurter Volksbank;50662669;RBMFDEF1XXX;63477;Maintal
+Raiffeisenbank Maitis;Volksbank/Raiffeisenbank;;Raiffbk Maitis;60069336;GENODES1RMA;73037;Göppingen
+Raiffeisenbank Mecklenburger Seenplatte;Volksbank/Raiffeisenbank;;Raiffbk Mecklenb Seenplatte;15061618;GENODEF1WRN;17192;Waren (Müritz)
+Raiffeisenbank Mehring-Leiwen;Volksbank/Raiffeisenbank;;Raiffbk Mehring-Leiwen;58561771;GENODED1MLW;54340;Leiwen
+Raiffeisenbank Mittelschwaben;Volksbank/Raiffeisenbank;;Raiffbk Mittelschwaben;72069126;GENODEF1BBT;89297;Roggenburg
+Raiffeisenbank Moormerland;Volksbank/Raiffeisenbank;;Raiffeisenbank Moormerland;28562863;GENODEF1HTL;26835;Holtland
+Raiffeisenbank München-Nord;Volksbank/Raiffeisenbank;;Raiffbk München-Nord;70169465;GENODEF1M08;85704;Unterschleißheim
+Raiffeisenbank München-Süd;Volksbank/Raiffeisenbank;;Raiffeisenbank München-Süd;70169466;GENODEF1M03;81457;München
+Raiffeisenbank Nahe;Volksbank/Raiffeisenbank;;Raiffeisenbank Nahe;56261735;GENODED1FIN;55743;Fischbach
+Raiffeisenbank Neumarkt;Volksbank/Raiffeisenbank;;Raiffeisenbank Neumarkt;76069553;GENODEF1NM1;92305;Neumarkt i.d.OPf.
+Raiffeisenbank Neumarkt-St. Veit - Reischach;Volksbank/Raiffeisenbank;;Raiffbk Neumarkt-Reischach;70169530;GENODEF1RWZ;84571;Reischach
+Raiffeisenbank Neustadt;Volksbank/Raiffeisenbank;;Raiffbk Neustadt;57069238;GENODED1ASN;53573;Neustadt (Wied)
+Raiffeisenbank Niedere Alb;Volksbank/Raiffeisenbank;;Raiffeisenbank Niedere Alb;60069066;GENODES1RBA;89129;Langenau
+Raiffeisenbank Nördliche Bergstraße;Volksbank/Raiffeisenbank;;Raiffbk Nördliche Bergstr;50861501;GENODE51ABH;64659;Alsbach-Hähnlein
+Raiffeisenbank Oberaudorf;Volksbank/Raiffeisenbank;;Raiffeisenbank Oberaudorf;71162355;GENODEF1OBD;83080;Oberaudorf
+Raiffeisenbank Oberferrieden-Burgthann;Volksbank/Raiffeisenbank;;Raiffbk Oberferrieden-Burgt;76069564;GENODEF1BTO;90559;Burgthann
+Raiffeisenbank Oberland;Volksbank/Raiffeisenbank;;Raiffeisenbank Oberland;77069868;GENODEF1MGA;95352;Marktleugast
+Raiffeisenbank Oberpfalz NordWest;Volksbank/Raiffeisenbank;;Raiffbk Oberpfalz NordWest;77069764;GENODEF1KEM;95478;Kemnath
+Raiffeisenbank Oberpfalz Süd;Volksbank/Raiffeisenbank;;Raiffbk Oberpfalz Süd;75062026;GENODEF1DST;93093;Donaustauf
+Raiffeisenbank Oberteuringen-Meckenbeuren;Volksbank/Raiffeisenbank;;RB Oberteuringen-Meckenb.;65162832;GENODES1OTE;88094;Oberteuringen
+Raiffeisenbank Oldersum;Volksbank/Raiffeisenbank;;Raiffeisenbank Oldersum;28069755;GENODEF1MLO;26802;Moormerland
+Raiffeisenbank Ortenburg-Kirchberg;Volksbank/Raiffeisenbank;;Raiffbk Ortenburg-Kirchberg;74061670;GENODEF1ORT;94496;Ortenburg
+Raiffeisenbank Ostprignitz-Ruppin;Volksbank/Raiffeisenbank;;Raiffeisenbank Ostpr-Ruppin;16061938;GENODEF1NPP;16803;Neuruppin
+Raiffeisenbank Ottenbach;Volksbank/Raiffeisenbank;;Raiffeisenbank Ottenbach;60069457;GENODES1OTT;73113;Ottenbach
+Raiffeisenbank Owschlag;Volksbank/Raiffeisenbank;;Raiffeisenbank Owschlag;20069641;GENODEF1OWS;24811;Owschlag
+Raiffeisenbank Parkstetten;Volksbank/Raiffeisenbank;;Raiffeisenbank Parkstetten;74369130;GENODEF1PST;94365;Parkstetten
+Raiffeisenbank Pfaffenhausen;Volksbank/Raiffeisenbank;;Raiffbk Pfaffenhausen;72069789;GENODEF1PFA;87772;Pfaffenhausen
+Raiffeisenbank Pfaffenhofen a d Glonn;Volksbank/Raiffeisenbank;;Raiffbk Pfaffenhofen Glonn;70169186;GENODEF1ODZ;85235;Odelzhausen
+Raiffeisenbank Pfaffenwinkel;Volksbank/Raiffeisenbank;;Raiffbk Pfaffenwinkel;70169509;GENODEF1PEI;86971;Peiting
+Raiffeisenbank Plankstetten;Volksbank/Raiffeisenbank;;Raiffeisenbank Plankstetten;76069576;GENODEF1BPL;92334;Berching
+Raiffeisenbank Rastede;Volksbank/Raiffeisenbank;;Raiffeisenbank Rastede;28062165;GENODEF1RSE;26170;Rastede
+Raiffeisenbank Rattiszell-Konzell;Volksbank/Raiffeisenbank;;Raiffbk Rattiszell-Konzell;74369146;GENODEF1RZK;94372;Rattiszell
+Raiffeisenbank Regensburg-Wenzenbach;Volksbank/Raiffeisenbank;;Raiffbk Regensburg-Wenzenb;75060150;GENODEF1R02;93018;Regensburg
+Raiffeisenbank Regenstauf;Volksbank/Raiffeisenbank;;Raiffeisenbank Regenstauf;75061851;GENODEF1REF;93122;Regenstauf
+Raiffeisenbank Reute-Gaisbeuren;Volksbank/Raiffeisenbank;;Raiffbk Reute-Gaisbeuren;60069350;GENODES1RRG;88339;Bad Waldsee
+Raiffeisenbank Rosenstein;Volksbank/Raiffeisenbank;;Raiffeisenbank Rosenstein;61361722;GENODES1HEU;73540;Heubach
+Raiffeisenbank Rupertiwinkel;Volksbank/Raiffeisenbank;;Raiffbk Rupertiwinkel;70169191;GENODEF1TEI;83315;Teisendorf
+Raiffeisenbank Scharrel;Volksbank/Raiffeisenbank;;Raiffeisenbank Scharrel;28065286;GENODEF1SAN;26683;Saterland
+Raiffeisenbank Schrobenhausener Land;Volksbank/Raiffeisenbank;;Raiffbk Schrobenhausener Ld;72169246;GENODEF1WFN;86571;Langenmosen
+Raiffeisenbank Schrozberg-Rot am See;Volksbank/Raiffeisenbank;;Raiffbk Schrozberg-Rot;60069595;GENODES1SBB;74573;Schrozberg
+Raiffeisenbank Schwaben Mitte;Volksbank/Raiffeisenbank;;Raiffbk Schwaben Mitte;72069736;GENODEF1BLT;86370;Krumbach (Schwaben)
+Raiffeisenbank Schwabmünchen-Stauden;Volksbank/Raiffeisenbank;;RB Schwabmünchen-Stauden;72069220;GENODEF1SMU;86827;Schwabmünchen
+Raiffeisenbank Singoldtal;Volksbank/Raiffeisenbank;;Raiffbk Singoldtal;70169413;GENODEF1HUA;86857;Hurlach
+Raiffeisenbank Sinzing;Volksbank/Raiffeisenbank;;Raiffeisenbank Sinzing;75069078;GENODEF1SZV;93161;Sinzing
+Raiffeisenbank Sondelfingen;Volksbank/Raiffeisenbank;;Raiffbk Sondelfingen;60069147;GENODES1RSF;72740;Reutlingen
+Raiffeisenbank Steingaden;Volksbank/Raiffeisenbank;;Raiffeisenbank Steingaden;70169558;GENODEF1SGA;86989;Steingaden
+Raiffeisenbank Straubing;Volksbank/Raiffeisenbank;;Raiffeisenbank Straubing;74260110;GENODEF1SR2;94315;Straubing
+Raiffeisenbank Strücklingen-Idafehn;Volksbank/Raiffeisenbank;;Raiffbk Strückl.-Idafehn;28069052;GENODEF1ORF;26842;Ostrhauderfehn
+Raiffeisenbank Südhardt Durmersheim;Volksbank/Raiffeisenbank;;Rb Südhardt Durmersheim;66562053;GENODE61DUR;76448;Durmersheim
+Raiffeisenbank Südliches Ostallgäu;Volksbank/Raiffeisenbank;;Raiffbk Südliches Ostallgäu;73369933;GENODEF1RHP;87637;Seeg
+Raiffeisenbank Taufkirchen-Oberneukirchen;Volksbank/Raiffeisenbank;;Raiffbk Taufk-Oberneukirch;70169568;GENODEF1TAE;84565;Oberneukirchen
+Raiffeisenbank Tüngental;Volksbank/Raiffeisenbank;;Raiffbk Tüngental;60069950;GENODES1TUN;74523;Schwäbisch Hall
+Raiffeisenbank Uehlfeld-Dachsbach;Volksbank/Raiffeisenbank;;Raiffbk Uehlfeld-Dachsbach;76069404;GENODEF1DSB;91462;Dachsbach
+Raiffeisenbank Unteres Inntal;Volksbank/Raiffeisenbank;;Raiffbk Unteres Inntal;74061564;GENODEF1NUI;94152;Neuhaus a.Inn
+Raiffeisenbank Unteres Vilstal;Volksbank/Raiffeisenbank;;Raiffbk Unteres Vilstal;76069611;GENODEF1SDM;92287;Schmidmühlen
+Raiffeisenbank Unteres Zusamtal;Volksbank/Raiffeisenbank;;Raiffbk Unteres Zusamtal;72069179;GENODEF1BWI;86647;Buttenwiesen
+Raiffeisenbank Voreifel;Volksbank/Raiffeisenbank;;Raiffbk Voreifel, Rheinbach;37069627;GENODED1RBC;53359;Rheinbach
+Raiffeisenbank Wald-Görisried;Volksbank/Raiffeisenbank;;Raiffbk Wald-Görisried;73369954;GENODEF1WGO;87616;Wald
+Raiffeisenbank Wallgau-Krün;Volksbank/Raiffeisenbank;;Raiffbk Wallgau-Krün;70362595;GENODEF1WAK;82499;Wallgau
+Raiffeisenbank Wangen;Volksbank/Raiffeisenbank;;Raiffeisenbank Wangen;60069685;GENODES1RWA;73117;Wangen
+Raiffeisenbank Welling;Volksbank/Raiffeisenbank;;Raiffeisenbank Welling;57069361;GENODED1WLG;56753;Welling
+Raiffeisenbank Werratal-Landeck;Volksbank/Raiffeisenbank;;Raiffbk Werratal-Landeck;53261342;GENODEF1RAW;36266;Heringen (Werra)
+Raiffeisenbank Wesermarsch-Süd;Volksbank/Raiffeisenbank;;Raiffbk Wesermarsch-Süd;28061410;GENODEF1BRN;26913;Brake (Unterweser)
+Raiffeisenbank Westeifel;Volksbank/Raiffeisenbank;;Raiffeisenbank Westeifel;58661901;GENODED1WSC;54687;Arzfeld
+Raiffeisenbank Westhausen;Volksbank/Raiffeisenbank;;Raiffeisenbank Westhausen;60069544;GENODES1RWN;73461;Westhausen
+Raiffeisenbank Westkreis Fürstenfeldbruck;Volksbank/Raiffeisenbank;;Raiffbk Westkreis;70169460;GENODEF1MOO;82272;Moorenweis
+Raiffeisenbank Wiesedermeer-Wiesede-Marcardsm;Volksbank/Raiffeisenbank;;Raiffbk Wiesederm-Wiesede-M;28069773;GENODEF1WWM;26446;Friedeburg
+Raiffeisenbank Wittelsbacher Land;Volksbank/Raiffeisenbank;;RB Wittelsb. Land, Mering;72069155;GENODEF1MRI;86415;Mering
+Raiffeisenbank Wyhl;Volksbank/Raiffeisenbank;;Raiffbk Wyhl Kaiserstuhl;68062730;GENODE61WYH;79369;Wyhl am Kaiserstuhl
+Raiffeisenbank Wüstenselbitz;Volksbank/Raiffeisenbank;;Raiffbk Wüstenselbitz;77069906;GENODEF1WSZ;95233;Helmbrechts
+Raiffeisenbank am Kulm;Volksbank/Raiffeisenbank;;Raiffeisenbank am Kulm;77069782;GENODEF1SPK;95469;Speichersdorf
+Raiffeisenbank i Lkr Passau-Nord;Volksbank/Raiffeisenbank;;Raiffbk i Lkr Passau-Nord;74062786;GENODEF1TIE;94113;Tiefenbach
+Raiffeisenbank im Allgäuer Land;Volksbank/Raiffeisenbank;;Raiffbk im Allg Land;73369264;GENODEF1DTA;87463;Dietmannsried
+Raiffeisenbank im Breisgau;Volksbank/Raiffeisenbank;;Raiffeisenbank im Breisgau;68064222;GENODE61GUN;79194;Gundelfingen
+Raiffeisenbank im Donautal;Volksbank/Raiffeisenbank;;Raiffbk im Donautal;72169812;GENODEF1GAH;85080;Gaimersheim
+Raiffeisenbank im Fuldaer Land;Volksbank/Raiffeisenbank;;RB im Fuldaer LandGrl.;53062035;GENODEF1GLU;36137;Großenlüder
+Raiffeisenbank im Grabfeld;Volksbank/Raiffeisenbank;;Raiffeisenbank im Grabfeld;79069188;GENODEF1SLZ;97528;Sulzdorf a.d.Lederhecke
+Raiffeisenbank im Kreis Calw;Volksbank/Raiffeisenbank;;Raiffbk Calw;60663084;GENODES1RCW;75387;Neubulach
+Raiffeisenbank im Nürnberger Land;Volksbank/Raiffeisenbank;;Raiffbk im Nürnberger Land;76061482;GENODEF1HSB;90537;Feucht
+Raiffeisenbank im Oberland;Volksbank/Raiffeisenbank;;Raiffbk im Oberland;70169598;GENODEF1MIB;83646;Bad Tölz
+Raiffeisenbank im Oberpfälzer Jura;Volksbank/Raiffeisenbank;;Raiffbk im Oberpf. Jura;75069061;GENODEF1HEM;92331;Parsberg
+Raiffeisenbank in Rheinhessen;Volksbank/Raiffeisenbank;;Raiffeisenbank Rheinhessen;55060611;GENODE51MZ6;55120;Mainz
+Raiffeisenbank-Volksbank Oder-Spree;Volksbank/Raiffeisenbank;;Raiff-VB Oder-Spree Beeskow;17062428;GENODEF1BKW;15848;Beeskow
+Rheingauer Volksbank;Volksbank/Raiffeisenbank;;Rheingauer Volksbank;51091500;GENODE51RGG;65359;Geisenheim
+VBU Volksbank im Unterland;Volksbank/Raiffeisenbank;;VBU Volksbank im Unterland;62063263;GENODES1VLS;74336;Brackenheim
+VR Bank;Volksbank/Raiffeisenbank;;VR Bank Monheim am Rhein;30560548;GENODED1NLD;40789;Monheim am Rhein
+VR Bank;Volksbank/Raiffeisenbank;;VR Bank;55361202;GENODE51AHM;67577;Alsheim
+VR Bank Alzey-Land-Schwabenheim;Volksbank/Raiffeisenbank;;VRB Alzey-Land-Schwabenheim;50069126;GENODE51ABO;55270;Schwabenheim an der Selz
+VR Bank Amberg-Sulzbach;Volksbank/Raiffeisenbank;;VR Bank Amberg-Sulzbach;75290000;GENODEF1AMV;92237;Sulzbach-Rosenberg
+VR Bank Augsburg-Ostallgäu;Volksbank/Raiffeisenbank;;VR Bank Augsburg-Ostallgäu;72090000;GENODEF1AUB;86012;Augsburg
+VR Bank Bad Orb-Gelnhausen;Volksbank/Raiffeisenbank;;VR Bank Bad Orb-Gelnhausen;50790000;GENODE51GEL;63571;Gelnhausen
+VR Bank Bamberg-Forchheim Volks- Raiffeisenbank;Volksbank/Raiffeisenbank;;VR Bank Bamberg-Forchheim;76391000;GENODEF1FOH;96014;Bamberg
+VR Bank Bayreuth-Hof;Volksbank/Raiffeisenbank;;VR Bank Bayreuth-Hof;78060896;GENODEF1HO1;95444;Bayreuth
+VR Bank Bergisch Gladbach-Leverkusen;Volksbank/Raiffeisenbank;;VR Bank Berg.Gladbach-Lever;37062600;GENODED1PAF;51465;Bergisch Gladbach
+VR Bank Donau-Oberschwaben;Volksbank/Raiffeisenbank;;VR Bank Donau-Oberschwaben;65093020;GENODES1SLG;88348;Bad Saulgau
+VR Bank Dreieich-Offenbach;Volksbank/Raiffeisenbank;;VR Bank Dreieich-Offenbach;50592200;GENODE51DRE;63303;Dreieich
+VR Bank Fulda;Volksbank/Raiffeisenbank;;VR Bank Fulda;53060180;GENODE51FUL;36037;Fulda
+VR Bank Fürstenwalde Seelow Wriezen;Volksbank/Raiffeisenbank;;VR Bank Fürstenwalde;17092404;GENODEF1FW1;15501;Fürstenwalde/Spree
+VR Bank Heilbronn Schwäbisch Hall;Volksbank/Raiffeisenbank;;VR Bk Heilbronn Schwäb.Hall;62290110;GENODES1SHA;74523;Schwäbisch Hall
+VR Bank Ihre Heimatbank;Volksbank/Raiffeisenbank;;VR Bank Ihre Heimatbank;82064088;GENODEF1ESA;99817;Eisenach
+VR Bank Kempten-Oberallgäu;Volksbank/Raiffeisenbank;;VR Bank Kempten-Oberallgäu;73369920;GENODEF1SFO;87435;Kempten (Allgäu)
+VR Bank Kitzingen;Volksbank/Raiffeisenbank;;VR Bank Kitzingen;79190000;GENODEF1KT1;97318;Kitzingen
+VR Bank Lahn-Dill;Volksbank/Raiffeisenbank;;VR Bank Lahn-Dill;51762434;GENODE51BIK;35683;Dillenburg
+VR Bank Lausitz;Volksbank/Raiffeisenbank;;VR Bank Lausitz;18062678;GENODEF1FWA;03044;Cottbus
+VR Bank Leipziger Land;Volksbank/Raiffeisenbank;;VR Bank Leipziger Land;86065448;GENODEF1BOA;04552;Borna
+VR Bank Main-Kinzig-Büdingen;Volksbank/Raiffeisenbank;;VR Bk Main-Kinzig-Büdingen;50661639;GENODEF1LSR;63654;Büdingen
+VR Bank Mecklenburg;Volksbank/Raiffeisenbank;;VR Bank Mecklenburg;14061308;GENODEF1GUE;18055;Rostock
+VR Bank Mittelhaardt;Volksbank/Raiffeisenbank;;VR Bank Mittelhaardt;54691200;GENODE61DUW;67098;Bad Dürkheim
+VR Bank Mittlere Oberpfalz;Volksbank/Raiffeisenbank;;VR Bank Mittlere Oberpfalz;75069171;GENODEF1SWD;92507;Nabburg
+VR Bank München Land;Volksbank/Raiffeisenbank;;VR Bank München Land;70166486;GENODEF1OHC;82041;Deisenhofen
+VR Bank Neuburg-Rain;Volksbank/Raiffeisenbank;;VR Bank Neuburg-Rain;72169756;GENODEF1ND2;86633;Neuburg a.d.Donau
+VR Bank Niederbayern-Oberpfalz;Volksbank/Raiffeisenbank;;VR Bank Niederbayern-Oberpf;75090900;GENODEF1P18;93047;Regensburg
+VR Bank Nord;Volksbank/Raiffeisenbank;;VR Bank Nord;21763542;GENODEF1BDS;24937;Flensburg
+VR Bank Oberfranken Mitte;Volksbank/Raiffeisenbank;;VR Bank Oberfranken Mitte;77190000;GENODEF1KU1;95326;Kulmbach
+VR Bank Rhein-Neckar;Volksbank/Raiffeisenbank;;VR Bank Rhein-Neckar;67090000;GENODE61MA2;68165;Mannheim
+VR Bank RheinAhrEifel;Volksbank/Raiffeisenbank;;VR Bank RheinAhrEifel;57761591;GENODED1BNA;56068;Koblenz
+VR Bank Ried-Überwald, Bürstadt;Volksbank/Raiffeisenbank;;VR Bank Ried-Überwald, Bürs;50961206;GENODE51RBU;68642;Bürstadt
+VR Bank Schleswig-Holstein Mitte;Volksbank/Raiffeisenbank;;VR Bank SH Mitte;21762550;GENODEF1HUM;24783;Osterrönfeld
+VR Bank Schwäbischer Wald;Volksbank/Raiffeisenbank;;VR Bank Schwäbischer Wald;61391410;GENODES1WEL;73642;Welzheim
+VR Bank Starnberg-Zugspitze;Volksbank/Raiffeisenbank;;VR Bank Starnberg-Zugspitze;70093200;GENODEF1STH;82319;Starnberg
+VR Bank Südliche Weinstraße-Wasgau;Volksbank/Raiffeisenbank;;VR Bank Südl Weinstr-Wasgau;54891300;GENODE61BZA;76887;Bad Bergzabern
+VR Bank Südpfalz;Volksbank/Raiffeisenbank;;VR Bank Südpfalz;54862500;GENODE61SUW;76829;Landau in der Pfalz
+VR Bank Weimar;Volksbank/Raiffeisenbank;;VR Bank Weimar;82064188;GENODEF1WE1;99405;Weimar
+VR Bank Westfalen-Lippe;Volksbank/Raiffeisenbank;;VR Bank Westfalen-Lippe;41660124;GENODEM1LPS;59555;Lippstadt
+VR Bank Wächtersbach/Bad Soden-Salmünster -alt;Volksbank/Raiffeisenbank;;VR Bank Wächtersbach -alt-;50794300;GENODE51WBH;63607;Wächtersbach
+VR Bank im südlichen Franken;Volksbank/Raiffeisenbank;;VR Bank im südl. Franken;76591000;GENODEF1DKV;91781;Weißenburg i.Bay.
+VR Bank in Holstein;Volksbank/Raiffeisenbank;;VR Bank in Holstein;22191405;GENODEF1PIN;25421;Pinneberg
+VR Bank in Thüringen;Volksbank/Raiffeisenbank;;VR Bank in Thüringen;82064038;GENODEF1MU2;99974;Mühlhausen/Thüringen
+VR Bank zwischen den Meeren;Volksbank/Raiffeisenbank;;VR Bank zdM, Neumünster;21390008;GENODEF1NSH;24534;Neumünster
+VR-Bank;Volksbank/Raiffeisenbank;;VR-Bank Würselen;39162980;GENODED1WUR;52135;Würselen
+VR-Bank Alb-Blau-Donau;Volksbank/Raiffeisenbank;;VR-Bank Alb-Blau-Donau;60069346;GENODES1REH;89584;Ehingen (Donau)
+VR-Bank Altenburger Land / Deutsche Skatbank;Volksbank/Raiffeisenbank;;VR-Bank ABG-Land / Skatbank;83065408;GENODEF1SLR;04626;Schmölln
+VR-Bank Bad Kissingen;Volksbank/Raiffeisenbank;;VR-Bank Bad Kissingen;79065028;GENODEF1BRK;97688;Bad Kissingen
+VR-Bank Bonn Rhein-Sieg;Volksbank/Raiffeisenbank;;VR-Bank Bonn Rhein-Sieg;37069520;GENODED1RST;53721;Siegburg
+VR-Bank Coburg;Volksbank/Raiffeisenbank;;VR-Bank Coburg;78360000;GENODEF1COS;96416;Coburg
+VR-Bank Donau-Mindel;Volksbank/Raiffeisenbank;;VR-Bank Donau-Mindel;72069043;GENODEF1GZ2;89407;Dillingen a.d.Donau
+VR-Bank Ehningen-Nufringen;Volksbank/Raiffeisenbank;;VR-Bank Ehningen-Nufringen;60069355;GENODES1EHN;71139;Ehningen
+VR-Bank Ellwangen;Volksbank/Raiffeisenbank;;VR-Bank Ellwangen;61491010;GENODES1ELL;73471;Ellwangen (Jagst)
+VR-Bank Erding;Volksbank/Raiffeisenbank;;VR-Bank Erding;70169605;GENODEF1ISE;85435;Erding
+VR-Bank Fichtelgebirge-Frankenwald;Volksbank/Raiffeisenbank;;VR-Bk Fichtelgeb.-Frankenw.;78160069;GENODEF1MAK;95605;Marktredwitz
+VR-Bank Fläming-Elsterland;Volksbank/Raiffeisenbank;;VR-Bank Fläming-Elsterland;16062008;GENODEF1LUK;14943;Luckenwalde
+VR-Bank Freudenberg-Niederfischbach;Volksbank/Raiffeisenbank;;VR-Bank Freudenb.-Niederfi.;46061724;GENODEM1FRF;57258;Freudenberg
+VR-Bank Handels- und Gewerbebank;Volksbank/Raiffeisenbank;;VR-Bank HG-Bank;72062152;GENODEF1MTG;86358;Gersthofen
+VR-Bank Isar-Vils;Volksbank/Raiffeisenbank;;VR-Bk Isar-Vils Vilsbiburg;74392300;GENODEF1VBV;84131;Vilsbiburg
+VR-Bank Ismaning Hallbergmoos Neufahrn;Volksbank/Raiffeisenbank;;VR-Bank Ismaning Hallb Neuf;70093400;GENODEF1ISV;85737;Ismaning
+VR-Bank Landau-Mengkofen;Volksbank/Raiffeisenbank;;VR-Bank Landau-Mengkofen;74191000;GENODEF1LND;94405;Landau a.d.Isar
+VR-Bank Landsberg-Ammersee;Volksbank/Raiffeisenbank;;VR-Bank Landsberg-Ammersee;70091600;GENODEF1DSS;86899;Landsberg am Lech
+VR-Bank Landshut;Volksbank/Raiffeisenbank;;VR-Bank Landshut;74390000;GENODEF1LH1;84037;Landshut
+VR-Bank Lichtenfels-Ebern;Volksbank/Raiffeisenbank;;VR-Bank Lichtenfels-Ebern;77091800;GENODEF1LIF;96215;Lichtenfels
+VR-Bank Ludwigsburg;Volksbank/Raiffeisenbank;;VR-Bank Ludwigsburg;60491430;GENODES1VBB;71636;Ludwigsburg
+VR-Bank Main-Rhön;Volksbank/Raiffeisenbank;;VR-Bank Main-Rhön;79069165;GENODEF1MLV;97526;Sennfeld
+VR-Bank Memmingen;Volksbank/Raiffeisenbank;;VR-Bank Memmingen;73190000;GENODEF1MM1;87689;Memmingen
+VR-Bank Mitte;Volksbank/Raiffeisenbank;;VR-Bank Mitte;52260385;GENODEF1ESW;37115;Duderstadt
+VR-Bank Mittelfranken Mitte;Volksbank/Raiffeisenbank;;VR-Bank Mittelfranken Mitte;76560060;GENODEF1ANS;91522;Ansbach
+VR-Bank Mittelsachsen;Volksbank/Raiffeisenbank;;VR-Bank Mittelsachsen;86065468;GENODEF1DL1;09599;Freiberg
+VR-Bank Neu-Ulm;Volksbank/Raiffeisenbank;;VR-Bank Neu-Ulm;73061191;GENODEF1NU1;89231;Neu-Ulm
+VR-Bank NordRhön;Volksbank/Raiffeisenbank;;VR-Bank NordRhön Hünfeld;53061230;GENODEF1HUE;36081;Hünfeld
+VR-Bank Nordeifel;Volksbank/Raiffeisenbank;;VR-Bank Nordeifel Schleiden;37069720;GENODED1SLE;53932;Schleiden
+VR-Bank Osnabrücker Nordland;Volksbank/Raiffeisenbank;;VR-Bank Osnabrücker Nordl.;26567943;GENODEF1NOP;49584;Fürstenau
+VR-Bank Ostalb;Volksbank/Raiffeisenbank;;VR-Bank Ostalb;61490150;GENODES1AAV;73407;Aalen
+VR-Bank Ostbayern-Mitte;Volksbank/Raiffeisenbank;;VR-Bank Ostbayern-Mitte;74290000;GENODEF1SR1;94315;Straubing
+VR-Bank Passau;Volksbank/Raiffeisenbank;;VR-Bank Passau;74090000;GENODEF1PA1;94015;Passau
+VR-Bank Rottal-Inn;Volksbank/Raiffeisenbank;;VR-Bank Rottal-Inn;74061813;GENODEF1PFK;84347;Pfarrkirchen
+VR-Bank Rottal-Inn;Volksbank/Raiffeisenbank;;VR-Bank Rottal-Inn;74391400;GENODEF1EGR;84301;Eggenfelden
+VR-Bank Spangenberg-Morschen;Volksbank/Raiffeisenbank;;VR-Bank Spangenbg-Morschen;52063369;GENODEF1SPB;34286;Spangenberg
+VR-Bank Südwestpfalz Pirmasens-Zweibrücken;Volksbank/Raiffeisenbank;;VR-Bank Südwestpfalz;54261700;GENODE61ROA;66953;Pirmasens
+VR-Bank Taufkirchen-Dorfen;Volksbank/Raiffeisenbank;;VR-Bank Taufkirchen-Dorfen;70169566;GENODEF1TAV;84416;Taufkirchen (Vils)
+VR-Bank Uckermark-Randow;Volksbank/Raiffeisenbank;;VR-Bank Uckermark-Randow;15091704;GENODEF1PZ1;17291;Prenzlau
+VR-Bank Vilshofen-Pocking;Volksbank/Raiffeisenbank;;VR Vilshofen-Pocking;74062490;GENODEF1VIR;94060;Pocking
+VR-Bank Werdenfels;Volksbank/Raiffeisenbank;;VR-Bank Werdenfels;70390010;GENODEF1GAP;82467;Garmisch-Partenkirchen
+VR-Bank in Mittelbaden;Volksbank/Raiffeisenbank;;VR-Bank Mittelb Iffezheim;66562300;GENODE61IFF;76473;Iffezheim
+VR-Bank in Nordhessen Westthüringen;Volksbank/Raiffeisenbank;;VR Nordhessen Westthüringen;84094754;GENODEF1SAL;36433;Bad Salzungen
+VR-Bank in Südniedersachsen;Volksbank/Raiffeisenbank;;VR-Bank in Südniedersachsen;26062433;GENODEF1DRA;37127;Dransfeld
+VR-Bank in Südoldenburg;Volksbank/Raiffeisenbank;;VR-Bank Südoldenburg;28061501;GENODEF1CLP;49681;Garrel
+VerbundVolksbank OWL;Volksbank/Raiffeisenbank;;VerbundVolksbank OWL;47260121;DGPBDE3MXXX;33098;Paderborn
+Vereinigte Raiffeisenbank Burgstädt;Volksbank/Raiffeisenbank;;Ver Raiffbk Burgstädt;87069077;GENODEF1BST;09217;Burgstädt
+Vereinigte VR Bank;Volksbank/Raiffeisenbank;;Vereinigte VR Bank;21791906;GENODEF1WYK;25938;Wyk auf Föhr
+Vereinigte VR Bank Kur- und Rheinpfalz;Volksbank/Raiffeisenbank;;VerVR Bank Kur-u Rheinpfalz;54790000;GENODE61SPE;67346;Speyer
+Vereinigte Volksbank;Volksbank/Raiffeisenbank;;Vereinigte Volksbank;28062249;GENODEF1HUD;27795;Hude
+Vereinigte Volksbank;Volksbank/Raiffeisenbank;;Vereinigte Volksbank;47264367;GENODEM1STM;33029;Brakel
+Vereinigte Volksbank Bramgau Osnabrück Wittlage;Volksbank/Raiffeisenbank;;Vereinigte Volksbank;26590025;GENODEF1OSV;49090;Osnabrück
+Vereinigte Volksbank Raiffeisenbank;Volksbank/Raiffeisenbank;;Vereinigte VB RB;50863513;GENODE51MIC;64354;Reinheim
+Vereinigte Volksbank Raiffeisenbank;Volksbank/Raiffeisenbank;;VVR-Bank Simmern;56061472;GENODED1KHK;55469;Simmern
+Vereinigte Volksbank Saarlouis-Losheim-Sulzbach/Saar;Volksbank/Raiffeisenbank;;Vereinigte Volksbank;59092000;GENODE51SB2;66740;Saarlouis
+Vereinigte Volksbanken;Volksbank/Raiffeisenbank;;Vereinigte Volksbanken;60390000;GENODES1BBV;71063;Sindelfingen
+Vereinte Volksbank;Volksbank/Raiffeisenbank;;Vereinte Volksbank;42461435;GENODEM1KIH;46282;Dorsten
+Volks- und Raiffeisenbank;Volksbank/Raiffeisenbank;;VB u Raiffbk;13061078;GENODEF1HWI;23952;Wismar
+Volks- und Raiffeisenbank Muldental;Volksbank/Raiffeisenbank;;VR-Bank Muldental Grimma;86095484;GENODEF1GMV;04668;Grimma
+Volks- und Raiffeisenbank Prignitz;Volksbank/Raiffeisenbank;;Volks- u Raiffbk Prignitz;16060122;GENODEF1PER;19348;Perleberg
+Volks- und Raiffeisenbank Saale-Unstrut;Volksbank/Raiffeisenbank;;Volks-Raiffbk Saale-Unstrut;80063648;GENODEF1NMB;06207;Merseburg
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Oldendorf;20069815;GENODEF1815;21724;Oldendorf
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank;25193331;GENODEF1PAT;30982;Pattensen
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Adelebsen;26061556;GENODEF1ADE;37139;Adelebsen
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank;27092555;GENODEF1WFV;38300;Wolfenbüttel
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Seesen;27893760;GENODEF1SES;38723;Seesen
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank;28066620;GENODEF1FOY;26169;Friesoythe
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank;29162394;GENODEF1OHZ;27704;Osterholz-Scharmbeck
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Worpswede;29166568;GENODEF1WOP;27726;Worpswede
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Lindenberg;73369826;GENODEF1LIA;88151;Lindenberg i. Allgäu
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Sangerhausen;80063558;GENODEF1SGH;06526;Sangerhausen
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Köthen;80063628;GENODEF1KOE;06351;Köthen (Anhalt)
+Volksbank;Volksbank/Raiffeisenbank;;Volksbank Gardelegen;81093034;GENODEF1GA1;39638;Gardelegen
+Volksbank  Emstek Essen Cappeln;Volksbank/Raiffeisenbank;;VB  Emstek Essen Cappeln;28063526;GENODEF1ESO;49692;Cappeln (Oldenburg)
+Volksbank - Die Gestalterbank;Volksbank/Raiffeisenbank;;Volksbank - Gestalterbank;66490000;GENODE61OG1;77652;Offenburg
+Volksbank Aachen Süd;Volksbank/Raiffeisenbank;;Volksbank Aachen Süd;39161490;GENODED1AAS;52037;Aachen
+Volksbank Ahlerstedt;Volksbank/Raiffeisenbank;;Volksbank Ahlerstedt;20069780;GENODEF1AST;21702;Ahlerstedt
+Volksbank Alb;Volksbank/Raiffeisenbank;;Volksbank Alb;63091300;GENODES1LAI;89129;Langenau
+Volksbank Aller-Oker;Volksbank/Raiffeisenbank;;Volksbank Aller-Oker;25069270;GENODEF1MUA;38539;Müden (Aller)
+Volksbank Allgäu-Oberschwaben;Volksbank/Raiffeisenbank;;Voba Allgäu-Oberschwaben;65091040;GENODES1LEU;88299;Leutkirch im Allgäu
+Volksbank Alzey-Worms;Volksbank/Raiffeisenbank;;Volksbank Alzey-Worms;55091200;GENODE61AZY;67547;Worms
+Volksbank Anröchte;Volksbank/Raiffeisenbank;;Volksbank Anröchte;41661206;GENODEM1ANR;59604;Anröchte
+Volksbank Ascheberg-Herbern;Volksbank/Raiffeisenbank;;Volksbank Ascheberg-Herbern;40069601;GENODEM1CAN;59381;Ascheberg
+Volksbank BRAWO;Volksbank/Raiffeisenbank;;Volksbank BRAWO;26991066;GENODEF1WOB;38440;Wolfsburg
+Volksbank Backnang;Volksbank/Raiffeisenbank;;Volksbank Backnang;60291120;GENODES1VBK;71522;Backnang
+Volksbank Bad Laer-Borgloh-Hilter-Melle;Volksbank/Raiffeisenbank;;VB Laer-Borgl-Hilter-Melle;26562490;GENODEF1HTR;49176;Hilter am Teutoburger Wald
+Volksbank Bad Salzuflen;Volksbank/Raiffeisenbank;;Volksbank Bad Salzuflen;48291490;GENODEM1BSU;32108;Bad Salzuflen
+Volksbank Baumberge;Volksbank/Raiffeisenbank;;Volksbank Baumberge;40069408;GENODEM1BAU;48727;Billerbeck
+Volksbank Beilstein-Ilsfeld-Abstatt;Volksbank/Raiffeisenbank;;VB Beilstein-Ilsfeld-Abstat;62062215;GENODES1BIA;71717;Beilstein
+Volksbank Berg;Volksbank/Raiffeisenbank;;Volksbank Berg;37069125;GENODED1RKO;51679;Wipperfürth
+Volksbank Bocholt;Volksbank/Raiffeisenbank;;Volksbank Bocholt;42860003;GENODEM1BOH;46395;Bocholt
+Volksbank Bochum Witten;Volksbank/Raiffeisenbank;;Volksbank Bochum Witten;43060129;GENODEM1BOC;44728;Bochum
+Volksbank Bodensee-Oberschwaben;Volksbank/Raiffeisenbank;;Volksbank Bodensee-Oberschw;65191500;GENODES1TET;88069;Tettnang
+Volksbank Brandoberndorf;Volksbank/Raiffeisenbank;;Volksbank Brandoberndorf;51591300;GENODE51WBO;35647;Waldsolms
+Volksbank Braunlage;Volksbank/Raiffeisenbank;;Volksbank Braunlage;27893359;GENODEF1BLG;38700;Braunlage
+Volksbank Breisgau Nord;Volksbank/Raiffeisenbank;;VB Breisgau Nord;68092000;GENODE61EMM;79312;Emmendingen
+Volksbank Breisgau-Markgräflerland;Volksbank/Raiffeisenbank;;VB Breisgau-Markgräflerland;68061505;GENODE61IHR;79427;Eschbach
+Volksbank Bremen-Nord;Volksbank/Raiffeisenbank;;Volksbank Bremen-Nord;29190330;GENODEF1HB2;28757;Bremen
+Volksbank Brenztal;Volksbank/Raiffeisenbank;;Volksbank Brenztal;60069527;GENODES1RNS;89537;Giengen an der Brenz
+Volksbank Brüggen-Nettetal;Volksbank/Raiffeisenbank;;Volksbank Brüggen-Nettetal;31062154;GENODED1KBN;41376;Brüggen
+Volksbank Butzbach;Volksbank/Raiffeisenbank;;Volksbank Butzbach;51861403;GENODE51BUT;35510;Butzbach
+Volksbank Bönen;Volksbank/Raiffeisenbank;;Volksbank Bönen;41062215;GENODEM1BO1;59194;Bönen
+Volksbank Börde-Bernburg;Volksbank/Raiffeisenbank;;Volksbank Börde-Bernburg;81069052;GENODEF1WZL;39164;Wanzleben-Börde
+Volksbank Börßum-Hornburg;Volksbank/Raiffeisenbank;;Volksbank Börßum-Hornburg;27062290;GENODEF1BOH;38312;Börßum
+Volksbank Bühl;Volksbank/Raiffeisenbank;;Volksbank Bühl;66291400;GENODE61BHL;77808;Bühl
+Volksbank Bühl Fil Kehl;Volksbank/Raiffeisenbank;;Volksbank Bühl;66491800;GENODE61BHL;77694;Kehl
+Volksbank Chemnitz;Volksbank/Raiffeisenbank;;Volksbank Chemnitz;87096214;GENODEF1CH1;09003;Chemnitz
+Volksbank Daaden;Volksbank/Raiffeisenbank;;Volksbank Daaden;57391200;GENODE51DAA;57567;Daaden
+Volksbank Dammer Berge;Volksbank/Raiffeisenbank;;Volksbank Dammer Berge;28061679;GENODEF1DAM;49396;Damme
+Volksbank Darmstadt Mainz;Volksbank/Raiffeisenbank;;VB Darmstadt Mainz;55190000;MVBMDE55XXX;55116;Mainz
+Volksbank Deisslingen;Volksbank/Raiffeisenbank;;Volksbank Deisslingen;64291420;GENODES1VDL;78652;Deißlingen
+Volksbank Delbrück-Rietberg;Volksbank/Raiffeisenbank;;Volksbank Delbrück-Rietberg;47862447;GENODEM1RNE;33129;Delbrück
+Volksbank Delitzsch;Volksbank/Raiffeisenbank;;Volksbank Delitzsch;86095554;GENODEF1DZ1;04509;Delitzsch
+Volksbank Demmin;Volksbank/Raiffeisenbank;;Volksbank Demmin;15091674;GENODEF1DM1;17109;Demmin, Hansestadt
+Volksbank Dessau-Anhalt;Volksbank/Raiffeisenbank;;Volksbank Dessau-Anhalt;80093574;GENODEF1DS1;06811;Dessau-Roßlau
+Volksbank Dettenhausen;Volksbank/Raiffeisenbank;;VB Dettenhausen;60069378;GENODES1DEH;72135;Dettenhausen
+Volksbank Dinslaken;Volksbank/Raiffeisenbank;;Volksbank Dinslaken;35261248;GENODED1DLK;46525;Dinslaken
+Volksbank Dreiländereck;Volksbank/Raiffeisenbank;;VB Dreiländereck Lörrach;68390000;VOLODE66XXX;79537;Lörrach
+Volksbank Dresden-Bautzen;Volksbank/Raiffeisenbank;;VB Dresden-Bautzen;85090000;GENODEF1DRS;01097;Dresden
+Volksbank Dünnwald-Holweide;Volksbank/Raiffeisenbank;;Volksbank Dünnwald-Holweide;37069427;GENODED1DHK;51069;Köln
+Volksbank Düsseldorf Neuss;Volksbank/Raiffeisenbank;;VB Düsseldorf Neuss;30160213;GENODED1DNE;40012;Düsseldorf
+Volksbank Düte-Ems;Volksbank/Raiffeisenbank;;VB Düte-Ems;26565928;GENODEF1HGM;49124;Georgsmarienhütte
+Volksbank Eisenberg;Volksbank/Raiffeisenbank;;Volksbank Eisenberg;83094494;GENODEF1ESN;07607;Eisenberg
+Volksbank Elsen-Wewer-Borchen;Volksbank/Raiffeisenbank;;VB Elsen-Wewer-Borchen;47260234;GENODEM1EWB;33075;Paderborn
+Volksbank Emmerich-Rees;Volksbank/Raiffeisenbank;;Volksbank Emmerich-Rees;35860245;GENODED1EMR;46427;Emmerich am Rhein
+Volksbank Emstal;Volksbank/Raiffeisenbank;;Volksbank Emstal;28069991;GENODEF1LTH;49759;Lathen
+Volksbank Enniger-Ostenfelde-Westkirchen;Volksbank/Raiffeisenbank;;VB Enniger-Ostenfelde-Westk;41261324;GENODEM1EOW;59320;Ennigerloh
+Volksbank Erft;Volksbank/Raiffeisenbank;;Volksbank Erft Elsdorf;37069252;GENODED1ERE;50183;Elsdorf
+Volksbank Ermstal-Alb;Volksbank/Raiffeisenbank;;Volksbank Ermstal-Alb;64091200;GENODES1MTZ;72555;Metzingen
+Volksbank Ettlingen;Volksbank/Raiffeisenbank;;Volksbank Ettlingen;66091200;GENODE61ETT;76263;Ettlingen
+Volksbank Euskirchen;Volksbank/Raiffeisenbank;;Volksbank Euskirchen;38260082;GENODED1EVB;53879;Euskirchen
+Volksbank Eutin Raiffeisenbank;Volksbank/Raiffeisenbank;;Volksbank Eutin;21392218;GENODEF1EUT;23693;Eutin
+Volksbank Filder;Volksbank/Raiffeisenbank;;VB Filder;61161696;GENODES1NHB;73761;Neuhausen auf den Fildern
+Volksbank Flein-Talheim;Volksbank/Raiffeisenbank;;Volksbank Flein-Talheim;62062643;GENODES1VFT;74223;Flein
+Volksbank Franken;Volksbank/Raiffeisenbank;;Volksbank Franken Buchen;67461424;GENODE61BUC;74713;Buchen (Odenwald)
+Volksbank Fredenbeck;Volksbank/Raiffeisenbank;;Volksbank Fredenbeck;20069812;GENODEF1FRB;21717;Fredenbeck
+Volksbank Freiburg;Volksbank/Raiffeisenbank;;Volksbank Freiburg;68090000;GENODE61FR1;79005;Freiburg im Breisgau
+Volksbank Gebhardshain;Volksbank/Raiffeisenbank;;Volksbank Gebhardshain;57361476;GENODED1GBS;57580;Gebhardshain
+Volksbank Geest;Volksbank/Raiffeisenbank;;Volksbank Geest;20069782;GENODEF1APE;21641;Apensen
+Volksbank Geeste-Nord;Volksbank/Raiffeisenbank;;Volksbank Geeste-Nord;29262722;GENODEF1BRV;27607;Geestland
+Volksbank Gera-Jena-Rudolstadt;Volksbank/Raiffeisenbank;;VB Gera-Jena-Rudolstadt;83094454;GENODEF1RUJ;07743;Jena
+Volksbank Gersprenztal-Otzberg;Volksbank/Raiffeisenbank;;VB Gersprenztal-Otzberg;50862703;GENODE51REI;64354;Reinheim
+Volksbank Gescher;Volksbank/Raiffeisenbank;;Volksbank Gescher;40164901;GENODEM1GE1;48712;Gescher
+Volksbank Glan-Münchweiler;Volksbank/Raiffeisenbank;;Volksbank Glan-Münchweiler;54092400;GENODE61GLM;66905;Glan-Münchweiler
+Volksbank Grebenhain;Volksbank/Raiffeisenbank;;Volksbank Grebenhain;50069146;GENODE51GRC;36352;Grebenhain
+Volksbank Grevenbrück -alt;Volksbank/Raiffeisenbank;;Volksbank Grevenbrück -alt-;46261607;GENODEM1GLG;57368;Lennestadt
+Volksbank Gronau-Ahaus;Volksbank/Raiffeisenbank;;Volksbank Gronau-Ahaus;40164024;GENODEM1GRN;48599;Gronau (Westf.)
+Volksbank Göppingen;Volksbank/Raiffeisenbank;;Volksbank Göppingen;61060500;GENODES1VGP;73013;Göppingen
+Volksbank Halle, Saale;Volksbank/Raiffeisenbank;;VB Halle, Saale;80093784;GENODEF1HAL;06016;Halle (Saale)
+Volksbank Halle/Westf;Volksbank/Raiffeisenbank;;Volksbank Halle/Westf;48062051;GENODEM1HLW;33790;Halle (Westf.)
+Volksbank Hameln-Stadthagen;Volksbank/Raiffeisenbank;;VB Hameln-Stadthagen;25462160;GENODEF1HMP;31763;Hameln
+Volksbank Hamm/Sieg;Volksbank/Raiffeisenbank;;VB Hamm/Sieg Hamm (Sieg);57391500;GENODE51HAM;57573;Hamm
+Volksbank Haren Fil d Ostfriesischen VB;Volksbank/Raiffeisenbank;;Volksbank Haren;26691213;GENODEF1HAR;49725;Haren (Ems)
+Volksbank Haselünne;Volksbank/Raiffeisenbank;;Volksbank Haselünne;26661380;GENODEF1HLN;49734;Haselünne
+Volksbank Heidelberg-Neckartal;Volksbank/Raiffeisenbank;;VB Heidelberg-Neckartal;67291700;GENODE61NGD;69115;Heidelberg
+Volksbank Heiden;Volksbank/Raiffeisenbank;;Volksbank Heiden;42861608;GENODEM1HEI;46356;Heiden
+Volksbank Heimbach;Volksbank/Raiffeisenbank;;Volksbank Heimbach;37069342;GENODED1HMB;52396;Heimbach
+Volksbank Heinsberg;Volksbank/Raiffeisenbank;;Volksbank Heinsberg;37069412;GENODED1HRB;52525;Heinsberg
+Volksbank Heldenbergen Ndl d Frankfurter VB;Volksbank/Raiffeisenbank;;Volksbank Heldenbergen;50661816;GENODE51NIH;61123;Nidderau
+Volksbank Hellweg;Volksbank/Raiffeisenbank;;Volksbank Hellweg;41460116;GENODEM1SOE;59494;Soest
+Volksbank Heuchelheim;Volksbank/Raiffeisenbank;;Volksbank Heuchelheim;51361021;GENODE51HHE;35452;Heuchelheim a. d. Lahn
+Volksbank Hildesheim;Volksbank/Raiffeisenbank;;Volksbank Hildesheim;25990011;GENODEF1HIH;31113;Hildesheim
+Volksbank Hochrhein;Volksbank/Raiffeisenbank;;Volksbank Hochrhein;68492200;GENODE61WT1;79761;Waldshut-Tiengen
+Volksbank Hohenlimburg;Volksbank/Raiffeisenbank;;Volksbank Hohenlimburg;45061524;GENODEM1HLH;58119;Hagen
+Volksbank Hohenlohe;Volksbank/Raiffeisenbank;;Volksbank Hohenlohe;62091800;GENODES1VHL;74613;Öhringen
+Volksbank Immenstadt;Volksbank/Raiffeisenbank;;Volksbank Immenstadt;73392000;GENODEF1IMV;87509;Immenstadt i. Allgäu
+Volksbank Jade-Weser;Volksbank/Raiffeisenbank;;Volksbank Jade-Weser;28262673;GENODEF1VAR;26316;Varel
+Volksbank Jerichower Land;Volksbank/Raiffeisenbank;;VB Jerichower Land;81063238;GENODEF1BRG;39288;Burg
+Volksbank Kaiserslautern;Volksbank/Raiffeisenbank;;Voba Kaiserslautern;54090000;GENODE61KL1;67655;Kaiserslautern
+Volksbank Kassel Göttingen;Volksbank/Raiffeisenbank;;VB Kassel Göttingen;52090000;GENODE51KS1;34117;Kassel
+Volksbank Kehdingen Zndl. der Ostfriesischen Volksbank;Volksbank/Raiffeisenbank;;VB Kehdingen;20069786;GENODEF1DRO;21703;Drochtersen
+Volksbank Kelsterbach Ndl d Frankfurter VB;Volksbank/Raiffeisenbank;;Volksbank Kelsterbach;50093400;GENODE51KBH;65444;Kelsterbach
+Volksbank Kempen-Grefrath;Volksbank/Raiffeisenbank;;Volksbank Kempen-Grefrath;32061414;GENODED1KMP;47885;Kempen
+Volksbank Kierspe;Volksbank/Raiffeisenbank;;Volksbank Kierspe;45861434;GENODEM1KIE;58566;Kierspe
+Volksbank Kirnau-Krautheim;Volksbank/Raiffeisenbank;;Volksbank Kirnau-Krautheim;67461733;GENODE61RNG;74749;Rosenberg
+Volksbank Klettgau-Wutöschingen;Volksbank/Raiffeisenbank;;VB Klettgau-Wutöschingen;68462427;GENODE61WUT;79793;Wutöschingen
+Volksbank Kleverland;Volksbank/Raiffeisenbank;;Volksbank Kleverland;32460422;GENODED1KLL;47533;Kleve
+Volksbank Kraichgau;Volksbank/Raiffeisenbank;;Volksbank Kraichgau;67292200;GENODE61WIE;69157;Wiesloch
+Volksbank Krefeld;Volksbank/Raiffeisenbank;;Volksbank Krefeld;32060362;GENODED1HTK;47832;Krefeld
+Volksbank Kurpfalz;Volksbank/Raiffeisenbank;;Volksbank Kurpfalz;67092300;GENODE61WNM;69018;Heidelberg
+Volksbank Köln Bonn;Volksbank/Raiffeisenbank;;Volksbank Köln Bonn;38060186;GENODED1BRS;53252;Bonn
+Volksbank Lahr;Volksbank/Raiffeisenbank;;Volksbank Lahr;68290000;GENODE61LAH;77912;Lahr
+Volksbank Langendernbach;Volksbank/Raiffeisenbank;;Volksbank Langendernbach;51161606;GENODE51LDD;65599;Dornburg
+Volksbank Lastrup;Volksbank/Raiffeisenbank;;Volksbank Lastrup;28067257;GENODEF1LAP;49688;Lastrup
+Volksbank Lauterecken;Volksbank/Raiffeisenbank;;Volksbank Lauterecken;54091700;GENODE61LEK;67742;Lauterecken
+Volksbank Leonberg-Strohgäu;Volksbank/Raiffeisenbank;;Volksbank Leonberg-Strohgäu;60390300;GENODES1LEO;71226;Leonberg
+Volksbank Lette-Darup-Rorup;Volksbank/Raiffeisenbank;;Volksbank Lette-Darup-Rorup;40069226;GENODEM1CND;48645;Coesfeld
+Volksbank Limbach;Volksbank/Raiffeisenbank;;Volksbank Limbach;67462368;GENODE61LMB;74838;Limbach
+Volksbank Lohne-Dinklage-Steinfeld-Mühlen;Volksbank/Raiffeisenbank;;VB Lohne-Dinkl-Steinf-Mühl;28062560;GENODEF1LON;49379;Lohne (Oldenburg)
+Volksbank Löbau-Zittau;Volksbank/Raiffeisenbank;;VB Löbau-Zittau;85590100;GENODEF1NGS;02727;Ebersbach-Neugersdorf
+Volksbank Löningen;Volksbank/Raiffeisenbank;;Volksbank Löningen;28065061;GENODEF1LOG;49619;Löningen
+Volksbank Lübeck;Volksbank/Raiffeisenbank;;Volksbank Lübeck;23090142;GENODEF1HLU;23552;Lübeck
+Volksbank Lüneburger Heide;Volksbank/Raiffeisenbank;;VB Lüneburger Heide;24060300;GENODEF1NBU;21412;Winsen (Luhe)
+Volksbank Magdeburg;Volksbank/Raiffeisenbank;;VB Magdeburg;81093274;GENODEF1MD1;39104;Magdeburg
+Volksbank Mainspitze;Volksbank/Raiffeisenbank;;Volksbank Mainspitze;50862903;GENODE51GIN;65462;Ginsheim-Gustavsburg
+Volksbank Marl-Recklinghausen;Volksbank/Raiffeisenbank;;VB Marl-Recklinghausen;42661008;GENODEM1MRL;45752;Marl
+Volksbank Mittelhessen;Volksbank/Raiffeisenbank;;VB Mittelhessen;51390000;VBMHDE5FXXX;35340;Gießen
+Volksbank Mittlerer Neckar;Volksbank/Raiffeisenbank;;Volksbank Mittlerer Neckar;61290120;GENODES1NUE;73728;Esslingen am Neckar
+Volksbank Mittlerer Schwarzwald;Volksbank/Raiffeisenbank;;VB Mittlerer Schwarzwald;66492700;GENODE61KZT;77706;Wolfach
+Volksbank Mittleres Erzgebirge;Volksbank/Raiffeisenbank;;VB Mittl Erzgebirge;87069075;GENODEF1MBG;09526;Olbernhau
+Volksbank Mittweida;Volksbank/Raiffeisenbank;;Volksbank Mittweida;87096124;GENODEF1MIW;09648;Mittweida
+Volksbank Möckmühl;Volksbank/Raiffeisenbank;;Volksbank Möckmühl;62091600;GENODES1VMN;74219;Möckmühl
+Volksbank Mönchengladbach;Volksbank/Raiffeisenbank;;VB Mönchengladbach;31060517;GENODED1MRB;41241;Mönchengladbach
+Volksbank Münsingen;Volksbank/Raiffeisenbank;;Volksbank Münsingen;64091300;GENODES1MUN;72525;Münsingen
+Volksbank Niedergrafschaft;Volksbank/Raiffeisenbank;;VB Niedergrafschaft;28069926;GENODEF1HOO;49843;Uelsen
+Volksbank Niederrhein;Volksbank/Raiffeisenbank;;Volksbank Niederrhein;35461106;GENODED1NRH;46515;Alpen
+Volksbank Niedersachsen-Mitte;Volksbank/Raiffeisenbank;;VB Niedersachsen-Mitte;25691633;GENODEF1SUL;27318;Hoya
+Volksbank Nordharz;Volksbank/Raiffeisenbank;;Volksbank Nordharz;26890019;GENODEF1VNH;38640;Goslar
+Volksbank Nordhümmling;Volksbank/Raiffeisenbank;;Volksbank Nordhümmling;28069706;GENODEF1BOG;26904;Börger
+Volksbank Nordschwarzwald;Volksbank/Raiffeisenbank;;VB Nordschwarzwald;64291010;GENODES1FDS;72250;Freudenstadt
+Volksbank Nottuln;Volksbank/Raiffeisenbank;;Volksbank Nottuln;40164352;GENODEM1CNO;48301;Nottuln
+Volksbank Ober-Mörlen;Volksbank/Raiffeisenbank;;Volksbank Ober-Mörlen;51861806;GENODE51OBM;61239;Ober-Mörlen
+Volksbank Oberberg;Volksbank/Raiffeisenbank;;Volksbank Oberberg;38462135;GENODED1WIL;51674;Wiehl
+Volksbank Ochtrup-Laer;Volksbank/Raiffeisenbank;;Volksbank Ochtrup-Laer;40164618;GENODEM1OTR;48602;Ochtrup
+Volksbank Oldenburg-Land Delmenhorst;Volksbank/Raiffeisenbank;;VB Oldenb.-Land Delmenhorst;28066214;GENODEF1WDH;27793;Wildeshausen
+Volksbank Olpe-Wenden-Drolshagen;Volksbank/Raiffeisenbank;;VB Olpe-Wenden-Drolshagen;46261822;GENODEM1WDD;57450;Olpe
+Volksbank Ostlippe;Volksbank/Raiffeisenbank;;Volksbank Ostlippe;47691200;GENODEM1OLB;32820;Blomberg
+Volksbank Oyten;Volksbank/Raiffeisenbank;;Volksbank Oyten;29165545;GENODEF1OYT;28871;Oyten
+Volksbank PLUS;Volksbank/Raiffeisenbank;;Volksbank PLUS;49092650;GENODEM1LUB;32312;Lübbecke
+Volksbank Papenburg Fil d. Ostfries. VB Leer;Volksbank/Raiffeisenbank;;Volksbank Papenburg;28591579;GENODEF1PAP;26858;Papenburg
+Volksbank Pfullendorf;Volksbank/Raiffeisenbank;;Volksbank Pfullendorf;69091600;GENODE61PFD;88619;Pfullendorf
+Volksbank Pirna;Volksbank/Raiffeisenbank;;VB Pirna;85060000;GENODEF1PR2;01796;Pirna
+Volksbank Plochingen;Volksbank/Raiffeisenbank;;Volksbank Plochingen;61191310;GENODES1VBP;73203;Plochingen
+Volksbank Raesfeld und Erle;Volksbank/Raiffeisenbank;;Volksbank Raesfeld und Erle;42862451;GENODEM1RAE;46348;Raesfeld
+Volksbank Raiffeisenbank;Volksbank/Raiffeisenbank;;Volksbank Raiffeisenbank;20190109;GENODEF1HH4;25524;Itzehoe
+Volksbank Raiffeisenbank AmmerGäu;Volksbank/Raiffeisenbank;;VR Bank AmmerGäu;64161397;GENODES1AMM;72108;Rottenburg am Neckar
+Volksbank Raiffeisenbank Bayern Mitte;Volksbank/Raiffeisenbank;;VR Bank Bayern Mitte;72160818;GENODEF1INP;85023;Ingolstadt
+Volksbank Raiffeisenbank Dachau;Volksbank/Raiffeisenbank;;VB Raiffbk Dachau;70091500;GENODEF1DCA;85209;Dachau
+Volksbank Raiffeisenbank Fürstenfeldbruck;Volksbank/Raiffeisenbank;;VR-Bank Fürstenfeldbruck;70163370;GENODEF1FFB;82256;Fürstenfeldbruck
+Volksbank Raiffeisenbank Hanau Ndl d Frankf VB;Volksbank/Raiffeisenbank;;Frankfurter Volksbank;50690000;GENODEF1HUV;63412;Hanau
+Volksbank Raiffeisenbank Meißen Großenhain;Volksbank/Raiffeisenbank;;VB Raiffbk Meißen Großenh;85095004;GENODEF1MEI;01652;Meißen
+Volksbank Raiffeisenbank Niederschlesien;Volksbank/Raiffeisenbank;;VB Raiffbk Niederschlesien;85591000;GENODEF1GR1;02810;Görlitz
+Volksbank Raiffeisenbank Nordoberpfalz;Volksbank/Raiffeisenbank;;VR Nordoberpfalz;75390000;GENODEF1WEV;92637;Weiden i.d.OPf.
+Volksbank Raiffeisenbank Oberbayern Südost;Volksbank/Raiffeisenbank;;VB RB Oberbayern Südost;71090000;GENODEF1BGL;83435;Bad Reichenhall
+Volksbank Raiffeisenbank Obermain;Volksbank/Raiffeisenbank;;VR Obermain;77062139;GENODEF1SFF;96226;Bad Staffelstein
+Volksbank Raiffeisenbank Regensburg-Schwandorf;Volksbank/Raiffeisenbank;;VB RB Regensburg-Schwandorf;75090000;GENODEF1R01;93047;Regensburg
+Volksbank Raiffeisenbank Würzburg;Volksbank/Raiffeisenbank;;VR-Bank Würzburg;79090000;GENODEF1WU1;97070;Würzburg
+Volksbank Rathenow;Volksbank/Raiffeisenbank;;Volksbank Rathenow;16091994;GENODEF1RN1;14712;Rathenow
+Volksbank Remseck;Volksbank/Raiffeisenbank;;Volksbank Remseck;60069905;GENODES1REM;71680;Remseck am Neckar
+Volksbank Rhede;Volksbank/Raiffeisenbank;;Volksbank Rhede;42861814;GENODEM1RHD;46407;Rhede
+Volksbank Rhein-Erft-Köln;Volksbank/Raiffeisenbank;;VB Rhein-Erft-Köln;37062365;GENODED1FHH;50354;Hürth
+Volksbank Rhein-Lahn-Limburg;Volksbank/Raiffeisenbank;;VB Rhein-Lahn-Limburg;57092800;GENODE51DIE;65582;Diez
+Volksbank Rhein-Lippe;Volksbank/Raiffeisenbank;;Volksbank Rhein-Lippe;35660599;GENODED1RLW;46465;Wesel
+Volksbank Rhein-Nahe-Hunsrück;Volksbank/Raiffeisenbank;;VB Rhein-Nahe-Hunsrück;56090000;GENODE51KRE;55543;Bad Kreuznach
+Volksbank Rhein-Ruhr;Volksbank/Raiffeisenbank;;VB Rhein-Ruhr Duisburg;35060386;GENODED1VRR;47013;Duisburg
+Volksbank Rheinböllen;Volksbank/Raiffeisenbank;;Volksbank Rheinböllen;56062227;GENODED1RBO;55492;Rheinböllen
+Volksbank Riesa;Volksbank/Raiffeisenbank;;Volksbank Riesa;85094984;GENODEF1RIE;01587;Riesa
+Volksbank Rot;Volksbank/Raiffeisenbank;;Volksbank Rot St Leon-Rot;67262550;GENODE61LRO;68789;St. Leon-Rot
+Volksbank Rottweil;Volksbank/Raiffeisenbank;;Volksbank Rottweil;64290120;GENODES1VRW;78618;Rottweil
+Volksbank Ruhr Mitte;Volksbank/Raiffeisenbank;;VB Ruhr Mitte Gelsenkirchen;42260001;GENODEM1GBU;45877;Gelsenkirchen
+Volksbank Sandhofen;Volksbank/Raiffeisenbank;;Volksbank Ma-Sandhofen;67060031;GENODE61MA3;68273;Mannheim
+Volksbank Sauerland;Volksbank/Raiffeisenbank;;Volksbank Sauerland;46062817;GENODEM1SMA;57392;Schmallenberg
+Volksbank Schermbeck;Volksbank/Raiffeisenbank;;Volksbank Schermbeck;40069363;GENODEM1SMB;46510;Schermbeck
+Volksbank Schlangen;Volksbank/Raiffeisenbank;;Volksbank Schlangen;40069283;GENODEM1SLN;33185;Schlangen
+Volksbank Schwalmtal;Volksbank/Raiffeisenbank;;Volksbank Schwalmtal;31062553;GENODED1NKR;41372;Niederkrüchten
+Volksbank Schwanewede;Volksbank/Raiffeisenbank;;Volksbank Schwanewede;29162453;GENODEF1SWW;28784;Schwanewede
+Volksbank Schwarzwald-Donau-Neckar;Volksbank/Raiffeisenbank;;VB Schwarzwald-Donau-Neckar;64390130;GENODES1TUT;78513;Tuttlingen
+Volksbank Seligenstadt;Volksbank/Raiffeisenbank;;Volksbank Seligenstadt;50692100;GENODE51SEL;63490;Seligenstadt
+Volksbank Selm-Bork;Volksbank/Raiffeisenbank;;Volksbank Selm-Bork;40165366;GENODEM1SEM;59379;Selm
+Volksbank Senden;Volksbank/Raiffeisenbank;;Volksbank Senden;40069546;GENODEM1SDN;48308;Senden
+Volksbank Solling;Volksbank/Raiffeisenbank;;Volksbank Solling Hardegsen;26261693;GENODEF1HDG;37177;Hardegsen
+Volksbank Spree-Neiße;Volksbank/Raiffeisenbank;;Volksbank Spree-Neiße;18092744;GENODEF1SPM;03130;Spremberg
+Volksbank Sprockhövel;Volksbank/Raiffeisenbank;;Volksbank Sprockhövel;45261547;GENODEM1SPO;45538;Sprockhövel
+Volksbank Stade-Cuxhaven;Volksbank/Raiffeisenbank;;Volksbank Stade-Cuxhaven;24191015;GENODEF1SDE;21661;Stade
+Volksbank Staufen;Volksbank/Raiffeisenbank;;Volksbank Staufen;68092300;GENODE61STF;79216;Staufen im Breisgau
+Volksbank Stendal;Volksbank/Raiffeisenbank;;Volksbank Stendal;81093054;GENODEF1SDL;39576;Stendal
+Volksbank Stuttgart;Volksbank/Raiffeisenbank;;Volksbank Stuttgart;60090100;VOBADESSXXX;70039;Stuttgart
+Volksbank Störmede-Westenholz-Hörste;Volksbank/Raiffeisenbank;;VB Störmede-Westenholz-Hör.;41662465;GENODEM1SGE;33129;Delbrück
+Volksbank Sulmtal;Volksbank/Raiffeisenbank;;Volksbank Sulmtal;62061991;GENODES1VOS;74182;Obersulm
+Volksbank Süd-Emsland;Volksbank/Raiffeisenbank;;Volksbank Süd-Emsland;28069994;GENODEF1SPL;48480;Spelle
+Volksbank Südheide - Isenhagener Land - Altmark;Volksbank/Raiffeisenbank;;VB Südh.-Isenh.L.-Altm;25791635;GENODEF1HMN;29221;Celle
+Volksbank Südkirchen-Capelle-Nordkirchen;Volksbank/Raiffeisenbank;;Volksbank Nordkirchen;40069716;GENODEM1SCN;59394;Nordkirchen
+Volksbank Thüringen Mitte;Volksbank/Raiffeisenbank;;VB Thür. Mitte Erfurt;84094814;GENODEF1SHL;99084;Erfurt
+Volksbank Trier Eifel;Volksbank/Raiffeisenbank;;Volksbank Trier Eifel;58660101;GENODED1BIT;54292;Trier
+Volksbank Trossingen;Volksbank/Raiffeisenbank;;Volksbank Trossingen;64292310;GENODES1TRO;78647;Trossingen
+Volksbank Uelzen-Salzwedel;Volksbank/Raiffeisenbank;;Volksbank Uelzen-Salzwedel;25862292;GENODEF1EUB;29525;Uelzen
+Volksbank Ulm-Biberach;Volksbank/Raiffeisenbank;;Volksbank Ulm-Biberach;63090100;ULMVDE66XXX;89073;Ulm
+Volksbank Ulrichstein;Volksbank/Raiffeisenbank;;Volksbank Ulrichstein;51961023;GENODE51ULR;35327;Ulrichstein
+Volksbank Usinger Land Ndl d Frankfurter VB;Volksbank/Raiffeisenbank;;Volksbank Usinger Land;50092900;GENODE51USI;61250;Usingen
+Volksbank Vechta;Volksbank/Raiffeisenbank;;Volksbank Vechta;28064179;GENODEF1VEC;49364;Vechta
+Volksbank Versmold;Volksbank/Raiffeisenbank;;Volksbank Versmold;47863373;GENODEM1VMD;33762;Versmold
+Volksbank Viersen;Volksbank/Raiffeisenbank;;Volksbank Viersen;31460290;GENODED1VSN;41730;Viersen
+Volksbank Visbek;Volksbank/Raiffeisenbank;;Volksbank Visbek;28066103;GENODEF1VIS;49425;Visbek
+Volksbank Vogtland-Saale-Orla;Volksbank/Raiffeisenbank;;VB Vogtland-Saale-Orla;87095824;GENODEF1PL1;08525;Plauen
+Volksbank Vorpommern;Volksbank/Raiffeisenbank;;Volksbank Vorpommern;13091054;GENODEF1HST;18439;Stralsund
+Volksbank Weschnitztal;Volksbank/Raiffeisenbank;;Volksbank Weschnitztal;50961592;GENODE51FHO;64668;Rimbach
+Volksbank Westerstede;Volksbank/Raiffeisenbank;;Volksbank Westerstede;28063253;GENODEF1WRE;26655;Westerstede
+Volksbank Westmünsterland;Volksbank/Raiffeisenbank;;Volksbank Westmünsterland;42861387;GENODEM1BOB;48653;Coesfeld
+Volksbank Westrhauderfehn;Volksbank/Raiffeisenbank;;Volksbank Westrhauderfehn;28591654;GENODEF1WRH;26817;Rhauderfehn
+Volksbank Wilhelmshaven;Volksbank/Raiffeisenbank;;Volksbank Wilhelmshaven;28290063;GENODEF1WHV;26382;Wilhelmshaven
+Volksbank Winsener Marsch;Volksbank/Raiffeisenbank;;VB Winsener Marsch;20069965;GENODEF1WIM;21436;Marschacht
+Volksbank Wipperfürth-Lindlar;Volksbank/Raiffeisenbank;;VB Wipperfürth-Lindlar;37069840;GENODED1WPF;51688;Wipperfürth
+Volksbank Wittenberg;Volksbank/Raiffeisenbank;;Volksbank Wittenberg;80063598;GENODEF1WB1;06886;Lutherstadt Wittenberg
+Volksbank Wittgenstein;Volksbank/Raiffeisenbank;;Volksbank Wittgenstein;46063405;GENODEM1BB1;57306;Bad Berleburg
+Volksbank Wißmar;Volksbank/Raiffeisenbank;;Volksbank Wißmar;50069976;GENODE51WWI;35435;Wettenberg
+Volksbank Zollernalb;Volksbank/Raiffeisenbank;;Volksbank Zollernalb;65390120;GENODES1EBI;72336;Balingen
+Volksbank Zuffenhausen m Zndl Stammheimer VB;Volksbank/Raiffeisenbank;;VB Zuffenhausen;60090300;GENODES1ZUF;70432;Stuttgart
+Volksbank Zwickau;Volksbank/Raiffeisenbank;;Volksbank Zwickau;87095934;GENODEF1Z01;08056;Zwickau
+Volksbank am Württemberg;Volksbank/Raiffeisenbank;;Volksbank am Württemberg;60060396;GENODES1UTV;70703;Fellbach
+Volksbank an der Niers;Volksbank/Raiffeisenbank;;Volksbank an der Niers;32061384;GENODED1GDL;47623;Kevelaer
+Volksbank im Bergischen Land;Volksbank/Raiffeisenbank;;Volksbank i.Bergischen Land;34060094;VBRSDE33XXX;42897;Remscheid
+Volksbank im Elbe-Weser-Dreieck;Volksbank/Raiffeisenbank;;VB im Elbe-Weser-Dreieck;29265747;GENODEF1BEV;27613;Beverstedt
+Volksbank im Harz;Volksbank/Raiffeisenbank;;Volksbank im Harz;26891484;GENODEF1OHA;37504;Osterode am Harz
+Volksbank im Hochsauerland;Volksbank/Raiffeisenbank;;VB im Hochsauerland;40069266;GENODEM1MAS;59889;Eslohe (Sauerland)
+Volksbank im Münsterland;Volksbank/Raiffeisenbank;;Volksbank im Münsterland;40361906;GENODEM1IBB;48143;Münster
+Volksbank im Wesertal;Volksbank/Raiffeisenbank;;VB im Wesertal Coppenbrügge;25462680;GENODEF1COP;31863;Coppenbrügge
+Volksbank in Ostwestfalen, Gütersloh;Volksbank/Raiffeisenbank;;Volksbank in Ostwestfalen;47860125;GENODEM1GTL;33602;Bielefeld
+Volksbank in Schaumburg und Nienburg;Volksbank/Raiffeisenbank;;VB in Schaumburg & Nienburg;25591413;GENODEF1BCK;31737;Rinteln
+Volksbank in Südwestfalen;Volksbank/Raiffeisenbank;;VB in Südwestfalen;44761534;GENODEM1NRD;57072;Siegen
+Volksbank in der Hohen Mark;Volksbank/Raiffeisenbank;;Volksbank Hohen Mark, Reken;40069709;GENODEM1DLR;48734;Reken
+Volksbank in der Region;Volksbank/Raiffeisenbank;;Volksbank in der Region;60391310;GENODES1VBH;72070;Tübingen
+Volksbank pur;Volksbank/Raiffeisenbank;;Volksbank pur;66190000;GENODE61KA1;76045;Karlsruhe
+Volksbank Überherrn;Volksbank/Raiffeisenbank;;Volksbank Überherrn;59391200;GENODE51UBH;66802;Überherrn
+Volksbank Überlingen;Volksbank/Raiffeisenbank;;Volksbank Überlingen;69061800;GENODE61UBE;88662;Überlingen
+Volksbank-Raiffeisenbank Glauchau;Volksbank/Raiffeisenbank;;VB-RB Glauchau;87095974;GENODEF1GC1;08371;Glauchau
+Wiesbadener Volksbank;Volksbank/Raiffeisenbank;;Wiesbadener Volksbank;51090000;WIBADE5WXXX;65050;Wiesbaden
+meine Volksbank Raiffeisenbank;Volksbank/Raiffeisenbank;;meine Volksbank Raiffbk;71160000;GENODEF1VRR;83022;Rosenheim

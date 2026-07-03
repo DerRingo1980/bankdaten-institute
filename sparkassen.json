@@ -1,0 +1,1986 @@
+[
+  {
+    "name": "BSK 1818 - Berliner Sparkasse",
+    "kurzname": "BSK 1818-Berliner Sparkasse",
+    "blz": "10050000",
+    "bic": "BELADEBEXXX",
+    "plz": "10889",
+    "ort": "Berlin"
+  },
+  {
+    "name": "Bordesholmer Sparkasse",
+    "kurzname": "Bordesholmer Sparkasse",
+    "blz": "21051275",
+    "bic": "NOLADE21BOR",
+    "plz": "24582",
+    "ort": "Bordesholm"
+  },
+  {
+    "name": "Frankfurter Sparkasse",
+    "kurzname": "Frankfurter Spk Frankfurt",
+    "blz": "50050201",
+    "bic": "HELADEF1822",
+    "plz": "60255",
+    "ort": "Frankfurt am Main"
+  },
+  {
+    "name": "Frankfurter Sparkasse GF 1822direkt",
+    "kurzname": "Frankfurter Spk 1822direkt",
+    "blz": "50050222",
+    "bic": "HELADEF1822",
+    "plz": "60255",
+    "ort": "Frankfurt am Main"
+  },
+  {
+    "name": "Förde Sparkasse",
+    "kurzname": "Förde Sparkasse",
+    "blz": "21050170",
+    "bic": "NOLADE21KIE",
+    "plz": "24103",
+    "ort": "Kiel"
+  },
+  {
+    "name": "Hamburger Sparkasse",
+    "kurzname": "Haspa Hamburg",
+    "blz": "20050550",
+    "bic": "HASPDEHHXXX",
+    "plz": "20354",
+    "ort": "Hamburg"
+  },
+  {
+    "name": "Herner Sparkasse",
+    "kurzname": "Herner Sparkasse",
+    "blz": "43250030",
+    "bic": "WELADED1HRN",
+    "plz": "44621",
+    "ort": "Herne"
+  },
+  {
+    "name": "Kasseler Sparkasse",
+    "kurzname": "Kasseler Sparkasse",
+    "blz": "52050353",
+    "bic": "HELADEF1KAS",
+    "plz": "34117",
+    "ort": "Kassel"
+  },
+  {
+    "name": "Kreis-Sparkasse Northeim",
+    "kurzname": "Kr Spk Northeim",
+    "blz": "26250001",
+    "bic": "NOLADE21NOM",
+    "plz": "37144",
+    "ort": "Northeim"
+  },
+  {
+    "name": "Mittelbrandenburgische Sparkasse in Potsdam",
+    "kurzname": "Mittelbrandenbg Sparkasse",
+    "blz": "16050000",
+    "bic": "WELADED1PMB",
+    "plz": "14459",
+    "ort": "Potsdam"
+  },
+  {
+    "name": "Müritz-Sparkasse",
+    "kurzname": "Müritz-Sparkasse Waren",
+    "blz": "15050100",
+    "bic": "NOLADE21WRN",
+    "plz": "17192",
+    "ort": "Waren (Müritz)"
+  },
+  {
+    "name": "Nassauische Sparkasse",
+    "kurzname": "Nass Spk Wiesbaden",
+    "blz": "51050015",
+    "bic": "NASSDE55XXX",
+    "plz": "65034",
+    "ort": "Wiesbaden"
+  },
+  {
+    "name": "Niederrheinische Sparkasse RheinLippe",
+    "kurzname": "NISPA",
+    "blz": "35650000",
+    "bic": "WELADED1WES",
+    "plz": "46466",
+    "ort": "Wesel"
+  },
+  {
+    "name": "Nord-Ostsee Sparkasse",
+    "kurzname": "Nord-Ostsee Spk Schleswig",
+    "blz": "21750000",
+    "bic": "NOLADE21NOS",
+    "plz": "24837",
+    "ort": "Schleswig"
+  },
+  {
+    "name": "Ostsächsische Sparkasse Dresden",
+    "kurzname": "Ostsächsische Spk Dresden",
+    "blz": "85050300",
+    "bic": "OSDDDE81XXX",
+    "plz": "01305",
+    "ort": "Dresden"
+  },
+  {
+    "name": "Rheinhessen Sparkasse",
+    "kurzname": "Rheinhessen Sparkasse",
+    "blz": "55350010",
+    "bic": "MALADE51WOR",
+    "plz": "55116",
+    "ort": "Mainz"
+  },
+  {
+    "name": "Rhön-Rennsteig-Sparkasse",
+    "kurzname": "Rhön-Rennsteig-Sparkasse",
+    "blz": "84050000",
+    "bic": "HELADEF1RRS",
+    "plz": "98617",
+    "ort": "Meiningen"
+  },
+  {
+    "name": "Sparkasse Aachen",
+    "kurzname": "Sparkasse Aachen",
+    "blz": "39050000",
+    "bic": "AACSDE33XXX",
+    "plz": "52059",
+    "ort": "Aachen"
+  },
+  {
+    "name": "Sparkasse Allgäu",
+    "kurzname": "Sparkasse Allgäu",
+    "blz": "73350000",
+    "bic": "BYLADEM1ALG",
+    "plz": "87435",
+    "ort": "Kempten (Allgäu)"
+  },
+  {
+    "name": "Sparkasse Altbayern",
+    "kurzname": "Spk Altbayern",
+    "blz": "72051210",
+    "bic": "BYLADEM1AIC",
+    "plz": "86551",
+    "ort": "Aichach"
+  },
+  {
+    "name": "Sparkasse Altenburger Land",
+    "kurzname": "Spk Altenburger Land",
+    "blz": "83050200",
+    "bic": "HELADEF1ALT",
+    "plz": "04581",
+    "ort": "Altenburg"
+  },
+  {
+    "name": "Sparkasse Altmark West",
+    "kurzname": "Spk Altmark West Salzwedel",
+    "blz": "81055555",
+    "bic": "NOLADE21SAW",
+    "plz": "29402",
+    "ort": "Salzwedel, Hansestadt"
+  },
+  {
+    "name": "Sparkasse Altötting-Mühldorf",
+    "kurzname": "Spk Altötting-Mühldorf",
+    "blz": "71151020",
+    "bic": "BYLADEM1MDF",
+    "plz": "84445",
+    "ort": "Mühldorf a. Inn"
+  },
+  {
+    "name": "Sparkasse Amberg-Sulzbach",
+    "kurzname": "Sparkasse Amberg-Sulzbach",
+    "blz": "75250000",
+    "bic": "BYLADEM1ABG",
+    "plz": "92206",
+    "ort": "Amberg"
+  },
+  {
+    "name": "Sparkasse Ansbach",
+    "kurzname": "Sparkasse Ansbach",
+    "blz": "76550000",
+    "bic": "BYLADEM1ANS",
+    "plz": "91509",
+    "ort": "Ansbach"
+  },
+  {
+    "name": "Sparkasse Arnstadt-Ilmenau",
+    "kurzname": "Sparkasse Arnstadt-Ilmenau",
+    "blz": "84051010",
+    "bic": "HELADEF1ILK",
+    "plz": "98685",
+    "ort": "Ilmenau"
+  },
+  {
+    "name": "Sparkasse Aschaffenburg Miltenberg",
+    "kurzname": "Spk AschaffenburgMiltenberg",
+    "blz": "79550000",
+    "bic": "BYLADEM1ASA",
+    "plz": "63739",
+    "ort": "Aschaffenburg"
+  },
+  {
+    "name": "Sparkasse Attendorn-Lennestadt-Kirchhundem",
+    "kurzname": "Spk Attend-Lennest-Kirchhdm",
+    "blz": "46251630",
+    "bic": "WELADED1ALK",
+    "plz": "57428",
+    "ort": "Attendorn"
+  },
+  {
+    "name": "Sparkasse Aurich-Norden",
+    "kurzname": "Spk Aurich-Norden",
+    "blz": "28350000",
+    "bic": "BRLADE21ANO",
+    "plz": "26603",
+    "ort": "Aurich"
+  },
+  {
+    "name": "Sparkasse Bad Hersfeld-Rotenburg",
+    "kurzname": "Spk Bad Hersfeld-Rotenburg",
+    "blz": "53250000",
+    "bic": "HELADEF1HER",
+    "plz": "36229",
+    "ort": "Bad Hersfeld"
+  },
+  {
+    "name": "Sparkasse Bad Kissingen",
+    "kurzname": "Spk Bad Kissingen",
+    "blz": "79351010",
+    "bic": "BYLADEM1KIS",
+    "plz": "97688",
+    "ort": "Bad Kissingen"
+  },
+  {
+    "name": "Sparkasse Bad Neustadt a d Saale",
+    "kurzname": "Spk Bad Neustadt a d Saale",
+    "blz": "79353090",
+    "bic": "BYLADEM1NES",
+    "plz": "97615",
+    "ort": "Bad Neustadt a.d.Saale"
+  },
+  {
+    "name": "Sparkasse Bad Oeynhausen-Porta Westfalica",
+    "kurzname": "Spk Bad Oeynh.-Porta Westf.",
+    "blz": "49051285",
+    "bic": "WELADED1OEH",
+    "plz": "32543",
+    "ort": "Bad Oeynhausen"
+  },
+  {
+    "name": "Sparkasse Bad Tölz-Wolfratshausen",
+    "kurzname": "Spk Bad Tölz-Wolfratshausen",
+    "blz": "70054306",
+    "bic": "BYLADEM1WOR",
+    "plz": "83646",
+    "ort": "Bad Tölz"
+  },
+  {
+    "name": "Sparkasse Baden-Baden Gaggenau",
+    "kurzname": "Spk Baden-Baden Gaggenau",
+    "blz": "66250030",
+    "bic": "SOLADES1BAD",
+    "plz": "76530",
+    "ort": "Baden-Baden"
+  },
+  {
+    "name": "Sparkasse Bamberg",
+    "kurzname": "Spk Bamberg",
+    "blz": "77050000",
+    "bic": "BYLADEM1SKB",
+    "plz": "96055",
+    "ort": "Bamberg"
+  },
+  {
+    "name": "Sparkasse Barnim",
+    "kurzname": "Sparkasse Barnim Eberswalde",
+    "blz": "17052000",
+    "bic": "WELADED1GZE",
+    "plz": "16204",
+    "ort": "Eberswalde"
+  },
+  {
+    "name": "Sparkasse Bayreuth",
+    "kurzname": "Sparkasse Bayreuth",
+    "blz": "77350110",
+    "bic": "BYLADEM1SBT",
+    "plz": "95440",
+    "ort": "Bayreuth"
+  },
+  {
+    "name": "Sparkasse Bensheim",
+    "kurzname": "Sparkasse Bensheim",
+    "blz": "50950068",
+    "bic": "HELADEF1BEN",
+    "plz": "64601",
+    "ort": "Bensheim"
+  },
+  {
+    "name": "Sparkasse Berchtesgadener Land",
+    "kurzname": "Spk Berchtesgadener Land",
+    "blz": "71050000",
+    "bic": "BYLADEM1BGL",
+    "plz": "83435",
+    "ort": "Bad Reichenhall"
+  },
+  {
+    "name": "Sparkasse Bergkamen-Bönen",
+    "kurzname": "Spk Bergkamen-Bönen",
+    "blz": "41051845",
+    "bic": "WELADED1BGK",
+    "plz": "59180",
+    "ort": "Bergkamen"
+  },
+  {
+    "name": "Sparkasse Bielefeld",
+    "kurzname": "Spk Bielefeld",
+    "blz": "48050161",
+    "bic": "SPBIDE3BXXX",
+    "plz": "33526",
+    "ort": "Bielefeld"
+  },
+  {
+    "name": "Sparkasse Bochum",
+    "kurzname": "Sparkasse Bochum",
+    "blz": "43050001",
+    "bic": "WELADED1BOC",
+    "plz": "44724",
+    "ort": "Bochum"
+  },
+  {
+    "name": "Sparkasse Bodensee",
+    "kurzname": "Sparkasse Bodensee",
+    "blz": "69050001",
+    "bic": "SOLADES1KNZ",
+    "plz": "78420",
+    "ort": "Konstanz"
+  },
+  {
+    "name": "Sparkasse Bonndorf-Stühlingen",
+    "kurzname": "Spk Bonndorf-Stühlingen",
+    "blz": "68051207",
+    "bic": "SOLADES1BND",
+    "plz": "79844",
+    "ort": "Bonndorf im Schwarzwald"
+  },
+  {
+    "name": "Sparkasse Borken-Schwalmstadt",
+    "kurzname": "Spk Borken-Schwalmst,Borken",
+    "blz": "52053458",
+    "bic": "HELADEF1SWA",
+    "plz": "34582",
+    "ort": "Borken (Hessen)"
+  },
+  {
+    "name": "Sparkasse Bottrop",
+    "kurzname": "Spk Bottrop",
+    "blz": "42451220",
+    "bic": "WELADED1BOT",
+    "plz": "46215",
+    "ort": "Bottrop"
+  },
+  {
+    "name": "Sparkasse Bremen",
+    "kurzname": "Spk Bremen",
+    "blz": "29050101",
+    "bic": "SBREDE22XXX",
+    "plz": "28078",
+    "ort": "Bremen"
+  },
+  {
+    "name": "Sparkasse Burbach-Neunkirchen",
+    "kurzname": "Spk Burbach-Neunkirchen",
+    "blz": "46051240",
+    "bic": "WELADED1BUB",
+    "plz": "57291",
+    "ort": "Burbach"
+  },
+  {
+    "name": "Sparkasse Burgenlandkreis",
+    "kurzname": "Spk Burgenlandkreis",
+    "blz": "80053000",
+    "bic": "NOLADE21BLK",
+    "plz": "06694",
+    "ort": "Zeitz"
+  },
+  {
+    "name": "Sparkasse Bühl",
+    "kurzname": "Sparkasse Bühl",
+    "blz": "66251434",
+    "bic": "SOLADES1BHL",
+    "plz": "77815",
+    "ort": "Bühl"
+  },
+  {
+    "name": "Sparkasse Celle-Gifhorn-Wolfsburg",
+    "kurzname": "Spk Celle-Gifhorn-Wolfsburg",
+    "blz": "26951311",
+    "bic": "NOLADE21GFW",
+    "plz": "38518",
+    "ort": "Gifhorn"
+  },
+  {
+    "name": "Sparkasse Chemnitz",
+    "kurzname": "Sparkasse Chemnitz",
+    "blz": "87050000",
+    "bic": "CHEKDE81XXX",
+    "plz": "09009",
+    "ort": "Chemnitz"
+  },
+  {
+    "name": "Sparkasse Coburg-Lichtenfels",
+    "kurzname": "Spk Coburg-Lichtenfels",
+    "blz": "78350000",
+    "bic": "BYLADEM1COB",
+    "plz": "96421",
+    "ort": "Coburg"
+  },
+  {
+    "name": "Sparkasse Dachau",
+    "kurzname": "Sparkasse Dachau",
+    "blz": "70051540",
+    "bic": "BYLADEM1DAH",
+    "plz": "85219",
+    "ort": "Dachau"
+  },
+  {
+    "name": "Sparkasse Darmstadt und Dieburg",
+    "kurzname": "Spk Darmstadt und Dieburg",
+    "blz": "50850150",
+    "bic": "HELADEF1DAS",
+    "plz": "64278",
+    "ort": "Darmstadt"
+  },
+  {
+    "name": "Sparkasse Deggendorf",
+    "kurzname": "Spk Deggendorf",
+    "blz": "74150000",
+    "bic": "BYLADEM1DEG",
+    "plz": "94459",
+    "ort": "Deggendorf"
+  },
+  {
+    "name": "Sparkasse Dillenburg",
+    "kurzname": "Spk Dillenburg",
+    "blz": "51650045",
+    "bic": "HELADEF1DIL",
+    "plz": "35683",
+    "ort": "Dillenburg"
+  },
+  {
+    "name": "Sparkasse Donnersberg",
+    "kurzname": "Sparkasse Donnersberg",
+    "blz": "54051990",
+    "bic": "MALADE51ROK",
+    "plz": "67802",
+    "ort": "Rockenhausen"
+  },
+  {
+    "name": "Sparkasse Dortmund",
+    "kurzname": "Sparkasse Dortmund",
+    "blz": "44050199",
+    "bic": "DORTDE33XXX",
+    "plz": "44047",
+    "ort": "Dortmund"
+  },
+  {
+    "name": "Sparkasse Duderstadt",
+    "kurzname": "Sparkasse Duderstadt",
+    "blz": "26051260",
+    "bic": "NOLADE21DUD",
+    "plz": "37105",
+    "ort": "Duderstadt"
+  },
+  {
+    "name": "Sparkasse Duisburg",
+    "kurzname": "Spk Duisburg",
+    "blz": "35050000",
+    "bic": "DUISDE33XXX",
+    "plz": "47015",
+    "ort": "Duisburg"
+  },
+  {
+    "name": "Sparkasse Düren",
+    "kurzname": "Sparkasse Düren",
+    "blz": "39550110",
+    "bic": "SDUEDE33XXX",
+    "plz": "52324",
+    "ort": "Düren"
+  },
+  {
+    "name": "Sparkasse Einbeck",
+    "kurzname": "Sparkasse Einbeck",
+    "blz": "26251425",
+    "bic": "NOLADE21EIN",
+    "plz": "37574",
+    "ort": "Einbeck"
+  },
+  {
+    "name": "Sparkasse Elbe-Elster",
+    "kurzname": "Sparkasse Elbe-Elster",
+    "blz": "18051000",
+    "bic": "WELADED1EES",
+    "plz": "03231",
+    "ort": "Finsterwalde"
+  },
+  {
+    "name": "Sparkasse Elmshorn",
+    "kurzname": "Spk Elmshorn",
+    "blz": "22150000",
+    "bic": "NOLADE21ELH",
+    "plz": "25335",
+    "ort": "Elmshorn"
+  },
+  {
+    "name": "Sparkasse Emden",
+    "kurzname": "Sparkasse Emden",
+    "blz": "28450000",
+    "bic": "BRLADE21EMD",
+    "plz": "26702",
+    "ort": "Emden"
+  },
+  {
+    "name": "Sparkasse Emsland",
+    "kurzname": "Spk Emsland",
+    "blz": "26650001",
+    "bic": "NOLADE21EMS",
+    "plz": "49704",
+    "ort": "Meppen"
+  },
+  {
+    "name": "Sparkasse Engen-Gottmadingen",
+    "kurzname": "Spk Engen-Gottmadingen",
+    "blz": "69251445",
+    "bic": "SOLADES1ENG",
+    "plz": "78229",
+    "ort": "Engen"
+  },
+  {
+    "name": "Sparkasse Essen",
+    "kurzname": "Sparkasse Essen",
+    "blz": "36050105",
+    "bic": "SPESDE3EXXX",
+    "plz": "45117",
+    "ort": "Essen"
+  },
+  {
+    "name": "Sparkasse Forchheim",
+    "kurzname": "Sparkasse Forchheim",
+    "blz": "76351040",
+    "bic": "BYLADEM1FOR",
+    "plz": "91299",
+    "ort": "Forchheim"
+  },
+  {
+    "name": "Sparkasse Freiburg-Nördlicher Breisgau",
+    "kurzname": "Spk Freiburg-Nördl Breisgau",
+    "blz": "68050101",
+    "bic": "FRSPDE66XXX",
+    "plz": "79098",
+    "ort": "Freiburg im Breisgau"
+  },
+  {
+    "name": "Sparkasse Freising Moosburg",
+    "kurzname": "Sparkasse Freising Moosburg",
+    "blz": "70051003",
+    "bic": "BYLADEM1FSI",
+    "plz": "85354",
+    "ort": "Freising"
+  },
+  {
+    "name": "Sparkasse Freyung-Grafenau",
+    "kurzname": "Spk Freyung-Grafenau",
+    "blz": "74051230",
+    "bic": "BYLADEM1FRG",
+    "plz": "94078",
+    "ort": "Freyung"
+  },
+  {
+    "name": "Sparkasse Fulda",
+    "kurzname": "Sparkasse Fulda",
+    "blz": "53050180",
+    "bic": "HELADEF1FDS",
+    "plz": "36035",
+    "ort": "Fulda"
+  },
+  {
+    "name": "Sparkasse Fürstenfeldbruck",
+    "kurzname": "Spk Fürstenfeldbruck",
+    "blz": "70053070",
+    "bic": "BYLADEM1FFB",
+    "plz": "82243",
+    "ort": "Fürstenfeldbruck"
+  },
+  {
+    "name": "Sparkasse Fürth",
+    "kurzname": "Spk Fürth",
+    "blz": "76250000",
+    "bic": "BYLADEM1SFU",
+    "plz": "90762",
+    "ort": "Fürth"
+  },
+  {
+    "name": "Sparkasse Gelsenkirchen",
+    "kurzname": "Sparkasse Gelsenkirchen",
+    "blz": "42050001",
+    "bic": "WELADED1GEK",
+    "plz": "45801",
+    "ort": "Gelsenkirchen"
+  },
+  {
+    "name": "Sparkasse Gera-Greiz",
+    "kurzname": "Spk Gera-Greiz",
+    "blz": "83050000",
+    "bic": "HELADEF1GER",
+    "plz": "07503",
+    "ort": "Gera"
+  },
+  {
+    "name": "Sparkasse Geseke",
+    "kurzname": "Sparkasse Geseke",
+    "blz": "41651965",
+    "bic": "WELADED1GES",
+    "plz": "59585",
+    "ort": "Geseke"
+  },
+  {
+    "name": "Sparkasse Gießen",
+    "kurzname": "Sparkasse Gießen",
+    "blz": "51350025",
+    "bic": "SKGIDE5FXXX",
+    "plz": "35347",
+    "ort": "Gießen"
+  },
+  {
+    "name": "Sparkasse Grünberg",
+    "kurzname": "Sparkasse Grünberg",
+    "blz": "51351526",
+    "bic": "HELADEF1GRU",
+    "plz": "35305",
+    "ort": "Grünberg"
+  },
+  {
+    "name": "Sparkasse Gummersbach",
+    "kurzname": "Spk Gummersbach",
+    "blz": "38450000",
+    "bic": "WELADED1GMB",
+    "plz": "51608",
+    "ort": "Gummersbach"
+  },
+  {
+    "name": "Sparkasse Göttingen",
+    "kurzname": "Sparkasse Göttingen",
+    "blz": "26050001",
+    "bic": "NOLADE21GOE",
+    "plz": "37070",
+    "ort": "Göttingen"
+  },
+  {
+    "name": "Sparkasse Gütersloh-Rietberg-Versmold",
+    "kurzname": "Spk.Gütersl.-Rietb.-Versmo.",
+    "blz": "47850065",
+    "bic": "WELADED1GTL",
+    "plz": "33260",
+    "ort": "Gütersloh"
+  },
+  {
+    "name": "Sparkasse Hameln-Weserbergland",
+    "kurzname": "Spk Hameln-Weserbergland",
+    "blz": "25450110",
+    "bic": "NOLADE21SWB",
+    "plz": "31763",
+    "ort": "Hameln"
+  },
+  {
+    "name": "Sparkasse Hamm",
+    "kurzname": "Sparkasse Hamm",
+    "blz": "41050095",
+    "bic": "WELADED1HAM",
+    "plz": "59061",
+    "ort": "Hamm"
+  },
+  {
+    "name": "Sparkasse Hanauerland",
+    "kurzname": "Spk Hanauerland Kehl",
+    "blz": "66451862",
+    "bic": "SOLADES1KEL",
+    "plz": "77694",
+    "ort": "Kehl"
+  },
+  {
+    "name": "Sparkasse Hannover",
+    "kurzname": "Sparkasse Hannover",
+    "blz": "25050180",
+    "bic": "SPKHDE2HXXX",
+    "plz": "30001",
+    "ort": "Hannover"
+  },
+  {
+    "name": "Sparkasse Harburg-Buxtehude",
+    "kurzname": "Spk Harburg-Buxtehude",
+    "blz": "20750000",
+    "bic": "NOLADE21HAM",
+    "plz": "21045",
+    "ort": "Hamburg"
+  },
+  {
+    "name": "Sparkasse Hattingen",
+    "kurzname": "Sparkasse Hattingen",
+    "blz": "43051040",
+    "bic": "WELADED1HTG",
+    "plz": "45504",
+    "ort": "Hattingen"
+  },
+  {
+    "name": "Sparkasse Hegau-Bodensee",
+    "kurzname": "Sparkasse Hegau-Bodensee",
+    "blz": "69250035",
+    "bic": "SOLADES1SNG",
+    "plz": "78202",
+    "ort": "Singen (Hohentwiel)"
+  },
+  {
+    "name": "Sparkasse Heidelberg",
+    "kurzname": "Spk Heidelberg",
+    "blz": "67250020",
+    "bic": "SOLADES1HDB",
+    "plz": "69004",
+    "ort": "Heidelberg"
+  },
+  {
+    "name": "Sparkasse Hellweg-Lippe",
+    "kurzname": "Sparkasse Hellweg-Lippe",
+    "blz": "41450075",
+    "bic": "WELADED1SOS",
+    "plz": "59553",
+    "ort": "Lippstadt"
+  },
+  {
+    "name": "Sparkasse Herford",
+    "kurzname": "Sparkasse Herford",
+    "blz": "49450120",
+    "bic": "WLAHDE44XXX",
+    "plz": "32045",
+    "ort": "Herford"
+  },
+  {
+    "name": "Sparkasse Hilden-Ratingen-Velbert",
+    "kurzname": "Sparkasse HRV",
+    "blz": "33450000",
+    "bic": "WELADED1VEL",
+    "plz": "42510",
+    "ort": "Velbert"
+  },
+  {
+    "name": "Sparkasse Hildesheim Goslar Peine",
+    "kurzname": "Sparkasse HGP",
+    "blz": "25950130",
+    "bic": "NOLADE21HIK",
+    "plz": "31134",
+    "ort": "Hildesheim"
+  },
+  {
+    "name": "Sparkasse Hochfranken",
+    "kurzname": "Spk Hochfranken",
+    "blz": "78050000",
+    "bic": "BYLADEM1HOF",
+    "plz": "95015",
+    "ort": "Hof"
+  },
+  {
+    "name": "Sparkasse Hochrhein",
+    "kurzname": "Sparkasse Hochrhein",
+    "blz": "68452290",
+    "bic": "SKHRDE6WXXX",
+    "plz": "79761",
+    "ort": "Waldshut-Tiengen"
+  },
+  {
+    "name": "Sparkasse Hochschwarzwald",
+    "kurzname": "Spk Hochschwarzwald T-Neust",
+    "blz": "68051004",
+    "bic": "SOLADES1HSW",
+    "plz": "79812",
+    "ort": "Titisee-Neustadt"
+  },
+  {
+    "name": "Sparkasse Hockenheim",
+    "kurzname": "Spk Hockenheim",
+    "blz": "67051203",
+    "bic": "SOLADES1HOC",
+    "plz": "68766",
+    "ort": "Hockenheim"
+  },
+  {
+    "name": "Sparkasse Hohenlohekreis",
+    "kurzname": "Sparkasse Hohenlohekreis",
+    "blz": "62251550",
+    "bic": "SOLADES1KUN",
+    "plz": "74641",
+    "ort": "Künzelsau"
+  },
+  {
+    "name": "Sparkasse Holstein",
+    "kurzname": "Spk Holstein Eutin",
+    "blz": "21352240",
+    "bic": "NOLADE21HOL",
+    "plz": "23692",
+    "ort": "Eutin"
+  },
+  {
+    "name": "Sparkasse Ingolstadt Eichstätt",
+    "kurzname": "Spk Ingolstadt Eichstätt",
+    "blz": "72150000",
+    "bic": "BYLADEM1ING",
+    "plz": "85023",
+    "ort": "Ingolstadt"
+  },
+  {
+    "name": "Sparkasse Jena-Saale-Holzland",
+    "kurzname": "Spk Jena-Saale-Holzland",
+    "blz": "83053030",
+    "bic": "HELADEF1JEN",
+    "plz": "07740",
+    "ort": "Jena"
+  },
+  {
+    "name": "Sparkasse Kaiserslautern",
+    "kurzname": "Spk Kaiserslautern",
+    "blz": "54050220",
+    "bic": "MALADE51KLK",
+    "plz": "67653",
+    "ort": "Kaiserslautern"
+  },
+  {
+    "name": "Sparkasse Karlsruhe",
+    "kurzname": "Spk Karlsruhe",
+    "blz": "66050101",
+    "bic": "KARSDE66XXX",
+    "plz": "76041",
+    "ort": "Karlsruhe"
+  },
+  {
+    "name": "Sparkasse Kierspe-Meinerzhagen",
+    "kurzname": "Spk Kierspe-Meinerzhagen",
+    "blz": "45851665",
+    "bic": "WELADED1KMZ",
+    "plz": "58531",
+    "ort": "Meinerzhagen"
+  },
+  {
+    "name": "Sparkasse Kinzigtal",
+    "kurzname": "Spk Kinzigtal",
+    "blz": "66451548",
+    "bic": "SOLADES1HAL",
+    "plz": "77716",
+    "ort": "Haslach im Kinzigtal"
+  },
+  {
+    "name": "Sparkasse Koblenz",
+    "kurzname": "Sparkasse Koblenz",
+    "blz": "57050120",
+    "bic": "MALADE51KOB",
+    "plz": "56013",
+    "ort": "Koblenz"
+  },
+  {
+    "name": "Sparkasse Kraichgau Bruchsal-Bretten-Sinsheim",
+    "kurzname": "Spk Kraichgau",
+    "blz": "66350036",
+    "bic": "BRUSDE66XXX",
+    "plz": "76643",
+    "ort": "Bruchsal"
+  },
+  {
+    "name": "Sparkasse Krefeld",
+    "kurzname": "Sparkasse Krefeld",
+    "blz": "32050000",
+    "bic": "SPKRDE33XXX",
+    "plz": "47719",
+    "ort": "Krefeld"
+  },
+  {
+    "name": "Sparkasse Kulmbach-Kronach",
+    "kurzname": "Spk Kulmbach-Kronach",
+    "blz": "77150000",
+    "bic": "BYLADEM1KUB",
+    "plz": "95311",
+    "ort": "Kulmbach"
+  },
+  {
+    "name": "Sparkasse KölnBonn",
+    "kurzname": "Sparkasse KölnBonn",
+    "blz": "37050198",
+    "bic": "COLSDE33XXX",
+    "plz": "50667",
+    "ort": "Köln"
+  },
+  {
+    "name": "Sparkasse Landsberg-Dießen",
+    "kurzname": "Spk Landsberg-Dießen",
+    "blz": "70052060",
+    "bic": "BYLADEM1LLD",
+    "plz": "86896",
+    "ort": "Landsberg am Lech"
+  },
+  {
+    "name": "Sparkasse Landshut",
+    "kurzname": "Spk Landshut",
+    "blz": "74350000",
+    "bic": "BYLADEM1LAH",
+    "plz": "84011",
+    "ort": "Landshut"
+  },
+  {
+    "name": "Sparkasse Langen-Seligenstadt",
+    "kurzname": "Spk Langen-Seligenstadt",
+    "blz": "50652124",
+    "bic": "HELADEF1SLS",
+    "plz": "63487",
+    "ort": "Seligenstadt"
+  },
+  {
+    "name": "Sparkasse Laubach-Hungen",
+    "kurzname": "Sparkasse Laubach-Hungen",
+    "blz": "51352227",
+    "bic": "HELADEF1LAU",
+    "plz": "35321",
+    "ort": "Laubach"
+  },
+  {
+    "name": "Sparkasse LeerWittmund",
+    "kurzname": "Sparkasse LeerWittmund",
+    "blz": "28550000",
+    "bic": "BRLADE21LER",
+    "plz": "26766",
+    "ort": "Leer (Ostfriesland)"
+  },
+  {
+    "name": "Sparkasse Lemgo",
+    "kurzname": "Sparkasse Lemgo",
+    "blz": "48250110",
+    "bic": "WELADED1LEM",
+    "plz": "32655",
+    "ort": "Lemgo"
+  },
+  {
+    "name": "Sparkasse Leverkusen",
+    "kurzname": "Sparkasse Leverkusen",
+    "blz": "37551440",
+    "bic": "WELADEDLLEV",
+    "plz": "51312",
+    "ort": "Leverkusen"
+  },
+  {
+    "name": "Sparkasse Lörrach-Rheinfelden",
+    "kurzname": "Sparkasse Lörrach-Rheinfeld",
+    "blz": "68350048",
+    "bic": "SKLODE66XXX",
+    "plz": "79537",
+    "ort": "Lörrach"
+  },
+  {
+    "name": "Sparkasse Lüneburg",
+    "kurzname": "Spk Lüneburg",
+    "blz": "24050110",
+    "bic": "NOLADE21LBG",
+    "plz": "21309",
+    "ort": "Lüneburg"
+  },
+  {
+    "name": "Sparkasse MagdeBurg",
+    "kurzname": "Spk MDB",
+    "blz": "81053272",
+    "bic": "NOLADE21MDG",
+    "plz": "39015",
+    "ort": "Magdeburg"
+  },
+  {
+    "name": "Sparkasse Mainfranken Würzburg",
+    "kurzname": "Spk Mainfranken Würzburg",
+    "blz": "79050000",
+    "bic": "BYLADEM1SWU",
+    "plz": "97067",
+    "ort": "Würzburg"
+  },
+  {
+    "name": "Sparkasse Mansfeld-Südharz",
+    "kurzname": "Sparkasse Mansfeld-Südharz",
+    "blz": "80055008",
+    "bic": "NOLADE21EIL",
+    "plz": "06283",
+    "ort": "Lutherstadt Eisleben"
+  },
+  {
+    "name": "Sparkasse Marburg-Biedenkopf",
+    "kurzname": "Spk Marburg-Biedenkopf",
+    "blz": "53350000",
+    "bic": "HELADEF1MAR",
+    "plz": "35009",
+    "ort": "Marburg"
+  },
+  {
+    "name": "Sparkasse Markgräflerland",
+    "kurzname": "Sparkasse Markgräflerland",
+    "blz": "68351865",
+    "bic": "SOLADES1MGL",
+    "plz": "79576",
+    "ort": "Weil am Rhein"
+  },
+  {
+    "name": "Sparkasse Mecklenburg-Nordwest",
+    "kurzname": "Spk Mecklenburg-Nordwest",
+    "blz": "14051000",
+    "bic": "NOLADE21WIS",
+    "plz": "23951",
+    "ort": "Wismar"
+  },
+  {
+    "name": "Sparkasse Mecklenburg-Schwerin",
+    "kurzname": "Spk Mecklenburg-Schwerin",
+    "blz": "14052000",
+    "bic": "NOLADE21LWL",
+    "plz": "19053",
+    "ort": "Schwerin"
+  },
+  {
+    "name": "Sparkasse Mecklenburg-Strelitz",
+    "kurzname": "Spk Mecklenburg-Strelitz",
+    "blz": "15051732",
+    "bic": "NOLADE21MST",
+    "plz": "17235",
+    "ort": "Neustrelitz"
+  },
+  {
+    "name": "Sparkasse Meißen",
+    "kurzname": "Spk Meißen",
+    "blz": "85055000",
+    "bic": "SOLADES1MEI",
+    "plz": "01587",
+    "ort": "Riesa"
+  },
+  {
+    "name": "Sparkasse Merzig-Wadern",
+    "kurzname": "Spk Merzig-Wadern",
+    "blz": "59351040",
+    "bic": "MERZDE55XXX",
+    "plz": "66651",
+    "ort": "Merzig"
+  },
+  {
+    "name": "Sparkasse Minden-Lübbecke",
+    "kurzname": "Sparkasse Minden-Lübbecke",
+    "blz": "49050101",
+    "bic": "WELADED1MIN",
+    "plz": "32382",
+    "ort": "Minden"
+  },
+  {
+    "name": "Sparkasse Mittelfranken-Süd",
+    "kurzname": "Spk Mittelfranken-Süd",
+    "blz": "76450000",
+    "bic": "BYLADEM1SRS",
+    "plz": "91154",
+    "ort": "Roth"
+  },
+  {
+    "name": "Sparkasse Mittelholstein",
+    "kurzname": "Spk Mittelholst Rendsburg",
+    "blz": "21450000",
+    "bic": "NOLADE21RDB",
+    "plz": "24768",
+    "ort": "Rendsburg"
+  },
+  {
+    "name": "Sparkasse Mittelmosel-Eifel Mosel Hunsrück",
+    "kurzname": "Spk Mittelmosel EMH",
+    "blz": "58751230",
+    "bic": "MALADE51BKS",
+    "plz": "54469",
+    "ort": "Bernkastel-Kues"
+  },
+  {
+    "name": "Sparkasse Mittelsachsen",
+    "kurzname": "Spk Mittelsachsen",
+    "blz": "87052000",
+    "bic": "WELADED1FGX",
+    "plz": "09583",
+    "ort": "Freiberg"
+  },
+  {
+    "name": "Sparkasse Mittelthüringen",
+    "kurzname": "Spk Mittelthüringen",
+    "blz": "82051000",
+    "bic": "HELADEF1WEM",
+    "plz": "99084",
+    "ort": "Erfurt"
+  },
+  {
+    "name": "Sparkasse Mitten im Sauerland",
+    "kurzname": "Spk Mitten im Sauerland",
+    "blz": "46650005",
+    "bic": "WELADED1ARN",
+    "plz": "59872",
+    "ort": "Meschede"
+  },
+  {
+    "name": "Sparkasse Muldental",
+    "kurzname": "Spk Muldental",
+    "blz": "86050200",
+    "bic": "SOLADES1GRM",
+    "plz": "04662",
+    "ort": "Grimma"
+  },
+  {
+    "name": "Sparkasse Märkisches Sauerland Hemer-Menden",
+    "kurzname": "Spk Märkisches Sauerland",
+    "blz": "44551210",
+    "bic": "WELADED1HEM",
+    "plz": "58675",
+    "ort": "Hemer"
+  },
+  {
+    "name": "Sparkasse Mülheim an der Ruhr",
+    "kurzname": "Spk Mülheim an der Ruhr",
+    "blz": "36250000",
+    "bic": "SPMHDE3EXXX",
+    "plz": "45466",
+    "ort": "Mülheim an der Ruhr"
+  },
+  {
+    "name": "Sparkasse Münsterland Ost",
+    "kurzname": "Spk Münsterland Ost",
+    "blz": "40050150",
+    "bic": "WELADED1MST",
+    "plz": "48151",
+    "ort": "Münster"
+  },
+  {
+    "name": "Sparkasse Neckartal-Odenwald",
+    "kurzname": "Spk Neckartal-Odenwald",
+    "blz": "67450048",
+    "bic": "SOLADES1MOS",
+    "plz": "74819",
+    "ort": "Mosbach"
+  },
+  {
+    "name": "Sparkasse Neu-Ulm-Illertissen",
+    "kurzname": "Spk Neu-Ulm Illertissen",
+    "blz": "73050000",
+    "bic": "BYLADEM1NUL",
+    "plz": "89231",
+    "ort": "Neu-Ulm"
+  },
+  {
+    "name": "Sparkasse Neubrandenburg-Demmin",
+    "kurzname": "Spk Neubrandenburg-Demmin",
+    "blz": "15050200",
+    "bic": "NOLADE21NBS",
+    "plz": "17041",
+    "ort": "Neubrandenburg"
+  },
+  {
+    "name": "Sparkasse Neumarkt i d OPf-Parsberg",
+    "kurzname": "Spk Neumarkt i d OPf-Parsbg",
+    "blz": "76052080",
+    "bic": "BYLADEM1NMA",
+    "plz": "92303",
+    "ort": "Neumarkt i.d.OPf."
+  },
+  {
+    "name": "Sparkasse Neunkirchen",
+    "kurzname": "Sparkasse Neunkirchen",
+    "blz": "59252046",
+    "bic": "SALADE51NKS",
+    "plz": "66538",
+    "ort": "Neunkirchen"
+  },
+  {
+    "name": "Sparkasse Neuss",
+    "kurzname": "Sparkasse Neuss",
+    "blz": "30550000",
+    "bic": "WELADEDNXXX",
+    "plz": "41456",
+    "ort": "Neuss"
+  },
+  {
+    "name": "Sparkasse Neuwied",
+    "kurzname": "Sparkasse Neuwied",
+    "blz": "57450120",
+    "bic": "MALADE51NWD",
+    "plz": "56510",
+    "ort": "Neuwied"
+  },
+  {
+    "name": "Sparkasse Niederbayern-Mitte",
+    "kurzname": "Spk Niederbayern-Mitte",
+    "blz": "74250000",
+    "bic": "BYLADEM1SRG",
+    "plz": "94304",
+    "ort": "Straubing"
+  },
+  {
+    "name": "Sparkasse Niederlausitz",
+    "kurzname": "Sparkasse Niederlausitz",
+    "blz": "18055000",
+    "bic": "WELADED1OSL",
+    "plz": "01957",
+    "ort": "Senftenberg"
+  },
+  {
+    "name": "Sparkasse Nienburg",
+    "kurzname": "Sparkasse Nienburg",
+    "blz": "25650106",
+    "bic": "NOLADE21NIB",
+    "plz": "31567",
+    "ort": "Nienburg (Weser)"
+  },
+  {
+    "name": "Sparkasse Nordschwaben",
+    "kurzname": "Sparkasse Nordschwaben",
+    "blz": "72251520",
+    "bic": "BYLADEM1DLG",
+    "plz": "89407",
+    "ort": "Dillingen a.d.Donau"
+  },
+  {
+    "name": "Sparkasse Nürnberg",
+    "kurzname": "Sparkasse Nürnberg",
+    "blz": "76050101",
+    "bic": "SSKNDE77XXX",
+    "plz": "90327",
+    "ort": "Nürnberg"
+  },
+  {
+    "name": "Sparkasse Oberhessen",
+    "kurzname": "Spk Oberhessen",
+    "blz": "51850079",
+    "bic": "HELADEF1FRI",
+    "plz": "61167",
+    "ort": "Friedberg (Hessen)"
+  },
+  {
+    "name": "Sparkasse Oberland",
+    "kurzname": "Sparkasse Oberland",
+    "blz": "70351030",
+    "bic": "BYLADEM1WHM",
+    "plz": "82362",
+    "ort": "Weilheim i. OB"
+  },
+  {
+    "name": "Sparkasse Oberlausitz-Niederschlesien",
+    "kurzname": "Spk Oberlausitz-Niederschl.",
+    "blz": "85050100",
+    "bic": "WELADED1GRL",
+    "plz": "02763",
+    "ort": "Zittau"
+  },
+  {
+    "name": "Sparkasse Oberpfalz Nord",
+    "kurzname": "Spk Oberpfalz Nord",
+    "blz": "75350000",
+    "bic": "BYLADEM1WEN",
+    "plz": "92615",
+    "ort": "Weiden i.d.OPf."
+  },
+  {
+    "name": "Sparkasse Odenwaldkreis",
+    "kurzname": "Spk Odenwaldkreis Erbach",
+    "blz": "50851952",
+    "bic": "HELADEF1ERB",
+    "plz": "64711",
+    "ort": "Erbach"
+  },
+  {
+    "name": "Sparkasse Oder-Spree",
+    "kurzname": "Sparkasse Oder-Spree",
+    "blz": "17055050",
+    "bic": "WELADED1LOS",
+    "plz": "15203",
+    "ort": "Frankfurt (Oder)"
+  },
+  {
+    "name": "Sparkasse Offenburg/Ortenau",
+    "kurzname": "Sparkasse Offenburg/Ortenau",
+    "blz": "66450050",
+    "bic": "SOLADES1OFG",
+    "plz": "77662",
+    "ort": "Offenburg"
+  },
+  {
+    "name": "Sparkasse Olpe-Drolshagen-Wenden",
+    "kurzname": "Spk Olpe-Drolshagen-Wenden",
+    "blz": "46250049",
+    "bic": "WELADED1OPE",
+    "plz": "57447",
+    "ort": "Olpe"
+  },
+  {
+    "name": "Sparkasse Osnabrück",
+    "kurzname": "Sparkasse Osnabrück",
+    "blz": "26550105",
+    "bic": "NOLADE22XXX",
+    "plz": "49018",
+    "ort": "Osnabrück"
+  },
+  {
+    "name": "Sparkasse Osterode am Harz",
+    "kurzname": "Sparkasse Osterode am Harz",
+    "blz": "26351015",
+    "bic": "NOLADE21HZB",
+    "plz": "37520",
+    "ort": "Osterode am Harz"
+  },
+  {
+    "name": "Sparkasse Ostprignitz-Ruppin",
+    "kurzname": "Spk Ostprignitz-Ruppin",
+    "blz": "16050202",
+    "bic": "WELADED1OPR",
+    "plz": "16816",
+    "ort": "Neuruppin"
+  },
+  {
+    "name": "Sparkasse Paderborn-Detmold-Höxter",
+    "kurzname": "Spk Paderborn-Detmold-Höxt.",
+    "blz": "47650130",
+    "bic": "WELADE3LXXX",
+    "plz": "32756",
+    "ort": "Detmold"
+  },
+  {
+    "name": "Sparkasse Parchim-Lübz",
+    "kurzname": "Sparkasse Parchim-Lübz",
+    "blz": "14051362",
+    "bic": "NOLADE21PCH",
+    "plz": "19370",
+    "ort": "Parchim"
+  },
+  {
+    "name": "Sparkasse Passau",
+    "kurzname": "Spk Passau",
+    "blz": "74050000",
+    "bic": "BYLADEM1PAS",
+    "plz": "94014",
+    "ort": "Passau"
+  },
+  {
+    "name": "Sparkasse Pfaffenhofen",
+    "kurzname": "Spk Pfaffenhofen",
+    "blz": "72151650",
+    "bic": "BYLADEM1PAF",
+    "plz": "85262",
+    "ort": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Sparkasse Pforzheim Calw",
+    "kurzname": "Sparkasse Pforzheim Calw",
+    "blz": "66650085",
+    "bic": "PZHSDE66XXX",
+    "plz": "75172",
+    "ort": "Pforzheim"
+  },
+  {
+    "name": "Sparkasse Pfullendorf-Meßkirch",
+    "kurzname": "Spk Pfullendorf-Meßkirch",
+    "blz": "69051620",
+    "bic": "SOLADES1PFD",
+    "plz": "88630",
+    "ort": "Pfullendorf"
+  },
+  {
+    "name": "Sparkasse Prignitz",
+    "kurzname": "Sparkasse Prignitz",
+    "blz": "16050101",
+    "bic": "WELADED1PRP",
+    "plz": "16928",
+    "ort": "Pritzwalk"
+  },
+  {
+    "name": "Sparkasse Rastatt-Gernsbach",
+    "kurzname": "Sparkasse Rastatt-Gernsbach",
+    "blz": "66550070",
+    "bic": "SOLADES1RAS",
+    "plz": "76402",
+    "ort": "Rastatt"
+  },
+  {
+    "name": "Sparkasse Regen-Viechtach",
+    "kurzname": "Sparkasse Regen-Viechtach",
+    "blz": "74151450",
+    "bic": "BYLADEM1REG",
+    "plz": "94202",
+    "ort": "Regen"
+  },
+  {
+    "name": "Sparkasse Regensburg",
+    "kurzname": "Spk Regensburg",
+    "blz": "75050000",
+    "bic": "BYLADEM1RBG",
+    "plz": "93042",
+    "ort": "Regensburg"
+  },
+  {
+    "name": "Sparkasse Rhein Neckar Nord",
+    "kurzname": "Spk Rhein Neckar Nord",
+    "blz": "67050505",
+    "bic": "MANSDE66XXX",
+    "plz": "68151",
+    "ort": "Mannheim"
+  },
+  {
+    "name": "Sparkasse Rhein-Haardt",
+    "kurzname": "Spk Rhein-Haardt",
+    "blz": "54651240",
+    "bic": "MALADE51DKH",
+    "plz": "67087",
+    "ort": "Bad Dürkheim"
+  },
+  {
+    "name": "Sparkasse Rhein-Maas",
+    "kurzname": "Sparkasse Rhein-Maas",
+    "blz": "32450000",
+    "bic": "WELADED1KLE",
+    "plz": "47533",
+    "ort": "Kleve"
+  },
+  {
+    "name": "Sparkasse Rhein-Nahe",
+    "kurzname": "Sparkasse Rhein-Nahe",
+    "blz": "56050180",
+    "bic": "MALADE51KRE",
+    "plz": "55541",
+    "ort": "Bad Kreuznach"
+  },
+  {
+    "name": "Sparkasse Rosenheim-Bad Aibling",
+    "kurzname": "Spk Rosenheim-Bad Aibling",
+    "blz": "71150000",
+    "bic": "BYLADEM1ROS",
+    "plz": "83004",
+    "ort": "Rosenheim"
+  },
+  {
+    "name": "Sparkasse Rotenburg Osterholz",
+    "kurzname": "Spk Rotenburg Osterholz",
+    "blz": "24151235",
+    "bic": "BRLADE21ROB",
+    "plz": "27393",
+    "ort": "Zeven"
+  },
+  {
+    "name": "Sparkasse Rottal-Inn",
+    "kurzname": "Spk Rottal-Inn Eggenfelden",
+    "blz": "74351430",
+    "bic": "BYLADEM1EGF",
+    "plz": "84307",
+    "ort": "Eggenfelden"
+  },
+  {
+    "name": "Sparkasse Saarbrücken",
+    "kurzname": "Sparkasse Saarbrücken",
+    "blz": "59050101",
+    "bic": "SAKSDE55XXX",
+    "plz": "66104",
+    "ort": "Saarbrücken"
+  },
+  {
+    "name": "Sparkasse Salem-Heiligenberg",
+    "kurzname": "Spk Salem-Heiligenberg",
+    "blz": "69051725",
+    "bic": "SOLADES1SAL",
+    "plz": "88682",
+    "ort": "Salem"
+  },
+  {
+    "name": "Sparkasse Schaumburg",
+    "kurzname": "Sparkasse Schaumburg",
+    "blz": "25551480",
+    "bic": "NOLADE21SHG",
+    "plz": "31726",
+    "ort": "Rinteln"
+  },
+  {
+    "name": "Sparkasse Schwaben-Bodensee",
+    "kurzname": "Spk Schwaben-Bodensee",
+    "blz": "73150000",
+    "bic": "BYLADEM1MLM",
+    "plz": "87700",
+    "ort": "Memmingen"
+  },
+  {
+    "name": "Sparkasse Schwarzwald-Baar",
+    "kurzname": "Spk Schwarzwald-Baar",
+    "blz": "69450065",
+    "bic": "SOLADES1VSS",
+    "plz": "78001",
+    "ort": "Villingen-Schwenningen"
+  },
+  {
+    "name": "Sparkasse Schweinfurt-Haßberge",
+    "kurzname": "Spk Schweinfurt-Haßberge",
+    "blz": "79350101",
+    "bic": "BYLADEM1KSW",
+    "plz": "97410",
+    "ort": "Schweinfurt"
+  },
+  {
+    "name": "Sparkasse Schwelm-Sprockhövel",
+    "kurzname": "Spk Schwelm-Sprockhövel",
+    "blz": "45451555",
+    "bic": "WELADED1SLM",
+    "plz": "58332",
+    "ort": "Schwelm"
+  },
+  {
+    "name": "Sparkasse Schwäbisch Hall-Crailsheim",
+    "kurzname": "Sparkasse Schwäbisch Hall",
+    "blz": "62250030",
+    "bic": "SOLADES1SHA",
+    "plz": "74504",
+    "ort": "Schwäbisch Hall"
+  },
+  {
+    "name": "Sparkasse Siegen",
+    "kurzname": "Spk Siegen",
+    "blz": "46050001",
+    "bic": "WELADED1SIE",
+    "plz": "57009",
+    "ort": "Siegen"
+  },
+  {
+    "name": "Sparkasse Sonneberg",
+    "kurzname": "Sparkasse Sonneberg",
+    "blz": "84054722",
+    "bic": "HELADEF1SON",
+    "plz": "96515",
+    "ort": "Sonneberg"
+  },
+  {
+    "name": "Sparkasse Spree-Neiße",
+    "kurzname": "Sparkasse Spree-Neiße",
+    "blz": "18050000",
+    "bic": "WELADED1CBN",
+    "plz": "03006",
+    "ort": "Cottbus"
+  },
+  {
+    "name": "Sparkasse St. Blasien",
+    "kurzname": "Spk St. Blasien",
+    "blz": "68052230",
+    "bic": "SOLADES1STB",
+    "plz": "79837",
+    "ort": "St. Blasien"
+  },
+  {
+    "name": "Sparkasse Stade-Altes Land",
+    "kurzname": "Spk Stade-Altes Land",
+    "blz": "24151005",
+    "bic": "NOLADE21STS",
+    "plz": "21660",
+    "ort": "Stade"
+  },
+  {
+    "name": "Sparkasse Starkenburg",
+    "kurzname": "Sparkasse Starkenburg",
+    "blz": "50951469",
+    "bic": "HELADEF1HEP",
+    "plz": "64646",
+    "ort": "Heppenheim (Bergstraße)"
+  },
+  {
+    "name": "Sparkasse Staufen-Breisach",
+    "kurzname": "Spk Staufen-Breisach",
+    "blz": "68052328",
+    "bic": "SOLADES1STF",
+    "plz": "79216",
+    "ort": "Staufen im Breisgau"
+  },
+  {
+    "name": "Sparkasse Südholstein",
+    "kurzname": "Spk Südholstein Neumünster",
+    "blz": "23051030",
+    "bic": "NOLADE21SHO",
+    "plz": "24531",
+    "ort": "Neumünster"
+  },
+  {
+    "name": "Sparkasse Südpfalz",
+    "kurzname": "Sparkasse Südpfalz",
+    "blz": "54850010",
+    "bic": "SOLADES1SUW",
+    "plz": "76825",
+    "ort": "Landau in der Pfalz"
+  },
+  {
+    "name": "Sparkasse Südwestpfalz",
+    "kurzname": "Spk Südwestpfalz Pirmasens",
+    "blz": "54250010",
+    "bic": "MALADE51SWP",
+    "plz": "66930",
+    "ort": "Pirmasens"
+  },
+  {
+    "name": "Sparkasse Tauberfranken",
+    "kurzname": "Spk Tauberfranken",
+    "blz": "67352565",
+    "bic": "SOLADES1TBB",
+    "plz": "97931",
+    "ort": "Tauberbischofsheim"
+  },
+  {
+    "name": "Sparkasse Trier",
+    "kurzname": "Sparkasse Trier",
+    "blz": "58550130",
+    "bic": "TRISDE55XXX",
+    "plz": "54292",
+    "ort": "Trier"
+  },
+  {
+    "name": "Sparkasse Uckermark",
+    "kurzname": "Spk Uckermark Prenzlau",
+    "blz": "17056060",
+    "bic": "WELADED1UMP",
+    "plz": "17291",
+    "ort": "Prenzlau"
+  },
+  {
+    "name": "Sparkasse Uecker-Randow",
+    "kurzname": "Sparkasse Uecker-Randow",
+    "blz": "15050400",
+    "bic": "NOLADE21PSW",
+    "plz": "17309",
+    "ort": "Pasewalk"
+  },
+  {
+    "name": "Sparkasse Uelzen Lüchow-Dannenberg",
+    "kurzname": "Sparkasse Uelzen Lüchow-Dbg",
+    "blz": "25850110",
+    "bic": "NOLADE21UEL",
+    "plz": "29525",
+    "ort": "Uelzen"
+  },
+  {
+    "name": "Sparkasse Ulm",
+    "kurzname": "Sparkasse Ulm",
+    "blz": "63050000",
+    "bic": "SOLADES1ULM",
+    "plz": "89073",
+    "ort": "Ulm"
+  },
+  {
+    "name": "Sparkasse UnnaKamen",
+    "kurzname": "Sparkasse UnnaKamen",
+    "blz": "44350060",
+    "bic": "WELADED1UNN",
+    "plz": "59409",
+    "ort": "Unna"
+  },
+  {
+    "name": "Sparkasse Unstrut-Hainich",
+    "kurzname": "Sparkasse Unstrut-Hainich",
+    "blz": "82056060",
+    "bic": "HELADEF1MUE",
+    "plz": "99974",
+    "ort": "Mühlhausen/Thüringen"
+  },
+  {
+    "name": "Sparkasse Vest Recklinghausen",
+    "kurzname": "Spk Recklinghausen",
+    "blz": "42650150",
+    "bic": "WELADED1REK",
+    "plz": "45608",
+    "ort": "Recklinghausen"
+  },
+  {
+    "name": "Sparkasse Vogtland",
+    "kurzname": "Sparkasse Vogtland",
+    "blz": "87058000",
+    "bic": "WELADED1PLX",
+    "plz": "08506",
+    "ort": "Plauen"
+  },
+  {
+    "name": "Sparkasse Vorderpfalz",
+    "kurzname": "Sparkasse Vorderpfalz",
+    "blz": "54550010",
+    "bic": "LUHSDE6AXXX",
+    "plz": "67059",
+    "ort": "Ludwigshafen am Rhein"
+  },
+  {
+    "name": "Sparkasse Vorpommern",
+    "kurzname": "Spk Vorpommern",
+    "blz": "15050500",
+    "bic": "NOLADE21GRW",
+    "plz": "17462",
+    "ort": "Greifswald"
+  },
+  {
+    "name": "Sparkasse Vorpommern auf Rügen",
+    "kurzname": "Spk Vorpommern auf Rügen",
+    "blz": "13051042",
+    "bic": "NOLADE21RUE",
+    "plz": "18525",
+    "ort": "Bergen auf Rügen"
+  },
+  {
+    "name": "Sparkasse Waldeck-Frankenberg",
+    "kurzname": "Spk Waldeck-Frankenberg",
+    "blz": "52350005",
+    "bic": "HELADEF1KOR",
+    "plz": "34497",
+    "ort": "Korbach"
+  },
+  {
+    "name": "Sparkasse Werra-Meißner",
+    "kurzname": "Sparkasse Werra-Meißner",
+    "blz": "52250030",
+    "bic": "HELADEF1ESW",
+    "plz": "37254",
+    "ort": "Eschwege"
+  },
+  {
+    "name": "Sparkasse Westerwald-Sieg",
+    "kurzname": "Sparkasse Westerwald-Sieg",
+    "blz": "57351030",
+    "bic": "MALADE51AKI",
+    "plz": "56470",
+    "ort": "Bad Marienberg (Westerwald)"
+  },
+  {
+    "name": "Sparkasse Westholstein",
+    "kurzname": "Spk Westholstein",
+    "blz": "22250020",
+    "bic": "NOLADE21WHO",
+    "plz": "25509",
+    "ort": "Itzehoe"
+  },
+  {
+    "name": "Sparkasse Westmünsterland",
+    "kurzname": "Sparkasse Westmünsterland",
+    "blz": "40154530",
+    "bic": "WELADE3WXXX",
+    "plz": "48683",
+    "ort": "Ahaus"
+  },
+  {
+    "name": "Sparkasse Wetzlar",
+    "kurzname": "Sparkasse Wetzlar",
+    "blz": "51550035",
+    "bic": "HELADEF1WET",
+    "plz": "35576",
+    "ort": "Wetzlar"
+  },
+  {
+    "name": "Sparkasse Wiesental",
+    "kurzname": "Sparkasse Wiesental",
+    "blz": "68351557",
+    "bic": "SOLADES1SFH",
+    "plz": "79650",
+    "ort": "Schopfheim"
+  },
+  {
+    "name": "Sparkasse Wilhelmshaven",
+    "kurzname": "Sparkasse Wilhelmshaven",
+    "blz": "28250110",
+    "bic": "BRLADE21WHV",
+    "plz": "26363",
+    "ort": "Wilhelmshaven"
+  },
+  {
+    "name": "Sparkasse Witten",
+    "kurzname": "Sparkasse Witten",
+    "blz": "45250035",
+    "bic": "WELADED1WTN",
+    "plz": "58449",
+    "ort": "Witten"
+  },
+  {
+    "name": "Sparkasse Wittenberg",
+    "kurzname": "Sparkasse Wittenberg",
+    "blz": "80550101",
+    "bic": "NOLADE21WBL",
+    "plz": "06872",
+    "ort": "Lutherstadt Wittenberg"
+  },
+  {
+    "name": "Sparkasse Wittgenstein",
+    "kurzname": "Sparkasse Wittgenstein",
+    "blz": "46053480",
+    "bic": "WELADED1BEB",
+    "plz": "57304",
+    "ort": "Bad Berleburg"
+  },
+  {
+    "name": "Sparkasse Wolfach",
+    "kurzname": "Spk Wolfach",
+    "blz": "66452776",
+    "bic": "SOLADES1WOF",
+    "plz": "77705",
+    "ort": "Wolfach"
+  },
+  {
+    "name": "Sparkasse Zollernalb",
+    "kurzname": "Spk Zollernalb",
+    "blz": "65351260",
+    "bic": "SOLADES1BAL",
+    "plz": "72334",
+    "ort": "Balingen"
+  },
+  {
+    "name": "Sparkasse Zwickau",
+    "kurzname": "Sparkasse Zwickau",
+    "blz": "87055000",
+    "bic": "WELADED1ZWI",
+    "plz": "08009",
+    "ort": "Zwickau"
+  },
+  {
+    "name": "Sparkasse am Niederrhein",
+    "kurzname": "Sparkasse am Niederrhein",
+    "blz": "35450000",
+    "bic": "WELADED1MOR",
+    "plz": "47439",
+    "ort": "Moers"
+  },
+  {
+    "name": "Sparkasse an Ennepe und Ruhr",
+    "kurzname": "Spk an Ennepe und Ruhr",
+    "blz": "45450050",
+    "bic": "WELADED1GEV",
+    "plz": "58265",
+    "ort": "Gevelsberg"
+  },
+  {
+    "name": "Sparkasse an Volme und Ruhr",
+    "kurzname": "Sparkasse an Volme und Ruhr",
+    "blz": "45050001",
+    "bic": "WELADE3HXXX",
+    "plz": "58042",
+    "ort": "Hagen"
+  },
+  {
+    "name": "Sparkasse an der Lippe",
+    "kurzname": "Sparkasse an der Lippe",
+    "blz": "44152370",
+    "bic": "WELADED1LUN",
+    "plz": "44530",
+    "ort": "Lünen"
+  },
+  {
+    "name": "Sparkasse der Stadt Iserlohn",
+    "kurzname": "Spk der Stadt Iserlohn",
+    "blz": "44550045",
+    "bic": "WELADED1ISL",
+    "plz": "58634",
+    "ort": "Iserlohn"
+  },
+  {
+    "name": "Sparkasse im Landkreis Cham",
+    "kurzname": "Spk im Landkreis Cham",
+    "blz": "74251020",
+    "bic": "BYLADEM1CHM",
+    "plz": "93405",
+    "ort": "Cham"
+  },
+  {
+    "name": "Sparkasse im Landkreis Neustadt a.d. Aisch - Bad Windsheim",
+    "kurzname": "Sparkasse i. Lkr. NEA-BWI",
+    "blz": "76251020",
+    "bic": "BYLADEM1NEA",
+    "plz": "91413",
+    "ort": "Neustadt a.d.Aisch"
+  },
+  {
+    "name": "Sparkasse im Landkreis Schwandorf",
+    "kurzname": "Spk im Landkreis Schwandorf",
+    "blz": "75051040",
+    "bic": "BYLADEM1SAD",
+    "plz": "92408",
+    "ort": "Schwandorf"
+  },
+  {
+    "name": "Sparkasse zu Lübeck",
+    "kurzname": "Sparkasse zu Lübeck",
+    "blz": "23050101",
+    "bic": "NOLADE21SPL",
+    "plz": "23547",
+    "ort": "Lübeck"
+  },
+  {
+    "name": "Stadt-Sparkasse Haan",
+    "kurzname": "St Spk Haan",
+    "blz": "30351220",
+    "bic": "WELADED1HAA",
+    "plz": "42781",
+    "ort": "Haan"
+  },
+  {
+    "name": "Stadt-Sparkasse Langenfeld",
+    "kurzname": "St Spk Langenfeld",
+    "blz": "37551780",
+    "bic": "WELADED1LAF",
+    "plz": "40740",
+    "ort": "Langenfeld (Rheinland)"
+  },
+  {
+    "name": "Stadt-Sparkasse Solingen",
+    "kurzname": "St Spk Solingen",
+    "blz": "34250000",
+    "bic": "SOLSDE33XXX",
+    "plz": "42648",
+    "ort": "Solingen"
+  },
+  {
+    "name": "Städtische Sparkasse Offenbach a.M.",
+    "kurzname": "Städtische Spk Offenbach",
+    "blz": "50550020",
+    "bic": "HELADEF1OFF",
+    "plz": "63019",
+    "ort": "Offenbach am Main"
+  },
+  {
+    "name": "Südtiroler Sparkasse Niederlassung München",
+    "kurzname": "Südt. Sparkasse München",
+    "blz": "70012600",
+    "bic": "SUSKDEM1XXX",
+    "plz": "81371",
+    "ort": "München"
+  },
+  {
+    "name": "Taunus-Sparkasse",
+    "kurzname": "Taunus-Sparkasse Bad Hombg",
+    "blz": "51250000",
+    "bic": "HELADEF1TSK",
+    "plz": "61288",
+    "ort": "Bad Homburg"
+  },
+  {
+    "name": "Vereinigte Sparkasse im Märkischen Kreis",
+    "kurzname": "Ver Spk Plettenberg",
+    "blz": "45851020",
+    "bic": "WELADED1PLB",
+    "plz": "58816",
+    "ort": "Plettenberg"
+  },
+  {
+    "name": "Vereinigte Sparkassen Eschenbach i d Opf",
+    "kurzname": "Ver Spk Eschenbach",
+    "blz": "75351960",
+    "bic": "BYLADEM1ESB",
+    "plz": "92660",
+    "ort": "Neustadt a.d.Waldnaab"
+  },
+  {
+    "name": "Wartburg-Sparkasse",
+    "kurzname": "Wartburg-Sparkasse",
+    "blz": "84055050",
+    "bic": "HELADEF1WAK",
+    "plz": "99804",
+    "ort": "Eisenach"
+  },
+  {
+    "name": "Weser-Elbe Sparkasse",
+    "kurzname": "Weser-Elbe Sparkasse, BHV",
+    "blz": "29250000",
+    "bic": "BRLADE21BRS",
+    "plz": "27568",
+    "ort": "Bremerhaven"
+  }
+]

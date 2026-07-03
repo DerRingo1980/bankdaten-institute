@@ -1,0 +1,106 @@
+[
+  {
+    "name": "N26 Bank",
+    "kategorie": "Neobank",
+    "blz": "10011001",
+    "bic": "NTSBDEB1XXX",
+    "plz": "10179",
+    "ort": "Berlin"
+  },
+  {
+    "name": "Trade Republic Bank",
+    "kategorie": "Neobank",
+    "blz": "10012345",
+    "bic": "TRBKDEBBXXX",
+    "plz": "10119",
+    "ort": "Berlin"
+  },
+  {
+    "name": "Revolut Bank, Zweigniederlassung Deutschland",
+    "kategorie": "Neobank",
+    "blz": "10010178",
+    "bic": "REVODEB2XXX",
+    "plz": "10117",
+    "ort": "Berlin"
+  },
+  {
+    "name": "bunq Niederlassung Deutschland",
+    "kategorie": "Neobank",
+    "blz": "37019000",
+    "bic": "BUNQDE82XXX",
+    "plz": "50667",
+    "ort": "Köln"
+  },
+  {
+    "name": "C24 Bank",
+    "kategorie": "Neobank",
+    "blz": "50024024",
+    "bic": "DEFFDEFFXXX",
+    "plz": "60327",
+    "ort": "Frankfurt am Main"
+  },
+  {
+    "name": "Klarna Bank, German Branch",
+    "kategorie": "Neobank",
+    "blz": "10010300",
+    "bic": "KLRNDEBEXXX",
+    "plz": "10115",
+    "ort": "Berlin"
+  },
+  {
+    "name": "Scalable Capital Bank",
+    "kategorie": "Neobank",
+    "blz": "70022424",
+    "bic": "SCABDEMMXXX",
+    "plz": null,
+    "ort": "München"
+  },
+  {
+    "name": "ING-DiBa",
+    "kategorie": "Direktbank",
+    "blz": "50010517",
+    "bic": "INGDDEFFXXX",
+    "plz": null,
+    "ort": "Frankfurt am Main"
+  },
+  {
+    "name": "Deutsche Kreditbank (DKB)",
+    "kategorie": "Direktbank",
+    "blz": "12030000",
+    "bic": "BYLADEM1001",
+    "plz": "10117",
+    "ort": "Berlin"
+  },
+  {
+    "name": "comdirect (Geschäftsfeld der Commerzbank)",
+    "kategorie": "Direktbank",
+    "blz": "20041111",
+    "bic": "COBADEHDXXX",
+    "plz": "25449",
+    "ort": "Quickborn"
+  },
+  {
+    "name": "norisbank",
+    "kategorie": "Direktbank",
+    "blz": "10077777",
+    "bic": "NORSDE51XXX",
+    "plz": "10625",
+    "ort": "Berlin"
+  },
+  {
+    "name": "Openbank Deutschland",
+    "kategorie": "Direktbank",
+    "blz": "10033300",
+    "bic": "SCFBDE33XXX",
+    "plz": "41061",
+    "ort": "Mönchengladbach"
+  },
+  {
+    "name": "1822direkt (Geschäftsfeld der Frankfurter Sparkasse)",
+    "kategorie": "Direktbank",
+    "blz": "50050222",
+    "bic": "HELADEF1822",
+    "plz": "60255",
+    "ort": "Frankfurt am Main"
+  }
+]
