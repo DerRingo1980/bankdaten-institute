@@ -1,0 +1,9 @@
+title: "Bankdaten.de Bankstellenverzeichnis"
+description: "Offener, redaktionell aufbereiteter Datensatz deutscher Kreditinstitute (Sparkassen, Volksbanken, Raiffeisenbanken, Direktbanken, Neobanken). Original-Domain ist bankdaten.de (Ratgeberportal zu Banken und Finanzprodukten)."
+tagline: "Offene Bankdaten aus Deutschland"
+lang: de
+url: "https://derringo1980.github.io"
+baseurl: "/bankdaten-institute"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
